@@ -1,0 +1,201 @@
+{
+    "video_fn": "OEIzRFZ2eFBKNzA=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 0.48,
+                    "label": "0"
+                },
+                {
+                    "start": 0.56,
+                    "end": 17.68,
+                    "label": "1"
+                },
+                {
+                    "start": 17.72,
+                    "end": 30.08,
+                    "label": "2"
+                },
+                {
+                    "start": 30.12,
+                    "end": 40.76,
+                    "label": "3"
+                },
+                {
+                    "start": 40.8,
+                    "end": 43.92,
+                    "label": "4"
+                },
+                {
+                    "start": 43.96,
+                    "end": 50.08,
+                    "label": "5"
+                },
+                {
+                    "start": 50.12,
+                    "end": 54.28,
+                    "label": "6"
+                },
+                {
+                    "start": 54.32,
+                    "end": 56.64,
+                    "label": "7"
+                },
+                {
+                    "start": 56.68,
+                    "end": 67.0,
+                    "label": "8"
+                },
+                {
+                    "start": 67.04,
+                    "end": 72.12,
+                    "label": "9"
+                },
+                {
+                    "start": 72.16,
+                    "end": 73.6,
+                    "label": "10"
+                },
+                {
+                    "start": 73.64,
+                    "end": 84.0,
+                    "label": "11"
+                },
+                {
+                    "start": 84.04,
+                    "end": 88.88,
+                    "label": "12"
+                },
+                {
+                    "start": 88.92,
+                    "end": 101.72,
+                    "label": "13"
+                },
+                {
+                    "start": 101.76,
+                    "end": 107.92,
+                    "label": "14"
+                },
+                {
+                    "start": 107.96,
+                    "end": 112.32,
+                    "label": "15"
+                },
+                {
+                    "start": 112.36,
+                    "end": 117.36,
+                    "label": "16"
+                },
+                {
+                    "start": 117.4,
+                    "end": 119.48,
+                    "label": "17"
+                },
+                {
+                    "start": 119.52,
+                    "end": 126.08,
+                    "label": "18"
+                },
+                {
+                    "start": 126.12,
+                    "end": 134.48,
+                    "label": "19"
+                },
+                {
+                    "start": 134.52,
+                    "end": 136.72,
+                    "label": "20"
+                },
+                {
+                    "start": 136.76,
+                    "end": 219.6,
+                    "label": "21"
+                },
+                {
+                    "start": 219.64,
+                    "end": 229.96,
+                    "label": "22"
+                },
+                {
+                    "start": 230.0,
+                    "end": 232.32,
+                    "label": "23"
+                },
+                {
+                    "start": 232.36,
+                    "end": 237.84,
+                    "label": "24"
+                },
+                {
+                    "start": 237.88,
+                    "end": 254.6,
+                    "label": "25"
+                },
+                {
+                    "start": 254.64,
+                    "end": 306.48,
+                    "label": "26"
+                },
+                {
+                    "start": 306.52,
+                    "end": 313.84,
+                    "label": "27"
+                },
+                {
+                    "start": 313.88,
+                    "end": 314.28,
+                    "label": "28"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:ukraine-frontverschiebung",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 314.28,
+                    "label": "ukraine-frontverschiebung"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 54.32,
+                    "end": 67.0,
+                    "label": "intensify"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "individualization_of_reporter",
+            "segments": [
+                {
+                    "start": 30.12,
+                    "end": 56.64,
+                    "label": "individualization_of_reporter"
+                },
+                {
+                    "start": 91.803,
+                    "end": 101.786,
+                    "label": "individualization_of_reporter"
+                },
+                {
+                    "start": 201.581,
+                    "end": 256.378,
+                    "label": "individualization_of_reporter"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2537 @@
+{
+    "71": {
+        "start": 471.44,
+        "end": 494.12,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            0.0,
+            2.0,
+            2.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            8.0,
+            27.0,
+            20.0,
+            10.0,
+            7.0,
+            31.0,
+            0.0,
+            36.0,
+            7.0,
+            0.0,
+            4.0,
+            10.0,
+            16.0,
+            23.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.07725321888412018,
+            0.0,
+            0.01072961373390558,
+            0.0,
+            0.002145922746781116,
+            0.015021459227467811,
+            0.8948497854077253
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.2988825269289839
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.75146484375,
+            0.62060546875,
+            0.5673828125,
+            0.5869140625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.7593851089477539,
+            0.18008287250995636,
+            0.3524496853351593,
+            0.2026548683643341
+        ],
+        "places_shot_similarity.pkl": [
+            0.8667829036712646,
+            0.743455171585083,
+            0.5323148965835571,
+            0.6785938739776611
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.8672387599945068,
+            0.8122977018356323,
+            0.6346858739852905,
+            0.5955870151519775
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.7302522659301758,
+            0.3079089820384979,
+            -0.1414860188961029,
+            0.26331770420074463
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8404757976531982,
+            0.6453962326049805,
+            0.5173156261444092,
+            0.5286884903907776
+        ],
+        "face_analysis.pkl": [
+            0.018713837810815523,
+            568,
+            1.0,
+            0.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "72": {
+        "start": 494.16,
+        "end": 498.2,
+        "strategies": [
+            "individualization_of_layperson",
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            6.0,
+            4.0,
+            3.0,
+            1.0,
+            11.0,
+            0.0,
+            12.0,
+            1.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0,
+            6.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.06896551724137931,
+            0.0,
+            0.3160919540229885,
+            0.13218390804597702,
+            0.25862068965517243,
+            0.0,
+            0.22413793103448276
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.6898929053908185
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.4111328125,
+            0.5673828125,
+            0.609375,
+            0.72216796875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.04455763101577759,
+            0.3524496853351593,
+            0.17100340127944946,
+            0.48159992694854736
+        ],
+        "places_shot_similarity.pkl": [
+            0.4099316895008087,
+            0.5323148965835571,
+            0.4851907193660736,
+            0.5593163967132568
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6462641954421997,
+            0.6346858739852905,
+            0.5774711966514587,
+            0.770356297492981
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.08207276463508606,
+            -0.1414860188961029,
+            0.15828056633472443,
+            0.15816113352775574
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.4403060972690582,
+            0.5173156261444092,
+            0.5290087461471558,
+            0.5170213580131531
+        ],
+        "face_analysis.pkl": [
+            0.003772293126459792,
+            185,
+            1.0,
+            0.9567567567567568
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "73": {
+        "start": 498.24,
+        "end": 501.56,
+        "strategies": [
+            "individualization_of_layperson",
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            6.0,
+            4.0,
+            3.0,
+            1.0,
+            11.0,
+            0.0,
+            12.0,
+            1.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0,
+            6.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.25
+        ],
+        "shot_density.pkl": [
+            0.8143178416184303
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.5869140625,
+            0.609375,
+            0.6845703125,
+            0.6142578125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.2026548683643341,
+            0.17100340127944946,
+            0.20972415804862976,
+            0.08254022896289825
+        ],
+        "places_shot_similarity.pkl": [
+            0.6785939335823059,
+            0.4851907193660736,
+            0.6231108903884888,
+            0.4413256049156189
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.5955870151519775,
+            0.5774711966514587,
+            0.6838717460632324,
+            0.6765367388725281
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.26331770420074463,
+            0.15828056633472443,
+            0.20110547542572021,
+            0.30230045318603516
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5286884903907776,
+            0.5290087461471558,
+            0.5395309925079346,
+            0.388111412525177
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "74": {
+        "start": 501.6,
+        "end": 504.4,
+        "strategies": [
+            "individualization_of_layperson",
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            6.0,
+            4.0,
+            3.0,
+            1.0,
+            11.0,
+            0.0,
+            12.0,
+            1.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0,
+            6.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.463768115942029,
+            0.0,
+            0.0,
+            0.050724637681159424,
+            0.45652173913043476,
+            0.0,
+            0.028985507246376812
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.8826210318162789
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.72216796875,
+            0.6845703125,
+            0.6708984375,
+            0.779296875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.48159992694854736,
+            0.20972415804862976,
+            0.16704672574996948,
+            0.3227480351924896
+        ],
+        "places_shot_similarity.pkl": [
+            0.5593164563179016,
+            0.623110830783844,
+            0.5197999477386475,
+            0.7064441442489624
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.770356297492981,
+            0.6838717460632324,
+            0.962324321269989,
+            0.9707654118537903
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.15816113352775574,
+            0.20110547542572021,
+            0.6493558883666992,
+            0.31005051732063293
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5170213580131531,
+            0.5395309925079346,
+            0.38177916407585144,
+            0.5092144012451172
+        ],
+        "face_analysis.pkl": [
+            0.04265274517475221,
+            142,
+            1.0,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "75": {
+        "start": 504.44,
+        "end": 507.48,
+        "strategies": [
+            "individualization_of_layperson",
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            6.0,
+            4.0,
+            3.0,
+            1.0,
+            11.0,
+            0.0,
+            12.0,
+            1.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0,
+            6.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.9124585968336073
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.6142578125,
+            0.6708984375,
+            0.69384765625,
+            0.59326171875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.08254023641347885,
+            0.16704674065113068,
+            0.22026664018630981,
+            0.05081614851951599
+        ],
+        "places_shot_similarity.pkl": [
+            0.4413256049156189,
+            0.5197999477386475,
+            0.6702482104301453,
+            0.43805718421936035
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6765367388725281,
+            0.962324321269989,
+            0.9563074707984924,
+            0.6945419907569885
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.30230045318603516,
+            0.6493558883666992,
+            0.3543013334274292,
+            0.24769410490989685
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.388111412525177,
+            0.38177916407585144,
+            0.4090057909488678,
+            0.2871623635292053
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "76": {
+        "start": 507.52,
+        "end": 510.8,
+        "strategies": [
+            "individualization_of_layperson",
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            6.0,
+            4.0,
+            3.0,
+            1.0,
+            11.0,
+            0.0,
+            12.0,
+            1.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0,
+            6.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.07777777777777778,
+            0.0,
+            0.4,
+            0.0,
+            0.4888888888888889,
+            0.0,
+            0.03333333333333333
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.25
+        ],
+        "shot_density.pkl": [
+            0.9102635273772667
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.779296875,
+            0.69384765625,
+            0.5029296875,
+            0.76513671875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.32274800539016724,
+            0.220266655087471,
+            0.10620812326669693,
+            0.4274279773235321
+        ],
+        "places_shot_similarity.pkl": [
+            0.7064441442489624,
+            0.6702482104301453,
+            0.5569837689399719,
+            0.7934067249298096
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.9707654118537903,
+            0.9563074707984924,
+            0.6876266002655029,
+            0.7303721904754639
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.31005051732063293,
+            0.3543013334274292,
+            0.12507101893424988,
+            0.20373180508613586
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5092144012451172,
+            0.4090057909488678,
+            0.2940693497657776,
+            0.494887113571167
+        ],
+        "face_analysis.pkl": [
+            0.1806046420304233,
+            112,
+            0.9285714285714286,
+            0.7410714285714286
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "77": {
+        "start": 510.84,
+        "end": 513.76,
+        "strategies": [
+            "individualization_of_layperson",
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            6.0,
+            4.0,
+            3.0,
+            1.0,
+            11.0,
+            0.0,
+            12.0,
+            1.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0,
+            6.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0
+        ],
+        "shot_density.pkl": [
+            0.8860642419324878
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.59326171875,
+            0.5029296875,
+            0.55615234375,
+            0.64599609375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.05081614851951599,
+            0.10620811581611633,
+            0.10672029852867126,
+            0.0370604433119297
+        ],
+        "places_shot_similarity.pkl": [
+            0.43805718421936035,
+            0.5569838285446167,
+            0.6023146510124207,
+            0.5472644567489624
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6945419907569885,
+            0.6876266002655029,
+            0.6986621022224426,
+            0.7182164192199707
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.24769410490989685,
+            0.12507101893424988,
+            0.10515911877155304,
+            0.10820360481739044
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.2871623635292053,
+            0.2940693497657776,
+            0.3559260070323944,
+            0.40681514143943787
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "78": {
+        "start": 513.799,
+        "end": 523.28,
+        "strategies": [
+            "individualization_of_layperson",
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            2.0,
+            9.0,
+            3.0,
+            2.0,
+            2.0,
+            0.0,
+            3.0,
+            0.0,
+            0.0,
+            4.0,
+            1.0,
+            3.0,
+            7.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.8127853881278538,
+            0.0,
+            0.0319634703196347,
+            0.0,
+            0.0,
+            0.0136986301369863,
+            0.1415525114155251
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.25
+        ],
+        "shot_density.pkl": [
+            0.8329114134190185
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.76513671875,
+            0.55615234375,
+            0.59619140625,
+            0.55615234375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.4274279773235321,
+            0.10672028362751007,
+            0.12587712705135345,
+            0.034989770501852036
+        ],
+        "places_shot_similarity.pkl": [
+            0.7934067249298096,
+            0.6023146510124207,
+            0.635187029838562,
+            0.611271321773529
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7303721904754639,
+            0.6986621022224426,
+            0.7461281418800354,
+            0.708979070186615
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.20373180508613586,
+            0.10515911877155304,
+            0.32893604040145874,
+            0.39435940980911255
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.494887113571167,
+            0.3559260070323944,
+            0.6267895102500916,
+            0.5219988822937012
+        ],
+        "face_analysis.pkl": [
+            0.10314393349932574,
+            238,
+            1.0,
+            0.9621848739495799
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "79": {
+        "start": 523.32,
+        "end": 527.24,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.75
+        ],
+        "whisperx_pos.pkl": [
+            4.0,
+            8.0,
+            11.0,
+            4.0,
+            3.0,
+            8.0,
+            0.0,
+            14.0,
+            0.0,
+            0.0,
+            4.0,
+            3.0,
+            5.0,
+            11.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.799804967420196
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.64599609375,
+            0.59619140625,
+            0.82177734375,
+            0.7451171875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.0370604433119297,
+            0.12587712705135345,
+            0.3681519031524658,
+            0.3815140128135681
+        ],
+        "places_shot_similarity.pkl": [
+            0.5472643971443176,
+            0.6351871490478516,
+            0.7049611210823059,
+            0.6677277088165283
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7182164192199707,
+            0.7461281418800354,
+            0.8259817361831665,
+            0.967113733291626
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.10820360481739044,
+            0.32893604040145874,
+            0.7314212918281555,
+            0.5696332454681396
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.40681514143943787,
+            0.6267895102500916,
+            0.724358856678009,
+            0.6141831278800964
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.5,
+            2,
+            0.0,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.5
+        ]
+    },
+    "80": {
+        "start": 527.28,
+        "end": 529.76,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            3.0,
+            6.0,
+            2.0,
+            1.0,
+            1.0,
+            6.0,
+            0.0,
+            11.0,
+            0.0,
+            0.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.7801749602849788
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.55615234375,
+            0.82177734375,
+            0.7529296875,
+            0.54638671875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.034989770501852036,
+            0.3681519627571106,
+            0.49658268690109253,
+            0.03426850587129593
+        ],
+        "places_shot_similarity.pkl": [
+            0.6112712621688843,
+            0.7049611210823059,
+            0.8273320198059082,
+            0.47127020359039307
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.708979070186615,
+            0.8259817361831665,
+            0.8438693284988403,
+            0.8047253489494324
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.39435940980911255,
+            0.7314212918281555,
+            0.4065493047237396,
+            0.30506426095962524
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5219988822937012,
+            0.724358856678009,
+            0.5601401329040527,
+            0.31888508796691895
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "81": {
+        "start": 529.8,
+        "end": 532.6,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            3.0,
+            6.0,
+            2.0,
+            1.0,
+            1.0,
+            6.0,
+            0.0,
+            11.0,
+            0.0,
+            0.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.7507871079982104
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.7451171875,
+            0.7529296875,
+            0.53857421875,
+            0.484619140625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.3815139830112457,
+            0.49658268690109253,
+            0.06385249644517899,
+            0.003675534389913082
+        ],
+        "places_shot_similarity.pkl": [
+            0.6677277684211731,
+            0.8273319602012634,
+            0.454308420419693,
+            0.38117945194244385
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.967113733291626,
+            0.8438693284988403,
+            0.951336681842804,
+            0.9514262080192566
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5696332454681396,
+            0.4065493047237396,
+            0.4490165710449219,
+            0.2089613378047943
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6141831278800964,
+            0.5601401329040527,
+            0.3521604537963867,
+            0.39038556814193726
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "82": {
+        "start": 532.64,
+        "end": 537.6,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            3.0,
+            6.0,
+            2.0,
+            1.0,
+            1.0,
+            6.0,
+            0.0,
+            11.0,
+            0.0,
+            0.0,
+            0.0,
+            2.0,
+            2.0,
+            4.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0472972972972973,
+            0.0,
+            0.30405405405405406,
+            0.04054054054054054,
+            0.5067567567567568,
+            0.0,
+            0.10135135135135136
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.6869518364816937
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.54638671875,
+            0.53857421875,
+            0.7314453125,
+            0.70654296875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.03426850587129593,
+            0.06385249644517899,
+            0.3024858236312866,
+            0.3598736524581909
+        ],
+        "places_shot_similarity.pkl": [
+            0.47127020359039307,
+            0.4543083906173706,
+            0.8140657544136047,
+            0.6868377327919006
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.8047253489494324,
+            0.951336681842804,
+            0.9760814905166626,
+            0.7735700011253357
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.30506426095962524,
+            0.4490165710449219,
+            0.15728643536567688,
+            0.33631178736686707
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.31888508796691895,
+            0.3521604537963867,
+            0.6723605394363403,
+            0.5277013182640076
+        ],
+        "face_analysis.pkl": [
+            0.0036176015449150816,
+            181,
+            0.9613259668508287,
+            0.9447513812154696
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "83": {
+        "start": 537.64,
+        "end": 552.04,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            3.0,
+            2.0,
+            1.0,
+            6.0,
+            3.0,
+            5.0,
+            0.0,
+            3.0,
+            0.0,
+            0.0,
+            3.0,
+            0.0,
+            5.0,
+            10.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.26053639846743293,
+            0.0,
+            0.0,
+            0.0038314176245210726,
+            0.11494252873563218,
+            0.0,
+            0.6206896551724138
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.5870624421502145
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.484619140625,
+            0.7314453125,
+            0.66015625,
+            0.61279296875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.0036755341570824385,
+            0.3024858236312866,
+            0.32654938101768494,
+            0.2453756481409073
+        ],
+        "places_shot_similarity.pkl": [
+            0.38117945194244385,
+            0.8140657544136047,
+            0.7317692041397095,
+            0.5993717312812805
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.9514262080192566,
+            0.9760814905166626,
+            0.8123483657836914,
+            0.783726692199707
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.2089613378047943,
+            0.15728643536567688,
+            0.6540434956550598,
+            0.5193238258361816
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.39038556814193726,
+            0.6723605394363403,
+            0.6578394770622253,
+            0.5271880626678467
+        ],
+        "face_analysis.pkl": [
+            0.03579832256078782,
+            361,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ]
+    },
+    "84": {
+        "start": 552.08,
+        "end": 555.52,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            4.0,
+            7.0,
+            5.0,
+            8.0,
+            3.0,
+            8.0,
+            0.0,
+            11.0,
+            3.0,
+            0.0,
+            7.0,
+            0.0,
+            9.0,
+            15.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.9016393442622951,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.09836065573770492
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.63891218406395
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.70654296875,
+            0.66015625,
+            0.9228515625,
+            0.62255859375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.3598736524581909,
+            0.32654938101768494,
+            0.7752595543861389,
+            0.2971569299697876
+        ],
+        "places_shot_similarity.pkl": [
+            0.6868377327919006,
+            0.7317692041397095,
+            0.8888996839523315,
+            0.6912007331848145
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7735700011253357,
+            0.8123483657836914,
+            0.9172133207321167,
+            0.7780212163925171
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.33631178736686707,
+            0.6540434956550598,
+            0.6725340485572815,
+            0.7998602390289307
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5277013182640076,
+            0.6578394770622253,
+            0.898221492767334,
+            0.5456722974777222
+        ],
+        "face_analysis.pkl": [
+            0.003361049027955157,
+            87,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.5,
+            2,
+            0.0,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.5,
+            0.0,
+            0.5
+        ]
+    },
+    "85": {
+        "start": 555.56,
+        "end": 559.32,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            5.0,
+            4.0,
+            2.0,
+            0.0,
+            3.0,
+            0.0,
+            8.0,
+            3.0,
+            0.0,
+            4.0,
+            0.0,
+            4.0,
+            5.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.6645807675949332
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.61279296875,
+            0.9228515625,
+            0.60693359375,
+            0.7490234375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.2453756481409073,
+            0.7752595543861389,
+            0.2878170311450958,
+            0.5813454389572144
+        ],
+        "places_shot_similarity.pkl": [
+            0.5993717312812805,
+            0.8888996839523315,
+            0.7015400528907776,
+            0.8339424133300781
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.783726692199707,
+            0.9172133207321167,
+            0.7502688765525818,
+            0.8775240778923035
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5193238258361816,
+            0.6725340485572815,
+            0.6236522197723389,
+            0.5867530703544617
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5271880626678467,
+            0.898221492767334,
+            0.5068473815917969,
+            0.464214563369751
+        ],
+        "face_analysis.pkl": [
+            0.000992629142300194,
+            95,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "86": {
+        "start": 559.36,
+        "end": 562.76,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            5.0,
+            4.0,
+            2.0,
+            0.0,
+            3.0,
+            0.0,
+            8.0,
+            3.0,
+            0.0,
+            4.0,
+            0.0,
+            4.0,
+            5.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.4880952380952381,
+            0.0,
+            0.5119047619047619
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.25
+        ],
+        "shot_density.pkl": [
+            0.6530212103404922
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.62255859375,
+            0.60693359375,
+            0.83544921875,
+            0.83251953125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.2971569299697876,
+            0.2878170311450958,
+            0.5255019664764404,
+            0.6709560751914978
+        ],
+        "places_shot_similarity.pkl": [
+            0.6912006735801697,
+            0.7015400528907776,
+            0.750278651714325,
+            0.7906247973442078
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7780212163925171,
+            0.7502688765525818,
+            0.7835102677345276,
+            0.7405080199241638
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.7998602390289307,
+            0.6236522197723389,
+            0.8245949149131775,
+            0.588149905204773
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5456722974777222,
+            0.5068473815917969,
+            0.7528852224349976,
+            0.7380250692367554
+        ],
+        "face_analysis.pkl": [
+            0.10826299167384436,
+            86,
+            1.0,
+            0.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "87": {
+        "start": 562.8,
+        "end": 567.64,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            1.0,
+            5.0,
+            4.0,
+            2.0,
+            0.0,
+            3.0,
+            0.0,
+            8.0,
+            3.0,
+            0.0,
+            4.0,
+            0.0,
+            4.0,
+            5.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.10743801652892562,
+            0.0,
+            0.8925619834710744
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.5877971487174194
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.7490234375,
+            0.83544921875,
+            0.8310546875,
+            0.6181640625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5813454389572144,
+            0.5255019664764404,
+            0.6259350776672363,
+            0.44510477781295776
+        ],
+        "places_shot_similarity.pkl": [
+            0.8339424133300781,
+            0.750278651714325,
+            0.8093327283859253,
+            0.6255029439926147
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.8775240778923035,
+            0.7835102677345276,
+            0.7788680195808411,
+            0.6008135676383972
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5867530703544617,
+            0.8245949149131775,
+            0.5515685677528381,
+            0.462388813495636
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.464214563369751,
+            0.7528852224349976,
+            0.5757379531860352,
+            0.4581871032714844
+        ],
+        "face_analysis.pkl": [
+            0.01606051406597855,
+            122,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "88": {
+        "start": 567.68,
+        "end": 585.56,
+        "strategies": [],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            3.0,
+            5.0,
+            9.0,
+            5.0,
+            2.0,
+            9.0,
+            0.0,
+            8.0,
+            0.0,
+            0.0,
+            4.0,
+            0.0,
+            4.0,
+            7.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.037914691943127965,
+            0.0,
+            0.002369668246445498,
+            0.7298578199052133,
+            0.0,
+            0.002369668246445498,
+            0.22748815165876776
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.25
+        ],
+        "shot_density.pkl": [
+            0.4025837875308677
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.83251953125,
+            0.8310546875,
+            0.60205078125,
+            0.59814453125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.6709560751914978,
+            0.6259350776672363,
+            0.4374493956565857,
+            0.49780356884002686
+        ],
+        "places_shot_similarity.pkl": [
+            0.7906247973442078,
+            0.8093327283859253,
+            0.674111545085907,
+            0.7111318111419678
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7405080199241638,
+            0.7788680195808411,
+            0.605086088180542,
+            0.533639132976532
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.588149905204773,
+            0.5515685677528381,
+            0.3722494840621948,
+            0.21843883395195007
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.7380250692367554,
+            0.5757379531860352,
+            0.41938114166259766,
+            0.44323474168777466
+        ],
+        "face_analysis.pkl": [
+            0.07256741209215167,
+            448,
+            1.0,
+            0.9151785714285714
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "89": {
+        "start": 585.6,
+        "end": 591.4,
+        "strategies": [
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.75
+        ],
+        "whisperx_pos.pkl": [
+            5.0,
+            8.0,
+            12.0,
+            7.0,
+            2.0,
+            15.0,
+            0.0,
+            14.0,
+            0.0,
+            0.0,
+            5.0,
+            2.0,
+            7.0,
+            12.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.012422360248447204,
+            0.0,
+            0.18012422360248448,
+            0.018633540372670808,
+            0.5279503105590062,
+            0.0,
+            0.2608695652173913
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.4051477575678338
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.6181640625,
+            0.60205078125,
+            0.798828125,
+            0.47607421875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.44510480761528015,
+            0.43744945526123047,
+            0.6470037698745728,
+            0.13749122619628906
+        ],
+        "places_shot_similarity.pkl": [
+            0.6255029439926147,
+            0.674111545085907,
+            0.7003647685050964,
+            0.6422052383422852
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6008135676383972,
+            0.605086088180542,
+            0.5569412708282471,
+            0.6667876839637756
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.462388813495636,
+            0.3722494840621948,
+            0.30274009704589844,
+            0.4481823742389679
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.4581871032714844,
+            0.41938114166259766,
+            0.612368106842041,
+            0.3938455581665039
+        ],
+        "face_analysis.pkl": [
+            0.01979280653759821,
+            176,
+            1.0,
+            0.48863636363636365
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.5,
+            2,
+            0.0,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "90": {
+        "start": 591.44,
+        "end": 597.2,
+        "strategies": [
+            "emotionalization"
+        ],
+        "stories": [
+            "story04:Energiesparh\u00e4user"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            2.0,
+            3.0,
+            3.0,
+            2.0,
+            0.0,
+            6.0,
+            0.0,
+            6.0,
+            0.0,
+            0.0,
+            1.0,
+            2.0,
+            3.0,
+            5.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.07272727272727272,
+            0.0,
+            0.09454545454545454,
+            0.0,
+            0.7709090909090909,
+            0.0,
+            0.06181818181818182
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.25
+        ],
+        "shot_density.pkl": [
+            0.4079434415002847
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.59814453125,
+            0.798828125,
+            0.474853515625,
+            0.42431640625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.49780356884002686,
+            0.6470037698745728,
+            0.1440473347902298,
+            0.09425418823957443
+        ],
+        "places_shot_similarity.pkl": [
+            0.7111318707466125,
+            0.7003647685050964,
+            0.5528997778892517,
+            0.45712435245513916
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.533639132976532,
+            0.5569412708282471,
+            0.5960096120834351,
+            0.5577577948570251
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.21843883395195007,
+            0.30274009704589844,
+            0.1997455358505249,
+            0.4492299258708954
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.44323474168777466,
+            0.612368106842041,
+            0.44280093908309937,
+            0.2930760085582733
+        ],
+        "face_analysis.pkl": [
+            0.07374698009791401,
+            290,
+            1.0,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    }
+}

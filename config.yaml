@@ -1,0 +1,60 @@
+base_path: "C:/Users/Lea/Documents/MA/Repo/TemporalPatternDetection"
+
+project:
+  name: "Temporal Pattern Detection"
+  author: "L.R."
+  version: "1.0"
+  created: "2024-01-01"
+
+paths:
+  results: "results"
+  video_list: "data/video_list.txt"
+  video_mapping: data/manual_map.json
+  raw:
+    targets: "data/raw/targets"
+    feature_pickles: "data/raw/feature_pickles"
+    videos: "data/raw/videos"
+  processing:
+    converted_targets: "data/processing/converted_targets"
+    aggregated_shots: "data/processing/aggregated_shots"
+    data_splits: "data/processing/data_splits"
+    shot_frames: "data/processing/shot_frames"
+    feature_json: "data/processing/features.json"
+
+  final:
+    feature_vectors: "data/final/feature_vectors"
+    feature_vectors_unscaled: "data/final/feature_vectors_unscaled"
+    rf_dataset: "data/final/rf_dataset"
+    vlm_data: "data/final/vlm_data"
+    transformer_dataset: "data/final/transformer_dataset"
+  model_ouputs:
+    vlm: "data/model_ouputs/vlm"
+  statistics:
+    full_dataset_statistics: "data/statistics/full_dataset_statistics"
+    training_statistics: "data/statistics/training_statistics"
+    paths:
+  models: 
+    transformer_checkpoints: "results/models/transformer"
+    parameters: "scripts/model_training/model_parameters.json"
+
+
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+dataset:
+  train_ratio: 0.85
+  test_ratio: 0.2
+  shuffle: true
+  random_seed: 42
+  random_seed2: 8
+  random_seed3: 33
+  k: 5
+  window_size: 2
+  test_channel: "Welt"
+models:
+  vlm_name: "Qwen/Qwen2.5-VL-3B-Instruct"
+execution:
+  use_gpu: true
+  num_workers: 4

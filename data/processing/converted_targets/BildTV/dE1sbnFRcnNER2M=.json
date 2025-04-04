@@ -1,0 +1,366 @@
+{
+    "video_fn": "dE1sbnFRcnNER2M=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 32.84,
+                    "label": "0"
+                },
+                {
+                    "start": 32.88,
+                    "end": 34.48,
+                    "label": "1"
+                },
+                {
+                    "start": 34.52,
+                    "end": 35.88,
+                    "label": "2"
+                },
+                {
+                    "start": 35.92,
+                    "end": 37.48,
+                    "label": "3"
+                },
+                {
+                    "start": 37.52,
+                    "end": 39.52,
+                    "label": "4"
+                },
+                {
+                    "start": 39.56,
+                    "end": 42.44,
+                    "label": "5"
+                },
+                {
+                    "start": 42.48,
+                    "end": 44.72,
+                    "label": "6"
+                },
+                {
+                    "start": 44.76,
+                    "end": 49.68,
+                    "label": "7"
+                },
+                {
+                    "start": 49.72,
+                    "end": 52.4,
+                    "label": "8"
+                },
+                {
+                    "start": 52.44,
+                    "end": 55.8,
+                    "label": "9"
+                },
+                {
+                    "start": 55.84,
+                    "end": 58.0,
+                    "label": "10"
+                },
+                {
+                    "start": 58.04,
+                    "end": 61.84,
+                    "label": "11"
+                },
+                {
+                    "start": 61.88,
+                    "end": 64.28,
+                    "label": "12"
+                },
+                {
+                    "start": 64.319,
+                    "end": 68.36,
+                    "label": "13"
+                },
+                {
+                    "start": 68.4,
+                    "end": 76.28,
+                    "label": "14"
+                },
+                {
+                    "start": 76.32,
+                    "end": 80.88,
+                    "label": "15"
+                },
+                {
+                    "start": 80.92,
+                    "end": 85.72,
+                    "label": "16"
+                },
+                {
+                    "start": 85.76,
+                    "end": 90.92,
+                    "label": "17"
+                },
+                {
+                    "start": 90.96,
+                    "end": 95.52,
+                    "label": "18"
+                },
+                {
+                    "start": 95.56,
+                    "end": 99.56,
+                    "label": "19"
+                },
+                {
+                    "start": 99.6,
+                    "end": 106.68,
+                    "label": "20"
+                },
+                {
+                    "start": 106.72,
+                    "end": 111.12,
+                    "label": "21"
+                },
+                {
+                    "start": 111.16,
+                    "end": 113.04,
+                    "label": "22"
+                },
+                {
+                    "start": 113.08,
+                    "end": 119.36,
+                    "label": "23"
+                },
+                {
+                    "start": 119.4,
+                    "end": 129.639,
+                    "label": "24"
+                },
+                {
+                    "start": 129.68,
+                    "end": 136.48,
+                    "label": "25"
+                },
+                {
+                    "start": 136.52,
+                    "end": 146.64,
+                    "label": "26"
+                },
+                {
+                    "start": 146.68,
+                    "end": 149.36,
+                    "label": "27"
+                },
+                {
+                    "start": 149.4,
+                    "end": 154.96,
+                    "label": "28"
+                },
+                {
+                    "start": 155.0,
+                    "end": 158.8,
+                    "label": "29"
+                },
+                {
+                    "start": 158.84,
+                    "end": 165.32,
+                    "label": "30"
+                },
+                {
+                    "start": 165.36,
+                    "end": 173.24,
+                    "label": "31"
+                },
+                {
+                    "start": 173.28,
+                    "end": 177.84,
+                    "label": "32"
+                },
+                {
+                    "start": 177.88,
+                    "end": 182.68,
+                    "label": "33"
+                },
+                {
+                    "start": 182.72,
+                    "end": 187.88,
+                    "label": "34"
+                },
+                {
+                    "start": 187.92,
+                    "end": 196.52,
+                    "label": "35"
+                },
+                {
+                    "start": 196.56,
+                    "end": 203.64,
+                    "label": "36"
+                },
+                {
+                    "start": 203.68,
+                    "end": 208.08,
+                    "label": "37"
+                },
+                {
+                    "start": 208.12,
+                    "end": 218.16,
+                    "label": "38"
+                },
+                {
+                    "start": 218.2,
+                    "end": 225.32,
+                    "label": "39"
+                },
+                {
+                    "start": 225.36,
+                    "end": 235.48,
+                    "label": "40"
+                },
+                {
+                    "start": 235.52,
+                    "end": 238.2,
+                    "label": "41"
+                },
+                {
+                    "start": 238.24,
+                    "end": 243.8,
+                    "label": "42"
+                },
+                {
+                    "start": 243.84,
+                    "end": 247.64,
+                    "label": "43"
+                },
+                {
+                    "start": 247.68,
+                    "end": 262.079,
+                    "label": "44"
+                },
+                {
+                    "start": 262.12,
+                    "end": 266.68,
+                    "label": "45"
+                },
+                {
+                    "start": 266.72,
+                    "end": 271.52,
+                    "label": "46"
+                },
+                {
+                    "start": 271.56,
+                    "end": 276.72,
+                    "label": "47"
+                },
+                {
+                    "start": 276.76,
+                    "end": 285.36,
+                    "label": "48"
+                },
+                {
+                    "start": 285.4,
+                    "end": 292.48,
+                    "label": "49"
+                },
+                {
+                    "start": 292.52,
+                    "end": 296.92,
+                    "label": "50"
+                },
+                {
+                    "start": 296.96,
+                    "end": 307.0,
+                    "label": "51"
+                },
+                {
+                    "start": 307.04,
+                    "end": 312.16,
+                    "label": "52"
+                },
+                {
+                    "start": 312.2,
+                    "end": 316.16,
+                    "label": "53"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:kyrill-blesses-Putin's-bombs",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 312.16,
+                    "label": "kyrill-blesses-putin's-bombs"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 32.88,
+                    "end": 37.48,
+                    "label": "alternating-shot"
+                }
+            ]
+        },
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 52.44,
+                    "end": 58.0,
+                    "label": "intensify"
+                }
+            ]
+        },
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 49.72,
+                    "end": 61.84,
+                    "label": "alternating-shot"
+                }
+            ]
+        },
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 64.319,
+                    "end": 80.88,
+                    "label": "intensify"
+                }
+            ]
+        },
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 90.96,
+                    "end": 106.68,
+                    "label": "alternating-shot"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "individualization_of_elite",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 49.68,
+                    "label": "individualization_of_elite"
+                }
+            ]
+        },
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 129.68,
+                    "end": 312.16,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        }
+    ]
+}

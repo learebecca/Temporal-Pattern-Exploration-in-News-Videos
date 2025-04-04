@@ -1,0 +1,17 @@
+{
+    "strategy_order": [
+        "fragmentation",
+        "individualization_of_elite",
+        "individualization_of_reporter",
+        "fragmentation_splitscreen",
+        "emotionalization",
+        "individualization_of_layperson"
+    ],
+    "fep_order": [
+        "alternating-shot",
+        "shot-reverse-shot",
+        "cut-in",
+        "intensify",
+        "cut-away"
+    ]
+}

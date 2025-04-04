@@ -1,0 +1,435 @@
+{
+    "video_id": "Q2RiRDF6eThNeUE=",
+    "story_id": "story01",
+    "shots": [
+        {
+            "shot_label": "0",
+            "prediction": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "1",
+            "prediction": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "2",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "3",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "4",
+            "prediction": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "5",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "6",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "7",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "8",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "9",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "10",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "11",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "12",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "13",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "14",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "15",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "16",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "17",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "18",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "19",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "20",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "21",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "22",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "23",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "24",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "25",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "26",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "27",
+            "prediction": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "28",
+            "prediction": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "29",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "30",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "31",
+            "prediction": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "32",
+            "prediction": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "33",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "34",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "35",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "36",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "37",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "38",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

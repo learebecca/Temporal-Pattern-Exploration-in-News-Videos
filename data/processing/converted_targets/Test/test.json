@@ -1,0 +1,131 @@
+{
+    "video_fn": "test.mp4",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 4.4,
+                    "label": "0"
+                },
+                {
+                    "start": 4.44,
+                    "end": 9.6,
+                    "label": "1"
+                },
+                {
+                    "start": 9.68,
+                    "end": 12.4,
+                    "label": "2"
+                },
+                {
+                    "start": 12.44,
+                    "end": 14.04,
+                    "label": "3"
+                },
+                {
+                    "start": 14.08,
+                    "end": 16.079,
+                    "label": "4"
+                },
+                {
+                    "start": 16.12,
+                    "end": 18.52,
+                    "label": "5"
+                },
+                {
+                    "start": 18.56,
+                    "end": 23.52,
+                    "label": "6"
+                },
+                {
+                    "start": 23.56,
+                    "end": 35.56,
+                    "label": "7"
+                },
+                {
+                    "start": 35.6,
+                    "end": 106.92,
+                    "label": "8"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:wladimir-klitschko",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 35.56,
+                    "label": "wladimir-klitschko"
+                }
+            ]
+        },
+        {
+            "name": "story02:expert-ukraine",
+            "segments": [
+                {
+                    "start": 35.6,
+                    "end": 106.92,
+                    "label": "expert-ukraine"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "fep:alternating-shotsa",
+            "segments": [
+                {
+                    "start": 12.44,
+                    "end": 35.56,
+                    "label": "alternating-shotsa"
+                }
+            ]
+        },
+        {
+            "name": "fep:shot-reverse-shot",
+            "segments": [
+                {
+                    "start": 4.44,
+                    "end": 14.04,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 16.12,
+                    "end": 106.92,
+                    "label": "shot-reverse-shot"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "strategy:fragmentation-splitscreen",
+            "segments": [
+                {
+                    "start": 4.44,
+                    "end": 14.04,
+                    "label": "fragmentation-splitscreen"
+                },
+                {
+                    "start": 23.56,
+                    "end": 106.92,
+                    "label": "fragmentation-splitscreen"
+                }
+            ]
+        },
+        {
+            "name": "strategy:emotionalization-v2",
+            "segments": [
+                {
+                    "start": 4.44,
+                    "end": 14.04,
+                    "label": "emotionalization-v2"
+                }
+            ]
+        }
+    ]
+}

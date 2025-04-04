@@ -1,0 +1,450 @@
+{
+    "0": {
+        "start": 0.0,
+        "end": 4.4,
+        "named_entities": [
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            },
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Jens Stoltenberg",
+                "type": "EPER"
+            }
+        ],
+        "strategies": [],
+        "stories": [
+            "story01:wladimir-klitschko"
+        ],
+        "feps": [],
+        "pos_tags": [
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    "1": {
+        "start": 4.44,
+        "end": 9.6,
+        "named_entities": [
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            },
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Jens Stoltenberg",
+                "type": "EPER"
+            }
+        ],
+        "strategies": [
+           "strategy:fragmentation-splitscreen",
+           "strategy:emotionalization-v2"
+        ],
+        "stories": [
+            "story01:wladimir-klitschko"
+        ],
+        "feps": ["fep:shot-reverse-shot"],
+        "pos_tags": [
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    "2": {
+        "start": 9.68,
+        "end": 12.4,
+        "named_entities": [
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            },
+            {
+                "text": "Klitschko",
+                "type": "ORG"
+            },
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Jens Stoltenberg",
+                "type": "EPER"
+            },
+            {
+                "text": "Olaf Scholz",
+                "type": "EPER"
+            },
+            {
+                "text": "Ursula von der Leyen",
+                "type": "EPER"
+            },
+            {
+                "text": "\u00d6sterreichs",
+                "type": "LOC"
+            },
+            {
+                "text": "Karl Nehammer",
+                "type": "EPER"
+            },
+            {
+                "text": "Kanadas",
+                "type": "LOC"
+            },
+            {
+                "text": "Justin Trudeau",
+                "type": "EPER"
+            }
+        ],
+        "strategies": [
+           "strategy:fragmentation-splitscreen",
+           "strategy:emotionalization-v2"
+        ],
+        "stories": [
+            "story01:wladimir-klitschko"
+        ],
+        "feps": ["fep:shot-reverse-shot"],
+        "pos_tags": [
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT",
+            "NOUN",
+            "PUNCT",
+            "PRON",
+            "ADV",
+            "ADP",
+            "PROPN",
+            "VERB",
+            "PUNCT",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "DET",
+            "NOUN",
+            "ADV",
+            "VERB",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT",
+            "NOUN",
+            "PART",
+            "AUX",
+            "PUNCT",
+            "DET",
+            "PUNCT",
+            "ADV",
+            "DET",
+            "PUNCT",
+            "AUX",
+            "ADV",
+            "DET",
+            "NOUN",
+            "ADP",
+            "DET",
+            "ADJ",
+            "NOUN",
+            "PUNCT",
+            "NOUN",
+            "VERB",
+            "PUNCT",
+            "AUX",
+            "PRON",
+            "PROPN",
+            "PUNCT",
+            "NOUN",
+            "PROPN",
+            "PROPN",
+            "PUNCT",
+            "PROPN",
+            "PROPN",
+            "PUNCT",
+            "PROPN",
+            "ADP",
+            "DET",
+            "PROPN",
+            "VERB",
+            "PRON",
+            "ADV",
+            "PUNCT",
+            "CCONJ",
+            "ADV",
+            "PROPN",
+            "NOUN",
+            "PROPN",
+            "PROPN",
+            "PUNCT",
+            "CCONJ",
+            "ADV",
+            "PROPN",
+            "NOUN",
+            "PROPN",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    "3": {
+        "start": 12.44,
+        "end": 14.04,
+        "named_entities": [
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            },
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Jens Stoltenberg",
+                "type": "EPER"
+            }
+        ],
+        "strategies": [
+           "strategy:fragmentation-splitscreen",
+           "strategy:emotionalization-v2"
+        ],
+        "stories": [
+            "story01:wladimir-klitschko"
+        ],
+        "feps": [ "fep:alternating-shotsa",
+            "fep:shot-reverse-shot"],
+        "pos_tags": [
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    "4": {
+        "start": 14.08,
+        "end": 16.079,
+        "named_entities": [
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            },
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Jens Stoltenberg",
+                "type": "EPER"
+            }
+        ],
+        "strategies": [
+        ],
+        "stories": [
+            "story01:wladimir-klitschko"
+        ],
+        "feps": ["fep:alternating-shotsa"],
+        "pos_tags": [
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    "5": {
+        "start": 16.12,
+        "end": 18.52,
+        "named_entities": [
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            },
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Jens Stoltenberg",
+                "type": "EPER"
+            }
+        ],
+        "strategies": [
+        ],
+        "stories": [
+            "story01:wladimir-klitschko"
+        ],
+        "feps": ["fep:alternating-shotsa",
+    "fep:shot-reverse-shot"],
+        "pos_tags": [
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    "6": {
+        "start": 18.56,
+        "end": 23.52,
+        "named_entities": [
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            },
+            {
+                "text": "NATO",
+                "type": "ORG"
+            },
+            {
+                "text": "Jens Stoltenberg",
+                "type": "EPER"
+            }
+        ],
+        "strategies": [
+        ],
+        "stories": [
+            "story01:wladimir-klitschko"
+        ],
+        "feps": ["fep:alternating-shotsa", "fep:shot-reverse-shot"],
+        "pos_tags": [
+            "PRON",
+            "VERB",
+            "ADV",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT"
+        ]
+    },
+    "7": {
+        "start": 23.56,
+        "end": 35.56,
+        "named_entities": [
+            {
+                "text": "Klitschkos",
+                "type": "ORG"
+            },
+            {
+                "text": "Ukraine",
+                "type": "LOC"
+            },
+            {
+                "text": "Wladimir Klitschko",
+                "type": "EPER"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            }
+        ],
+        "strategies": [
+            "strategy:fragmentation-splitscreen"
+        ],
+        "stories": [
+            "story01:wladimir-klitschko"
+        ],
+        "feps": ["fep:alternating-shotsa", "fep:shot-reverse-shot"],
+        "pos_tags": [
+            "DET",
+            "NOUN",
+            "PUNCT"
+        ]
+    },
+    "8": {
+        "start": 35.6,
+        "end": 106.92,
+        "named_entities": [
+            {
+                "text": "Klitschkos",
+                "type": "ORG"
+            },
+            {
+                "text": "Ukraine",
+                "type": "LOC"
+            },
+            {
+                "text": "Wladimir Klitschko",
+                "type": "EPER"
+            },
+            {
+                "text": "Madrid",
+                "type": "LOC"
+            }
+        ],
+        "strategies": ["fragmentation-splitscreen"],
+        "stories": [
+            "story02:expert-ukraine"
+        ],
+        "feps": [
+        ],
+        "pos_tags": [
+            "ADP",
+            "ADJ",
+            "NOUN",
+            "ADP",
+            "DET",
+            "PROPN",
+            "PUNCT",
+            "CCONJ",
+            "PRON",
+            "VERB",
+            "PRON",
+            "ADV",
+            "ADV",
+            "PUNCT"
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "video_fn": "b2VIbDR2aDd6ODQ=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 11.68,
+                    "label": "0"
+                },
+                {
+                    "start": 11.72,
+                    "end": 14.68,
+                    "label": "1"
+                },
+                {
+                    "start": 14.72,
+                    "end": 18.04,
+                    "label": "2"
+                },
+                {
+                    "start": 18.08,
+                    "end": 21.28,
+                    "label": "3"
+                },
+                {
+                    "start": 21.32,
+                    "end": 24.76,
+                    "label": "4"
+                },
+                {
+                    "start": 24.8,
+                    "end": 28.76,
+                    "label": "5"
+                },
+                {
+                    "start": 28.8,
+                    "end": 31.88,
+                    "label": "6"
+                },
+                {
+                    "start": 31.92,
+                    "end": 34.12,
+                    "label": "7"
+                },
+                {
+                    "start": 34.16,
+                    "end": 36.24,
+                    "label": "8"
+                },
+                {
+                    "start": 36.28,
+                    "end": 38.8,
+                    "label": "9"
+                },
+                {
+                    "start": 38.84,
+                    "end": 41.36,
+                    "label": "10"
+                },
+                {
+                    "start": 41.4,
+                    "end": 43.04,
+                    "label": "11"
+                },
+                {
+                    "start": 43.08,
+                    "end": 46.84,
+                    "label": "12"
+                },
+                {
+                    "start": 46.88,
+                    "end": 60.12,
+                    "label": "13"
+                },
+                {
+                    "start": 60.16,
+                    "end": 137.0,
+                    "label": "14"
+                },
+                {
+                    "start": 137.04,
+                    "end": 165.0,
+                    "label": "15"
+                },
+                {
+                    "start": 165.04,
+                    "end": 187.72,
+                    "label": "16"
+                },
+                {
+                    "start": 187.76,
+                    "end": 223.52,
+                    "label": "17"
+                },
+                {
+                    "start": 223.56,
+                    "end": 306.44,
+                    "label": "18"
+                },
+                {
+                    "start": 306.48,
+                    "end": 326.44,
+                    "label": "19"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:biden-putin",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 306.44,
+                    "label": "biden-putin"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 165.04,
+                    "end": 306.44,
+                    "label": "alternating-shot"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "fragmentation",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 46.84,
+                    "label": "fragmentation"
+                }
+            ]
+        },
+        {
+            "name": "individualization_of_elite",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 21.28,
+                    "label": "individualization_of_elite"
+                }
+            ]
+        }
+    ]
+}

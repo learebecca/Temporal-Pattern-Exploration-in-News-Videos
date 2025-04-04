@@ -1,0 +1,240 @@
+{
+    "video_fn": "NUw4Q3lLWUZWdGc=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 9.4,
+                    "label": "0"
+                },
+                {
+                    "start": 9.48,
+                    "end": 18.52,
+                    "label": "1"
+                },
+                {
+                    "start": 18.56,
+                    "end": 20.44,
+                    "label": "2"
+                },
+                {
+                    "start": 20.48,
+                    "end": 24.24,
+                    "label": "3"
+                },
+                {
+                    "start": 24.28,
+                    "end": 29.0,
+                    "label": "4"
+                },
+                {
+                    "start": 29.04,
+                    "end": 37.72,
+                    "label": "5"
+                },
+                {
+                    "start": 37.76,
+                    "end": 39.36,
+                    "label": "6"
+                },
+                {
+                    "start": 39.44,
+                    "end": 41.72,
+                    "label": "7"
+                },
+                {
+                    "start": 41.76,
+                    "end": 50.92,
+                    "label": "8"
+                },
+                {
+                    "start": 50.96,
+                    "end": 60.28,
+                    "label": "9"
+                },
+                {
+                    "start": 60.32,
+                    "end": 67.28,
+                    "label": "10"
+                },
+                {
+                    "start": 67.32,
+                    "end": 67.72,
+                    "label": "11"
+                },
+                {
+                    "start": 67.76,
+                    "end": 77.56,
+                    "label": "12"
+                },
+                {
+                    "start": 77.6,
+                    "end": 83.04,
+                    "label": "13"
+                },
+                {
+                    "start": 83.08,
+                    "end": 122.04,
+                    "label": "14"
+                },
+                {
+                    "start": 122.08,
+                    "end": 123.76,
+                    "label": "15"
+                },
+                {
+                    "start": 123.8,
+                    "end": 132.96,
+                    "label": "16"
+                },
+                {
+                    "start": 133.0,
+                    "end": 148.16,
+                    "label": "17"
+                },
+                {
+                    "start": 148.2,
+                    "end": 154.56,
+                    "label": "18"
+                },
+                {
+                    "start": 154.6,
+                    "end": 162.76,
+                    "label": "19"
+                },
+                {
+                    "start": 162.8,
+                    "end": 294.64,
+                    "label": "20"
+                },
+                {
+                    "start": 294.68,
+                    "end": 309.96,
+                    "label": "21"
+                },
+                {
+                    "start": 310.0,
+                    "end": 316.36,
+                    "label": "22"
+                },
+                {
+                    "start": 316.4,
+                    "end": 327.84,
+                    "label": "23"
+                },
+                {
+                    "start": 327.88,
+                    "end": 377.92,
+                    "label": "24"
+                },
+                {
+                    "start": 377.96,
+                    "end": 391.84,
+                    "label": "25"
+                },
+                {
+                    "start": 391.92,
+                    "end": 562.84,
+                    "label": "26"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:emilija-wellrock",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 562.84,
+                    "label": "emilija-wellrock"
+                }
+            ]
+        }
+    ],
+    "FEP": [],
+    "Strategy": [
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 9.4,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 24.28,
+                    "end": 29.0,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 39.44,
+                    "end": 50.92,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 83.08,
+                    "end": 122.04,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 123.8,
+                    "end": 132.96,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 162.8,
+                    "end": 294.64,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 327.88,
+                    "end": 377.92,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 391.92,
+                    "end": 562.84,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        },
+        {
+            "name": "emotionalization",
+            "segments": [
+                {
+                    "start": 0.229,
+                    "end": 79.268,
+                    "label": "emotionalization"
+                },
+                {
+                    "start": 221.301,
+                    "end": 246.038,
+                    "label": "emotionalization"
+                },
+                {
+                    "start": 479.486,
+                    "end": 548.242,
+                    "label": "emotionalization"
+                }
+            ]
+        },
+        {
+            "name": "individualization_of_elite",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 18.52,
+                    "label": "individualization_of_elite"
+                },
+                {
+                    "start": 39.44,
+                    "end": 60.28,
+                    "label": "individualization_of_elite"
+                }
+            ]
+        }
+    ]
+}

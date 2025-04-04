@@ -1,0 +1,206 @@
+{
+    "video_id": "RE5QNFk5eWhsa1U=",
+    "story_id": "story02",
+    "shots": [
+        {
+            "shot_label": "6",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "shot_label": "7",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "8",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "9",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "10",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "11",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "12",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "13",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "14",
+            "prediction": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "15",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "16",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "17",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "18",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "19",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "20",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "21",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "22",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "23",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "24",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "25",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

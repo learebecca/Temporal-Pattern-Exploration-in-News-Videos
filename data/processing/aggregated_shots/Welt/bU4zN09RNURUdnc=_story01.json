@@ -1,0 +1,129 @@
+{
+    "0": {
+        "start": 0.0,
+        "end": 508.92,
+        "strategies": [
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:Blinken-Tallinn"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            5.0,
+            1.0,
+            60.0,
+            15.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.0
+        ],
+        "whisperx_pos.pkl": [
+            76.0,
+            116.0,
+            108.0,
+            82.0,
+            65.0,
+            168.0,
+            0.0,
+            186.0,
+            11.0,
+            9.0,
+            85.0,
+            73.0,
+            107.0,
+            146.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.055679096818337326,
+            0.0,
+            0.04892234006158057,
+            0.023178241532671912,
+            0.35862127950735545,
+            0.00042764283270612383,
+            0.5131713992473487
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.04925000539592496
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.5,
+            0.5,
+            0.37158203125,
+            0.5
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5,
+            0.5,
+            0.13393832743167877,
+            0.5
+        ],
+        "places_shot_similarity.pkl": [
+            0.5,
+            0.5,
+            0.5797861814498901,
+            0.5
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.0,
+            0.0,
+            0.5403591394424438,
+            0.0
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.0,
+            0.0,
+            0.06007371097803116,
+            0.0
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.0,
+            0.0,
+            0.42459166049957275,
+            0.0
+        ],
+        "face_analysis.pkl": [
+            0.011800440608990733,
+            17503,
+            0.9911443752499571,
+            0.7246757698680226
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    }
+}

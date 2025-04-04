@@ -1,0 +1,171 @@
+{
+    "video_fn": "dUJoemRydy12Wnc=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 0.36,
+                    "label": "0"
+                },
+                {
+                    "start": 0.4,
+                    "end": 31.8,
+                    "label": "1"
+                },
+                {
+                    "start": 31.84,
+                    "end": 36.96,
+                    "label": "2"
+                },
+                {
+                    "start": 37.0,
+                    "end": 40.68,
+                    "label": "3"
+                },
+                {
+                    "start": 40.72,
+                    "end": 45.64,
+                    "label": "4"
+                },
+                {
+                    "start": 45.68,
+                    "end": 54.92,
+                    "label": "5"
+                },
+                {
+                    "start": 54.96,
+                    "end": 59.96,
+                    "label": "6"
+                },
+                {
+                    "start": 60.0,
+                    "end": 64.519,
+                    "label": "7"
+                },
+                {
+                    "start": 64.56,
+                    "end": 66.36,
+                    "label": "8"
+                },
+                {
+                    "start": 66.4,
+                    "end": 72.24,
+                    "label": "9"
+                },
+                {
+                    "start": 72.28,
+                    "end": 75.32,
+                    "label": "10"
+                },
+                {
+                    "start": 75.36,
+                    "end": 87.24,
+                    "label": "11"
+                },
+                {
+                    "start": 87.28,
+                    "end": 92.56,
+                    "label": "12"
+                },
+                {
+                    "start": 92.6,
+                    "end": 100.72,
+                    "label": "13"
+                },
+                {
+                    "start": 100.76,
+                    "end": 116.0,
+                    "label": "14"
+                },
+                {
+                    "start": 116.04,
+                    "end": 119.36,
+                    "label": "15"
+                },
+                {
+                    "start": 119.4,
+                    "end": 129.4,
+                    "label": "16"
+                },
+                {
+                    "start": 129.44,
+                    "end": 172.36,
+                    "label": "17"
+                },
+                {
+                    "start": 172.4,
+                    "end": 176.32,
+                    "label": "18"
+                },
+                {
+                    "start": 176.36,
+                    "end": 190.56,
+                    "label": "19"
+                },
+                {
+                    "start": 190.6,
+                    "end": 201.88,
+                    "label": "20"
+                },
+                {
+                    "start": 201.92,
+                    "end": 236.84,
+                    "label": "21"
+                },
+                {
+                    "start": 236.88,
+                    "end": 327.28,
+                    "label": "22"
+                },
+                {
+                    "start": 327.32,
+                    "end": 331.6,
+                    "label": "23"
+                },
+                {
+                    "start": 331.64,
+                    "end": 351.6,
+                    "label": "24"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:ukraine-russian-troups",
+            "segments": [
+                {
+                    "start": 0.4,
+                    "end": 351.6,
+                    "label": "ukraine-russian-troups"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 129.44,
+                    "end": 331.6,
+                    "label": "alternating-shot"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 172.4,
+                    "end": 236.84,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        }
+    ]
+}

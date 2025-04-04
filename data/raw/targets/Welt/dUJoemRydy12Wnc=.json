@@ -1,0 +1,5045 @@
+{
+  "contains": [
+    {
+      "total": 25,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection1",
+      "label": "shots",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection1-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "1",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.000,0.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "2",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "1"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.400,31.800"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "3",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "2"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=31.840,36.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "4",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "3"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=37.000,40.680"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "5",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "4"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=40.720,45.640"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "6",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "5"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45.680,54.920"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "7",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "6"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54.960,59.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "8",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "7"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60.000,64.519"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "9",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "8"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=64.560,66.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "10",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "9"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=66.400,72.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "11",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "10"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=72.280,75.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "12",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "11"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75.360,87.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "13",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "12"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=87.280,92.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "14",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "13"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92.600,100.720"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "15",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "14"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=100.760,116.000"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "16",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "15"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.040,119.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "17",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "16"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=119.400,129.400"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "18",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "17"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=129.440,172.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "19",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "18"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172.400,176.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "20",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "19"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=176.360,190.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "21",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "20"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=190.600,201.880"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "22",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "21"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=201.920,236.840"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "23",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "22"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=236.880,327.280"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "24",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "23"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=327.320,331.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "25",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "24"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=331.640,351.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 9,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection2",
+      "label": "speaker_turn",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection2-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "26",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_03"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.870,29.999"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "27",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_01"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.970,100.012"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "28",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_00"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101.111,116.729"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "29",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_01"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.820,127.636"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "30",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_03"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "31",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_02"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "32",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_03"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237.692,245.896"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "33",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_02"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=250.049,326.084"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "34",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "SPEAKER_03"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=326.134,330.555"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 9,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection3",
+      "label": "transcript",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection3-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "35",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Im Osten der Ukraine rücken die russischen Truppen langsam, aber unaufhaltsam vor. 80 Prozent der strategisch wichtigen Großstadt Severodonetsk sind inzwischen unter ihrer Kontrolle, erklärte der ukrainische Regionalgouverneur. Laut Präsident Zelensky sterben an der Front im Osten täglich bis zu 100 ukrainische Soldaten. Kiew hofft nun auf die von US-Präsident Biden versprochenen Mehrfachraketenwerfer. Die hat auch der Bundeskanzler zumindest versprochen und ein Flugabwehrsystem dazu."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.870,29.999"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "36",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Blindgänger im Schlepptau unter Lebensgefahr transportieren die Techniker der Bombenräumung in Kiew russische Munition ab. 150 Teile, die nicht explodiert sind, werden in einer Grube kontrolliert gesprengt. In der Hauptstadt werden die Spuren des Krieges beseitigt und auch im Süden vermeldet die Ukraine militärische Erfolge. Rund um die Hafenstadt Kherson sei es gelungen, 20 Ortschaften zurückzuerobern. Im Osten ist Russland jedoch weiter auf dem Vormarsch. Aus den besetzten Gebieten habe Moskau bislang 200.000 ukrainische Kinder verschleppt, teils zusammen mit ihren Eltern, teils wurden sie von ihren Familien getrennt oder aus Waisenhäusern entführt. Die Minderjährigen seien über ganz Russland verteilt worden, so der ukrainische Präsident Zelensky. Das Ziel dieser kriminellen Politik ist es, nicht nur Menschen zu entführen, sondern die Kinder dazu zu bringen, die Ukraine zu vergessen und nicht mehr zurückkehren zu können. Damit sich die Ukraine weiter verteidigen kann, sollen auch aus Deutschland mehr Waffen kommen. Und zwar zügig, verspricht Bundeskanzler Scholz. Er kündigt an, das modernste Flugabwehrsystem zu liefern, über das Deutschland verfüge."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.970,100.012"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "37",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Was die sehr neuen Waffensysteme, die wir zur Verfügung stehen wollen für den Verteidigungskampf der Ukraine betrifft, handelt es sich in der Tat, wie Sie gesagt haben, um Industrielieferungen. Und die kommen zügig zustande, sobald die Industrie ihre Lieferungen entsprechend organisieren kann."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101.111,116.729"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "38",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Und während Scholz sich noch immer vorsichtig gibt, tritt Außenministerin Baerbock bestimmt auf. Russland breche internationales Völkerrecht. Sie fordert daher, die Ukraine muss den Krieg gewinnen."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.820,127.636"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "39",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "In Kiew ist unser Reporter Daniel Koop. Daniel, im Osten sieht es militärisch nicht gut aus für die Ukraine. Höchstens zwei Tage sei Severo Donetsk noch zu halten, heißt es."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "40",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Ja, genau diese Angabe haben wir vom Gouverneur von Luhansk heute in den Morgenstunden erhalten. Er hat sich da über den Messenger-Dienst Telegram geäußert und er spricht da in der Tat, Katja, von einer sehr angespannten Situation. Man muss sich das so vorstellen, Severodonetsk ist ja mal eine Stadt gewesen. Mit ungefähr 100.000 Einwohnern, eine große Metropolregion. Früher haben da an die 300.000 Menschen gelebt. Jetzt sind es wenige Zehntausende, die sich in dieser Region noch befinden. Ungefähr 10.000 in der eigentlichen Stadt Severodonetsk. Und es scheint so zu sein, als wären die russischen Truppen vor allem wohl in den Osten der Stadt eingedrungen. Und ukrainische Soldaten, die sind aus Teilen der Stadt schon wieder abgezogen, einfach weil man... kapitulieren musste, weil man einsehen musste, man kommt aktuell nicht gegen die Stärke Russlands vor. Und der Gouverneur hat sich auch geäußert, dass er davon ausgeht, dass diese Stadt wohl fallen wird. Das dürfte wirklich nur noch eine Frage von wenigen Tagen der Fall sein. Große Sorge bereitet uns ein Chemiewerk, was es in der Region auch gibt. Denn auch dieses Chemiewerk, das ist beschossen worden. Da ist Alpetersäure ausgetreten. Man geht davon aus, dass noch weitere Giftige Dämpfe, giftige Gase da wahrscheinlich austreten. Also die Menschen, die in der Region sich befinden, die haben aktuell noch größere Probleme. Und wir bekommen Berichte, dass man in der Tat wohl über eine Großoffensive nachdenkt Richtung Westen. Also Kramators dürfte da eine der nächsten Städte sein, die im Fokus der russischen Armee dann kommen wird."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "41",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Jetzt haben ja nicht nur die USA, sondern auch Deutschland mehrfach Raketenwerfer versprochen. Was können die ausrichten und wie schnell müssten die da sein?"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237.692,245.896"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "42",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Ja, also diese Raketenwerfer bzw. insgesamt die schweren Waffen, die sind sicherlich für die Ukraine in der aktuellen Situation unheimlich wichtig. Sehr interessant übrigens, auch die First Lady der Ukraine hat sich jetzt in einem Interview geäußert. Sie wurde genau auf dieses Thema auch von einem amerikanischen Fernsehsender angesprochen. Und auch da hat sie gesagt, dass genau diese Waffenlieferungen der Region jetzt so unheimlich helfen würden. Großes Problem ist aber auch aktuell die Logistik, diese Waffentransporte hier in die Ukraine zu bekommen. Also wir haben das gestern Abend wieder erlebt, quasi im ganzen Land Luftalarm, auch hier in Kiew in den Abendstunden. Und dann haben wir etwas später die Nachricht bekommen, dass wohl wieder Infrastruktur bombardiert wurde im Westen des Landes, in der Nähe von Lviv. Lviv, eine große Stadt, ungefähr eine Stunde von der polnischen Grenze entfernt, ein wichtiger Bahnknotenpunkt. Und dort haben wir in der Vergangenheit immer wieder gesehen, dass da Bahnhöfe, dass da Bahngleise, Bahntunnel bombardiert wurden, weil wohl viele der Waffentransporte dann mit Zügen in den Osten des Landes gebracht werden. Und genau das möchte Russland verhindern. Deswegen haben wir in dieser Region gestern Abend wieder heftige Bombardierungen mitbekommen. Und mindestens vier Menschen, die sind verletzt worden. Zum Glück niemand ist ums Leben gekommen."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=250.049,326.084"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "43",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Daniel Krupp, Dankeschön für diese Informationen aus Kiew."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=326.134,330.555"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 9,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection4",
+      "label": "topic",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection4-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "44",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0_stadt_ukraine_mariupol_soldaten"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.870,29.999"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "45",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0_stadt_ukraine_mariupol_soldaten"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.970,100.012"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "46",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "-1_ukraine_deutschland_soldaten_europa"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101.111,116.729"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "47",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "-1_ukraine_deutschland_soldaten_europa"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.820,127.636"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "48",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0_stadt_ukraine_mariupol_soldaten"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "49",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0_stadt_ukraine_mariupol_soldaten"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "50",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "None"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237.692,245.896"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "51",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "-1_ukraine_deutschland_soldaten_europa"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=250.049,326.084"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "52",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "None"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=326.134,330.555"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 9,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection5",
+      "label": "active_speaker",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection5-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "53",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Yes"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.870,29.999"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "54",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.970,100.012"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "55",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Yes"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101.111,116.729"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "56",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Yes"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.820,127.636"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "57",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "58",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "59",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Yes"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237.692,245.896"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "60",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Yes"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=250.049,326.084"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "61",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Yes"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=326.134,330.555"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 9,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection6",
+      "label": "speaker_role",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection6-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "62",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "anchor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.870,29.999"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "63",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "anchor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.970,100.012"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "64",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "politician"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101.111,116.729"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "65",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "unsure"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.820,127.636"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "66",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "anchor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "67",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "anchor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "68",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "unsure"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237.692,245.896"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "69",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "unsure"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=250.049,326.084"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "70",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "anchor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=326.134,330.555"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 9,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection7",
+      "label": "situation",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection7-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "71",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "talking-head"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.870,29.999"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "72",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "voiceover"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.970,100.012"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "73",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "unsure"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101.111,116.729"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "74",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "speech"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.820,127.636"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "75",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "talking-head"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "76",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "talking-head"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "77",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "talking-head"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237.692,245.896"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "78",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "talking-head"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=250.049,326.084"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "79",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "talking-head"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=326.134,330.555"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 25,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection8",
+      "label": "social_roles",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection8-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "80",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "anchor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.000,0.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "81",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "anchor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.400,31.800"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "82",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "elite"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=31.840,36.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "83",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "elite"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=37.000,40.680"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "84",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No person visible"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=40.720,45.640"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "85",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No person visible"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45.680,54.920"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "86",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No person visible"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54.960,59.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "87",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No person visible"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60.000,64.519"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "88",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "reporter"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=64.560,66.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "89",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No person visible"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=66.400,72.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "90",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No person visible"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=72.280,75.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "91",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "politician"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75.360,87.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "92",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "elite"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=87.280,92.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "93",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "media personnel"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92.600,100.720"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "94",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "politician"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=100.760,116.000"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "95",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "media personnel"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.040,119.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "96",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "politician"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=119.400,129.400"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "97",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "reporter"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=129.440,172.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "98",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "reporter"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172.400,176.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "99",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "reporter"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=176.360,190.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "100",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "reporter"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=190.600,201.880"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "101",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "reporter"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=201.920,236.840"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "102",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "reporter"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=236.880,327.280"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "103",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "reporter"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=327.320,331.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "104",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "No person visible"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=331.640,351.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 25,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection9",
+      "label": "locations",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection9-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "105",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "studio"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.000,0.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "106",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "studio"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.400,31.800"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "107",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=31.840,36.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "108",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=37.000,40.680"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "109",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "industrial_outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=40.720,45.640"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "110",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "aerial_outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45.680,54.920"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "111",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "aerial_outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54.960,59.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "112",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60.000,64.519"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "113",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=64.560,66.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "114",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=66.400,72.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "115",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=72.280,75.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "116",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "elite_indoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75.360,87.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "117",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=87.280,92.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "118",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "elite_indoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92.600,100.720"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "119",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "public_indoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=100.760,116.000"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "120",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "elite_indoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.040,119.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "121",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "elite_indoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=119.400,129.400"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "122",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "aerial_outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=129.440,172.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "123",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "aerial_outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172.400,176.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "124",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=176.360,190.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "125",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=190.600,201.880"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "126",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "aerial_outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=201.920,236.840"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "127",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "aerial_outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=236.880,327.280"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "128",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "outdoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=327.320,331.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "129",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "public_indoor"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=331.640,351.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 25,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection10",
+      "label": "events",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection10-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "130",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "speech_political"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.000,0.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "131",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": ""
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.400,31.800"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "132",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=31.840,36.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "133",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "fire_war"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=37.000,40.680"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "134",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "explosion_war"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=40.720,45.640"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "135",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45.680,54.920"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "136",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54.960,59.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "137",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "fire_war"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60.000,64.519"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "138",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "fire_war"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=64.560,66.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "139",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "fire_war"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=66.400,72.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "140",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=72.280,75.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "141",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "speech_political"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75.360,87.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "142",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=87.280,92.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "143",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "conference_political"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92.600,100.720"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "144",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "speech_political"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=100.760,116.000"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "145",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "voting_political"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.040,119.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "146",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "speech_political"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=119.400,129.400"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "147",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=129.440,172.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "148",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172.400,176.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "149",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=176.360,190.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "150",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=190.600,201.880"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "151",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=201.920,236.840"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "152",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "military"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=236.880,327.280"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "153",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "fire_war"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=327.320,331.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "154",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": ""
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=331.640,351.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 25,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection11",
+      "label": "shot_audio_clf",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection11-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "155",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Sneeze, Sigh"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.000,0.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "156",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Silence, Female speech, woman speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.400,31.800"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "157",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Music, Gunshot, gunfire"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=31.840,36.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "158",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Music, Gunshot, gunfire"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=37.000,40.680"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "159",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Silence, Music"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=40.720,45.640"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "160",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Vehicle, Artillery fire"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45.680,54.920"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "161",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Vehicle, Boat, Water vehicle"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54.960,59.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "162",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Outside, urban or manmade, Silence"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60.000,64.519"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "163",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Gunshot, gunfire, Artillery fire"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=64.560,66.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "164",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Run, Outside, urban or manmade"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=66.400,72.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "165",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Vehicle, Outside, rural or natural"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=72.280,75.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "166",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Male speech, man speaking, Radio"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75.360,87.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "167",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Vehicle, Artillery fire"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=87.280,92.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "168",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Silence, Snake"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92.600,100.720"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "169",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Male speech, man speaking, Narration, monologue"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=100.760,116.000"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "170",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Music, Musical instrument"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.040,119.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "171",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Female speech, woman speaking, Narration, monologue"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=119.400,129.400"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "172",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Female speech, woman speaking, Narration, monologue"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=129.440,172.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "173",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Narration, monologue, Male speech, man speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172.400,176.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "174",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Narration, monologue, Male speech, man speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=176.360,190.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "175",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Narration, monologue, Male speech, man speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=190.600,201.880"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "176",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Narration, monologue, Silence"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=201.920,236.840"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "177",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Narration, monologue, Male speech, man speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=236.880,327.280"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "178",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Music, Female speech, woman speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=327.320,331.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "179",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Music, Vehicle, Speech"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=331.640,351.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 25,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection12",
+      "label": "shot_audio_prob",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection12-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "180",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.42, 0.19, 0.18"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.000,0.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "181",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.62, 0.23, 0.12"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.400,31.800"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "182",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.51, 0.09, 0.07"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=31.840,36.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "183",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.67, 0.1, 0.05"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=37.000,40.680"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "184",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.55, 0.13, 0.08"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=40.720,45.640"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "185",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.79, 0.3, 0.15"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=45.680,54.920"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "186",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.82, 0.22, 0.08"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=54.960,59.960"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "187",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.68, 0.1, 0.06"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=60.000,64.519"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "188",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.66, 0.17, 0.11"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=64.560,66.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "189",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.82, 0.31, 0.11"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=66.400,72.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "190",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.56, 0.07, 0.06"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=72.280,75.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "191",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.81, 0.16, 0.1"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=75.360,87.240"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "192",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.82, 0.57, 0.14"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=87.280,92.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "193",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.58, 0.12, 0.06"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=92.600,100.720"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "194",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.98, 0.84, 0.7"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=100.760,116.000"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "195",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.81, 0.55, 0.07"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.040,119.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "196",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.98, 0.76, 0.58"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=119.400,129.400"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "197",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.52, 0.12, 0.11"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=129.440,172.360"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "198",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.66, 0.18, 0.16"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=172.400,176.320"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "199",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.75, 0.12, 0.1"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=176.360,190.560"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "200",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.84, 0.2, 0.17"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=190.600,201.880"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "201",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.73, 0.13, 0.09"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=201.920,236.840"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "202",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.72, 0.12, 0.08"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=236.880,327.280"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "203",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.58, 0.16, 0.08"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=327.320,331.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "204",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.19, 0.15, 0.11"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=331.640,351.600"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 9,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection13",
+      "label": "speaker_audio_clf",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection13-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "205",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Silence, Female speech, woman speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.870,29.999"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "206",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Vehicle, Artillery fire"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.970,100.012"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "207",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Male speech, man speaking, Narration, monologue"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101.111,116.729"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "208",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Narration, monologue, Female speech, woman speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.820,127.636"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "209",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Silence, Female speech, woman speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "210",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Narration, monologue, Male speech, man speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "211",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Female speech, woman speaking, Silence"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237.692,245.896"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "212",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Narration, monologue, Male speech, man speaking"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=250.049,326.084"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "213",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "Speech, Music, Silence"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=326.134,330.555"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 9,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection14",
+      "label": "speaker_audio_prob",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection14-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "214",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.61, 0.24, 0.15"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=0.870,29.999"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "215",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.62, 0.12, 0.08"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=32.970,100.012"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "216",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.98, 0.83, 0.69"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=101.111,116.729"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "217",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.98, 0.4, 0.24"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=116.820,127.636"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "218",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.61, 0.33, 0.13"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "219",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.61, 0.22, 0.18"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "220",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.59, 0.18, 0.12"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=237.692,245.896"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "221",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.69, 0.17, 0.12"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=250.049,326.084"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "222",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "type": "TextualBody",
+              "value": "0.55, 0.12, 0.1"
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=326.134,330.555"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 1,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection15",
+      "label": "story01:ukraine-russian-troups",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection15-page1",
+        "type": "AnnotationPage",
+        "items": [{
+          "id": "223",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "language": "",
+            "type": "TextualBody",
+            "value": ""
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "format": "video/mp4",
+            "selector": {
+              "conformsTo": "http://www.w3.org/TR/media-frags/",
+              "type": "FragmentSelector",
+              "value": "t=0.400,351.600"
+            },
+            "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+            "type": "Video"
+          }
+        }]
+      }
+    },
+    {
+      "total": 2,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection16",
+      "label": "evaluative-talk",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection16-page1",
+        "type": "AnnotationPage",
+        "items": [
+          {
+            "id": "224",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "language": "",
+              "type": "TextualBody",
+              "value": "In Kiew ist unser Reporter Daniel Koop. Daniel, im Osten sieht es militärisch nicht gut aus für die Ukraine. Höchstens zwei Tage sei Severo Donetsk noch zu halten, heißt es."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=130.811,141.368"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          },
+          {
+            "id": "225",
+            "type": "Annotation",
+            "body": {
+              "purpose": "transcribing",
+              "format": "text/plain",
+              "language": "",
+              "type": "TextualBody",
+              "value": "Ja, genau diese Angabe haben wir vom Gouverneur von Luhansk heute in den Morgenstunden erhalten. Er hat sich da über den Messenger-Dienst Telegram geäußert und er spricht da in der Tat, Katja, von einer sehr angespannten Situation. Man muss sich das so vorstellen, Severodonetsk ist ja mal eine Stadt gewesen. Mit ungefähr 100.000 Einwohnern, eine große Metropolregion. Früher haben da an die 300.000 Menschen gelebt. Jetzt sind es wenige Zehntausende, die sich in dieser Region noch befinden. Ungefähr 10.000 in der eigentlichen Stadt Severodonetsk. Und es scheint so zu sein, als wären die russischen Truppen vor allem wohl in den Osten der Stadt eingedrungen. Und ukrainische Soldaten, die sind aus Teilen der Stadt schon wieder abgezogen, einfach weil man... kapitulieren musste, weil man einsehen musste, man kommt aktuell nicht gegen die Stärke Russlands vor. Und der Gouverneur hat sich auch geäußert, dass er davon ausgeht, dass diese Stadt wohl fallen wird. Das dürfte wirklich nur noch eine Frage von wenigen Tagen der Fall sein. Große Sorge bereitet uns ein Chemiewerk, was es in der Region auch gibt. Denn auch dieses Chemiewerk, das ist beschossen worden. Da ist Alpetersäure ausgetreten. Man geht davon aus, dass noch weitere Giftige Dämpfe, giftige Gase da wahrscheinlich austreten. Also die Menschen, die in der Region sich befinden, die haben aktuell noch größere Probleme. Und wir bekommen Berichte, dass man in der Tat wohl über eine Großoffensive nachdenkt Richtung Westen. Also Kramators dürfte da eine der nächsten Städte sein, die im Fokus der russischen Armee dann kommen wird."
+            },
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "target": {
+              "format": "video/mp4",
+              "selector": {
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "type": "FragmentSelector",
+                "value": "t=145.826,235.765"
+              },
+              "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+              "type": "Video"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "total": 1,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection17",
+      "label": "Strategy:Fragmentation-splitscreen",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection17-page1",
+        "type": "AnnotationPage",
+        "items": [{
+          "id": "226",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "language": "",
+            "type": "TextualBody",
+            "value": ""
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "format": "video/mp4",
+            "selector": {
+              "conformsTo": "http://www.w3.org/TR/media-frags/",
+              "type": "FragmentSelector",
+              "value": "t=172.400,236.840"
+            },
+            "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+            "type": "Video"
+          }
+        }]
+      }
+    },
+    {
+      "total": 1,
+      "generator": "ELAN Multimedia Annotator 6.7",
+      "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection18",
+      "label": "FEP:alternating-shot-A",
+      "type": "AnnotationCollection",
+      "@context": "http://www.w3.org/ns/ldp.jsonld",
+      "first": {
+        "startIndex": "0",
+        "id": "urn:nl-mpi-tools-elan-eaf:ce21809d-aa3f-4b38-ae9a-97fade1b1411#collection18-page1",
+        "type": "AnnotationPage",
+        "items": [{
+          "id": "227",
+          "type": "Annotation",
+          "body": {
+            "purpose": "transcribing",
+            "format": "text/plain",
+            "language": "",
+            "type": "TextualBody",
+            "value": ""
+          },
+          "@context": "http://www.w3.org/ns/anno.jsonld",
+          "target": {
+            "format": "video/mp4",
+            "selector": {
+              "conformsTo": "http://www.w3.org/TR/media-frags/",
+              "type": "FragmentSelector",
+              "value": "t=129.440,331.600"
+            },
+            "source": "file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/round-2/WELT/dUJoemRydy12Wnc=.mp4",
+            "type": "Video"
+          }
+        }]
+      }
+    }
+  ],
+  "type": "Container",
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://www.w3.org/ns/ldp.jsonld"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "text_based": [
+        "whisperx_ner.pkl",
+        "whisperx_sentiment.pkl",
+        "whisperx_pos.pkl",
+        "llm_evaluative.pkl"
+
+    ],
+    "image_based": [
+        "face_emotions_deepface.pkl",
+        "videoshot_scalemovement.pkl",
+        "shot_density.pkl",
+        "siglip_shot_similarity.pkl",
+        "convnextv2_shot_similarity.pkl",
+        "places_shot_similarity.pkl",
+        "kinetics-vmae_action_shot_similarity.pkl",
+        "ssv2-vmae_action_shot_similarity.pkl",
+        "kinetics-xclip_action_shot_similarity.pkl",
+        "face_analysis.pkl"
+    ],    
+    "audio_based": [
+        "whisperxspeaker_audioclf.pkl",
+        "whisperxspeaker_segmentClf.pkl"
+
+    ],
+    "multimodal": [
+        "speaker_turns_meta.pkl"
+    ]
+
+}

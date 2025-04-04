@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-12T12:02:08+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/admin/Desktop/new-corpus/Welt,ZDF,BildTV/WELT/bU4zN09RNURUdnc=.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./bU4zN09RNURUdnc=.mp4"/>
+        <PROPERTY NAME="lastUsedAnnotation">0</PROPERTY>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5de02fb7-8338-4929-8e3f-5b2cfbdc3b68</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="29"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="506870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="508920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="508920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="508920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="508920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="508920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="508920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="508920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="508920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="508960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="508960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="508960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="508960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="508960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="508960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="528920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="528920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="528920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="528920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="528920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="528920"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="shots">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speaker_turn">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>SPEAKER_00</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="transcript">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Es ist wunderbar, in einer Stadt hier zu sein, zum ersten Mal, wie sie gesagt hat. Es hat auch eine Bedeutung hier, gerade zu diesem 100. Jahrestag unserer diplomatischen Beziehung sein. Aber wie die Premierministerin gerade gesagt hat, wäre ich auch gern unter anderen Umständen hier. Wir haben seit vielen Monaten jetzt gesehen, wie sich die Wahrscheinlichkeit der Aggression Russlands aufgebaut hat. Wir haben immer das Beste gehofft und uns aber auch auf das Schlimmste vorbereitet und haben zu den Vorbereitungen auch etwas getan. In den letzten Tagen gab es einen kritischen Moment für Europa, für die Ukraine und für die ganze Welt. Mit unseren Verbündeten in Brüssel, in der Europäischen Union, bei den G7, in Polen, wo ich ein Flüchtlingscenter besucht habe. Ich habe mich auch mit Dmitry Kuleba auf ukrainischem Boden getroffen. in Moldau, die weitere Integration in Europa suchen und auch die drei baltischen Nationen, Lettland, Estland und heute. Ich habe immer die Kernwerte unserer Länder, die uns zusammenbringen, der Respekt für die Rechtsstaatlichkeit, für die internationale Solidarität, für die Integrität, für Frieden und Sicherheit überall geschätzt. Und wie ich gestern schon gesagt habe, in Litauen und Lettland, die Menschen in Estland, leben seit Jahrzehnten unter der sowjetischen Okkupation und sie verstehen sehr tief, wie falsch dieser nicht provozierte Krieg Russlands gegen die Ukraine ist und wie stark die Ukraine jetzt für seine Souveränität kämpfen muss. Die Anzahl der verwundeten und getöteten Zivilisten steigt weiter an. Zum heutigen Punkt sind mehr als 1,7 Millionen Menschen gezwungen gewesen, ihr Land zu verlassen. 800.000 wurden innerhalb der Ukraine vertrieben. Mehr Menschen versuchen zu fliehen. fliehen, kommen aber nicht aus den besetzten Gebieten heraus. Es gibt immer Berichte von Beschuss durch russische Streitkräfte auf diesen humanitären Wegen. Wir rufen Russland weiter auf, den humanitären Zugang zu gewähren für die Versorgung mit Lebensmitteln, Medikamenten und für die humanitären Organisationen wie das Rote Kreuz, die natürlich echte humanitäre Hilfe leisten können, sodass die Menschen auch sicher ihr Land verlassen können. Island und die USA als Verbündete werden weiter zur Ukraine halten. Wir haben auch unsere Sicherheitsanstrengungen und die Unterstützung für die Selbstverteidigung der Ukraine erhöht und werden mehr liefern, sowohl für die Menschen, die innerhalb der Ukraine kämpfen, als auch für die Menschen außerhalb. Wir haben unsere auch mit dem Kongress zusammengearbeitet. Wir versuchen, ob wir noch mehr tun können. Die Bitte des Präsidenten Biden für weitere 10 Millionen werden weitere wirtschaftliche und andere Hilfe ermöglichen, wenn sie benötigt wird. Estland hat sehr verschiedenartige Hilfe geleistet. Sie haben Antipanzerraketen, Panzerabwehrwaffen und anderes geliefert. Mehr als 10.000 Flüchtlinge können hier aufgenommen werden. wenn sie nach Estland kommen wollen. Und wie überall in der baltischen Region in den letzten Tagen, sehen wir weiterhin eine ausgesprochen starke Unterstützung für die Menschen in der Ukraine. Wir sehen überall an den Gebäuden blau-gelbe Fahnen. Und das ist eine machtvolle Solidaritätsbekundung. Und gemeinsam, wie die Premierministerin bereits gesagt hat, ist Estland und die USA beteiligt. gemeinsam verbündet für die Verteidigung. Präsident Biden hat schon gesagt, wir werden jeden Zentimeter des NATO-Territoriums mit der vollen Macht unseres Bündnisses verteidigen. Der Artikel 5 ist absolut glasklar und ein Angriff auf ein Land würde als ein Angriff auf alle bezeichnet werden und jede Bedrohung, die auf uns herunterkommt, egal woher, würde so bekämpft werden. Es ist jetzt das Dem Oberkommandanten der Alliierten in Europa und der haben wir die Reaktionskräfte zur Verfügung gestellt. Wir haben die Anwesenheit der NATO-Truppen hier erhöht, ebenso wie die Fähigkeiten. Es wurden von Präsident Biden weitere 7000 Mann nach Europa beordert und sie sind jetzt bereits unterwegs an die Ostflanke und haben dort Wir haben 35 Jagdflugzeuge geliefert und wir haben auch unsere Luftpolicing-Missionen erhöht. Wir haben uns natürlich auch um die Energiesicherheit gekümmert, die wichtig für unsere gemeinsame Sicherheit ist. In den letzten 30 Jahren haben die baltischen Staaten eine... demokratische Entwicklung gehabt gegen Autoritarismus und sie wollten sich weiter in Europa integrieren. Estland ist heute die am meisten fortgeschrittene digitale Gesellschaft der Welt. Die Geschäftswelt ist erfüllt von Innovationen. Die Menschen können ihren Pass heute online betragen. Zum Vergleich mit Moskau, dort sind Journalisten Ziele geworden. Es gibt Desinformation sowohl außerhalb als auch innerhalb Russlands. Viele Menschen in Russland haben überhaupt keine Vorstellung, was ihre Regierung gerade jetzt in der Ukraine tut. Sie glauben, sie befreien die Ukraine und stattdessen... Zerstören Sie sie. Moskau hat jetzt Facebook und Twitter geschlossen, um seine Lügen besser verbreiten zu können. Die Schwachpunkte der Autokratie ist, dass sie völlig die Kontrolle der Informationen verlieren. Wir müssen also jetzt etwas tun gegen die Desinformation der Russen und wir müssen... den russischen Menschen sagen, welche tiefen Kosten es für die Ukraine hat, aber auch für die russische Bevölkerung selbst, die jeden Tag größer wird. Der Rubel ist jetzt im Verfall. Mastercard, Visa, Apple Pay sind geschlossen worden. Dutzende von führenden Unternehmen von Nike bis Coca-Cola, FedEx bis Spotify, Netflix und Toyota haben bereits das Land verlassen. Präsident Putin macht jetzt Russland kaputt. Innerhalb einer Woche hat er 30 Jahre internationaler Möglichkeiten zerstört. Die russischen Menschen haben bereits jetzt die Folgen gespürt und das wird noch zunehmen. Ich hoffe, sie werden eines Tages erfahren, warum das alles passiert. Das ist nicht ein Krieg des russischen Volkes. Es geht auch nicht um Befreiung und was auch immer Sie erzählt haben. Das ist der Krieg Putins gegen ein souveränes Land, demokratisches Land. Und am Ende wird Ihnen die Welt dafür auch zur Verantwortung ziehen. Es ist ein kritischer Moment auch für die Demokratien in Europa. Und deshalb ist es umso wichtiger, dass Demokratien wie Estland oder die gesamten baltischen Länder den besseren Weg aufzeigen und sich der Herausforderung des... in der Aktualität stellen und die USA stehen fest zu ihnen. Heute ist ja, ich sollte es gewusst haben, internationaler Frauentag und ich freue mich, dass wir hier sind, denn es wurde ja hier gerade jetzt ja deutlich gezeigt, Estland hat Eine erstaunlich starke Führungskraft, besonders durch Frauen in Form ihrer Premierministerin und der Außenministerin. Sie schließen in Island erfolgreich die Bezahlungslücke zwischen Männern und Frauen und führen die Welt an bei all diesen Bereichen. Heute glauben wir auch an die Stärke der Frauen in der Ukraine. Hunderttausende von ukrainischen Frauen haben ihre Kinder in Sicherheit gebracht in andere Länder, nachdem sie die Männer zurückgelassen haben. Viele Frauen sind aber auch dem Kampfgeschehen beigetreten und verteidigen das Land mit der Waffe in der Hand selbst. Wir bewundern den Mut und die Resilienz der Ukrainer. Vielen Dank.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="topic">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>-1_ukraine_deutschland_soldaten_europa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="active_speaker">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>Yes</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speaker_role">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>anchor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="situation">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>talking-head</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="social_roles">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>politician</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>No person visible</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="locations">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>public_indoor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>public_indoor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="events">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>fire_war</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="shot_audio_clf">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Speech, Male speech, man speaking, Narration, monologue</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>Music, Vehicle, Speech</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="shot_audio_prob">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>0.71, 0.17, 0.08</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>0.21, 0.17, 0.1</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speaker_audio_clf">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Speech, Male speech, man speaking, Narration, monologue</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="speaker_audio_prob">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>0.71, 0.18, 0.09</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="evaluative-talk">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Es ist wunderbar, in einer Stadt hier zu sein, zum ersten Mal, wie sie gesagt hat. Es hat auch eine Bedeutung hier, gerade zu diesem 100. Jahrestag unserer diplomatischen Beziehung sein. Aber wie die Premierministerin gerade gesagt hat, wäre ich auch gern unter anderen Umständen hier. Wir haben seit vielen Monaten jetzt gesehen, wie sich die Wahrscheinlichkeit der Aggression Russlands aufgebaut hat. Wir haben immer das Beste gehofft und uns aber auch auf das Schlimmste vorbereitet und haben zu den Vorbereitungen auch etwas getan. In den letzten Tagen gab es einen kritischen Moment für Europa, für die Ukraine und für die ganze Welt. Mit unseren Verbündeten in Brüssel, in der Europäischen Union, bei den G7, in Polen, wo ich ein Flüchtlingscenter besucht habe. Ich habe mich auch mit Dmitry Kuleba auf ukrainischem Boden getroffen. in Moldau, die weitere Integration in Europa suchen und auch die drei baltischen Nationen, Lettland, Estland und heute. Ich habe immer die Kernwerte unserer Länder, die uns zusammenbringen, der Respekt für die Rechtsstaatlichkeit, für die internationale Solidarität, für die Integrität, für Frieden und Sicherheit überall geschätzt. Und wie ich gestern schon gesagt habe, in Litauen und Lettland, die Menschen in Estland, leben seit Jahrzehnten unter der sowjetischen Okkupation und sie verstehen sehr tief, wie falsch dieser nicht provozierte Krieg Russlands gegen die Ukraine ist und wie stark die Ukraine jetzt für seine Souveränität kämpfen muss. Die Anzahl der verwundeten und getöteten Zivilisten steigt weiter an. Zum heutigen Punkt sind mehr als 1,7 Millionen Menschen gezwungen gewesen, ihr Land zu verlassen. 800.000 wurden innerhalb der Ukraine vertrieben. Mehr Menschen versuchen zu fliehen. fliehen, kommen aber nicht aus den besetzten Gebieten heraus. Es gibt immer Berichte von Beschuss durch russische Streitkräfte auf diesen humanitären Wegen. Wir rufen Russland weiter auf, den humanitären Zugang zu gewähren für die Versorgung mit Lebensmitteln, Medikamenten und für die humanitären Organisationen wie das Rote Kreuz, die natürlich echte humanitäre Hilfe leisten können, sodass die Menschen auch sicher ihr Land verlassen können. Island und die USA als Verbündete werden weiter zur Ukraine halten. Wir haben auch unsere Sicherheitsanstrengungen und die Unterstützung für die Selbstverteidigung der Ukraine erhöht und werden mehr liefern, sowohl für die Menschen, die innerhalb der Ukraine kämpfen, als auch für die Menschen außerhalb. Wir haben unsere auch mit dem Kongress zusammengearbeitet. Wir versuchen, ob wir noch mehr tun können. Die Bitte des Präsidenten Biden für weitere 10 Millionen werden weitere wirtschaftliche und andere Hilfe ermöglichen, wenn sie benötigt wird. Estland hat sehr verschiedenartige Hilfe geleistet. Sie haben Antipanzerraketen, Panzerabwehrwaffen und anderes geliefert. Mehr als 10.000 Flüchtlinge können hier aufgenommen werden. wenn sie nach Estland kommen wollen. Und wie überall in der baltischen Region in den letzten Tagen, sehen wir weiterhin eine ausgesprochen starke Unterstützung für die Menschen in der Ukraine. Wir sehen überall an den Gebäuden blau-gelbe Fahnen. Und das ist eine machtvolle Solidaritätsbekundung. Und gemeinsam, wie die Premierministerin bereits gesagt hat, ist Estland und die USA beteiligt. gemeinsam verbündet für die Verteidigung. Präsident Biden hat schon gesagt, wir werden jeden Zentimeter des NATO-Territoriums mit der vollen Macht unseres Bündnisses verteidigen. Der Artikel 5 ist absolut glasklar und ein Angriff auf ein Land würde als ein Angriff auf alle bezeichnet werden und jede Bedrohung, die auf uns herunterkommt, egal woher, würde so bekämpft werden. Es ist jetzt das Dem Oberkommandanten der Alliierten in Europa und der haben wir die Reaktionskräfte zur Verfügung gestellt. Wir haben die Anwesenheit der NATO-Truppen hier erhöht, ebenso wie die Fähigkeiten. Es wurden von Präsident Biden weitere 7000 Mann nach Europa beordert und sie sind jetzt bereits unterwegs an die Ostflanke und haben dort Wir haben 35 Jagdflugzeuge geliefert und wir haben auch unsere Luftpolicing-Missionen erhöht. Wir haben uns natürlich auch um die Energiesicherheit gekümmert, die wichtig für unsere gemeinsame Sicherheit ist. In den letzten 30 Jahren haben die baltischen Staaten eine... demokratische Entwicklung gehabt gegen Autoritarismus und sie wollten sich weiter in Europa integrieren. Estland ist heute die am meisten fortgeschrittene digitale Gesellschaft der Welt. Die Geschäftswelt ist erfüllt von Innovationen. Die Menschen können ihren Pass heute online betragen. Zum Vergleich mit Moskau, dort sind Journalisten Ziele geworden. Es gibt Desinformation sowohl außerhalb als auch innerhalb Russlands. Viele Menschen in Russland haben überhaupt keine Vorstellung, was ihre Regierung gerade jetzt in der Ukraine tut. Sie glauben, sie befreien die Ukraine und stattdessen... Zerstören Sie sie. Moskau hat jetzt Facebook und Twitter geschlossen, um seine Lügen besser verbreiten zu können. Die Schwachpunkte der Autokratie ist, dass sie völlig die Kontrolle der Informationen verlieren. Wir müssen also jetzt etwas tun gegen die Desinformation der Russen und wir müssen... den russischen Menschen sagen, welche tiefen Kosten es für die Ukraine hat, aber auch für die russische Bevölkerung selbst, die jeden Tag größer wird. Der Rubel ist jetzt im Verfall. Mastercard, Visa, Apple Pay sind geschlossen worden. Dutzende von führenden Unternehmen von Nike bis Coca-Cola, FedEx bis Spotify, Netflix und Toyota haben bereits das Land verlassen. Präsident Putin macht jetzt Russland kaputt. Innerhalb einer Woche hat er 30 Jahre internationaler Möglichkeiten zerstört. Die russischen Menschen haben bereits jetzt die Folgen gespürt und das wird noch zunehmen. Ich hoffe, sie werden eines Tages erfahren, warum das alles passiert. Das ist nicht ein Krieg des russischen Volkes. Es geht auch nicht um Befreiung und was auch immer Sie erzählt haben. Das ist der Krieg Putins gegen ein souveränes Land, demokratisches Land. Und am Ende wird Ihnen die Welt dafür auch zur Verantwortung ziehen. Es ist ein kritischer Moment auch für die Demokratien in Europa. Und deshalb ist es umso wichtiger, dass Demokratien wie Estland oder die gesamten baltischen Länder den besseren Weg aufzeigen und sich der Herausforderung des... in der Aktualität stellen und die USA stehen fest zu ihnen. Heute ist ja, ich sollte es gewusst haben, internationaler Frauentag und ich freue mich, dass wir hier sind, denn es wurde ja hier gerade jetzt ja deutlich gezeigt, Estland hat Eine erstaunlich starke Führungskraft, besonders durch Frauen in Form ihrer Premierministerin und der Außenministerin. Sie schließen in Island erfolgreich die Bezahlungslücke zwischen Männern und Frauen und führen die Welt an bei all diesen Bereichen. Heute glauben wir auch an die Stärke der Frauen in der Ukraine. Hunderttausende von ukrainischen Frauen haben ihre Kinder in Sicherheit gebracht in andere Länder, nachdem sie die Männer zurückgelassen haben. Viele Frauen sind aber auch dem Kampfgeschehen beigetreten und verteidigen das Land mit der Waffe in der Hand selbst. Wir bewundern den Mut und die Resilienz der Ukrainer. Vielen Dank.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Strategy:Fragmentation-splitscreen">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="story01:Blinken-Tallinn">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

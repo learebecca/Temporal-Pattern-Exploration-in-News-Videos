@@ -1,0 +1,66 @@
+{
+    "video_id": "TV-20220208-1335-1600.webl.h264",
+    "story_id": "story01",
+    "shots": [
+        {
+            "shot_label": "23",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "24",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "25",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "26",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "27",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "28",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

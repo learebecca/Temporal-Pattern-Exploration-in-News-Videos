@@ -1,0 +1,291 @@
+{
+    "video_fn": "d0s3YUkyWGZBQzA=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 5.68,
+                    "label": "0"
+                },
+                {
+                    "start": 5.72,
+                    "end": 22.0,
+                    "label": "1"
+                },
+                {
+                    "start": 22.04,
+                    "end": 24.56,
+                    "label": "2"
+                },
+                {
+                    "start": 24.6,
+                    "end": 26.52,
+                    "label": "3"
+                },
+                {
+                    "start": 26.56,
+                    "end": 28.64,
+                    "label": "4"
+                },
+                {
+                    "start": 28.68,
+                    "end": 31.04,
+                    "label": "5"
+                },
+                {
+                    "start": 31.08,
+                    "end": 34.96,
+                    "label": "6"
+                },
+                {
+                    "start": 35.0,
+                    "end": 37.56,
+                    "label": "7"
+                },
+                {
+                    "start": 37.6,
+                    "end": 40.8,
+                    "label": "8"
+                },
+                {
+                    "start": 40.84,
+                    "end": 41.96,
+                    "label": "9"
+                },
+                {
+                    "start": 42.0,
+                    "end": 47.68,
+                    "label": "10"
+                },
+                {
+                    "start": 47.72,
+                    "end": 49.8,
+                    "label": "11"
+                },
+                {
+                    "start": 49.84,
+                    "end": 51.84,
+                    "label": "12"
+                },
+                {
+                    "start": 51.88,
+                    "end": 53.88,
+                    "label": "13"
+                },
+                {
+                    "start": 53.92,
+                    "end": 55.68,
+                    "label": "14"
+                },
+                {
+                    "start": 55.72,
+                    "end": 58.48,
+                    "label": "15"
+                },
+                {
+                    "start": 58.52,
+                    "end": 67.28,
+                    "label": "16"
+                },
+                {
+                    "start": 67.32,
+                    "end": 69.24,
+                    "label": "17"
+                },
+                {
+                    "start": 69.28,
+                    "end": 71.44,
+                    "label": "18"
+                },
+                {
+                    "start": 71.48,
+                    "end": 82.04,
+                    "label": "19"
+                },
+                {
+                    "start": 82.08,
+                    "end": 90.68,
+                    "label": "20"
+                },
+                {
+                    "start": 90.72,
+                    "end": 92.84,
+                    "label": "21"
+                },
+                {
+                    "start": 92.88,
+                    "end": 95.92,
+                    "label": "22"
+                },
+                {
+                    "start": 95.96,
+                    "end": 97.76,
+                    "label": "23"
+                },
+                {
+                    "start": 97.8,
+                    "end": 99.2,
+                    "label": "24"
+                },
+                {
+                    "start": 99.24,
+                    "end": 102.16,
+                    "label": "25"
+                },
+                {
+                    "start": 102.2,
+                    "end": 105.16,
+                    "label": "26"
+                },
+                {
+                    "start": 105.2,
+                    "end": 106.68,
+                    "label": "27"
+                },
+                {
+                    "start": 106.72,
+                    "end": 122.04,
+                    "label": "28"
+                },
+                {
+                    "start": 122.08,
+                    "end": 125.4,
+                    "label": "29"
+                },
+                {
+                    "start": 125.44,
+                    "end": 129.96,
+                    "label": "30"
+                },
+                {
+                    "start": 130.0,
+                    "end": 133.6,
+                    "label": "31"
+                },
+                {
+                    "start": 133.64,
+                    "end": 148.24,
+                    "label": "32"
+                },
+                {
+                    "start": 148.28,
+                    "end": 153.72,
+                    "label": "33"
+                },
+                {
+                    "start": 153.76,
+                    "end": 156.76,
+                    "label": "34"
+                },
+                {
+                    "start": 156.8,
+                    "end": 187.24,
+                    "label": "35"
+                },
+                {
+                    "start": 187.28,
+                    "end": 193.0,
+                    "label": "36"
+                },
+                {
+                    "start": 193.04,
+                    "end": 209.08,
+                    "label": "37"
+                },
+                {
+                    "start": 209.12,
+                    "end": 221.04,
+                    "label": "38"
+                },
+                {
+                    "start": 221.08,
+                    "end": 233.12,
+                    "label": "39"
+                },
+                {
+                    "start": 233.16,
+                    "end": 273.84,
+                    "label": "40"
+                },
+                {
+                    "start": 273.88,
+                    "end": 279.24,
+                    "label": "41"
+                },
+                {
+                    "start": 279.28,
+                    "end": 297.32,
+                    "label": "42"
+                },
+                {
+                    "start": 297.36,
+                    "end": 330.72,
+                    "label": "43"
+                },
+                {
+                    "start": 330.76,
+                    "end": 365.84,
+                    "label": "44"
+                },
+                {
+                    "start": 365.88,
+                    "end": 385.84,
+                    "label": "45"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:ukraine-russian-crimes",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 133.6,
+                    "label": "ukraine-russian-crimes"
+                }
+            ]
+        },
+        {
+            "name": "story02:russia-UN-security-council",
+            "segments": [
+                {
+                    "start": 133.64,
+                    "end": 365.84,
+                    "label": "russia-un-security-council"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 95.96,
+                    "end": 99.2,
+                    "label": "intensify"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 187.28,
+                    "end": 233.12,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 312.546,
+                    "end": 365.84,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        }
+    ]
+}

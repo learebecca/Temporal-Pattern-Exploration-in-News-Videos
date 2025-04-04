@@ -1,0 +1,61 @@
+{
+    "video_id": "COMPACTTV-2022-02-01-C894",
+    "story_id": "story06",
+    "shots": [
+        {
+            "shot_label": "109",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "110",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "111",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "112",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "113",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

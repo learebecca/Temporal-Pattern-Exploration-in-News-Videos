@@ -1,0 +1,311 @@
+{
+    "video_fn": "NUdaaFVSYldxckU=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 8.08,
+                    "label": "0"
+                },
+                {
+                    "start": 8.119,
+                    "end": 31.36,
+                    "label": "1"
+                },
+                {
+                    "start": 31.4,
+                    "end": 34.88,
+                    "label": "2"
+                },
+                {
+                    "start": 34.92,
+                    "end": 37.52,
+                    "label": "3"
+                },
+                {
+                    "start": 37.56,
+                    "end": 42.2,
+                    "label": "4"
+                },
+                {
+                    "start": 42.24,
+                    "end": 44.96,
+                    "label": "5"
+                },
+                {
+                    "start": 45.0,
+                    "end": 47.88,
+                    "label": "6"
+                },
+                {
+                    "start": 47.92,
+                    "end": 50.24,
+                    "label": "7"
+                },
+                {
+                    "start": 50.28,
+                    "end": 52.56,
+                    "label": "8"
+                },
+                {
+                    "start": 52.6,
+                    "end": 55.64,
+                    "label": "9"
+                },
+                {
+                    "start": 55.68,
+                    "end": 57.84,
+                    "label": "10"
+                },
+                {
+                    "start": 57.88,
+                    "end": 67.64,
+                    "label": "11"
+                },
+                {
+                    "start": 67.68,
+                    "end": 69.44,
+                    "label": "12"
+                },
+                {
+                    "start": 69.48,
+                    "end": 83.48,
+                    "label": "13"
+                },
+                {
+                    "start": 83.52,
+                    "end": 86.68,
+                    "label": "14"
+                },
+                {
+                    "start": 86.72,
+                    "end": 90.24,
+                    "label": "15"
+                },
+                {
+                    "start": 90.28,
+                    "end": 106.72,
+                    "label": "16"
+                },
+                {
+                    "start": 106.76,
+                    "end": 109.52,
+                    "label": "17"
+                },
+                {
+                    "start": 109.56,
+                    "end": 111.72,
+                    "label": "18"
+                },
+                {
+                    "start": 111.76,
+                    "end": 113.92,
+                    "label": "19"
+                },
+                {
+                    "start": 113.96,
+                    "end": 117.08,
+                    "label": "20"
+                },
+                {
+                    "start": 117.12,
+                    "end": 118.88,
+                    "label": "21"
+                },
+                {
+                    "start": 118.92,
+                    "end": 127.48,
+                    "label": "22"
+                },
+                {
+                    "start": 127.52,
+                    "end": 131.36,
+                    "label": "23"
+                },
+                {
+                    "start": 131.4,
+                    "end": 134.84,
+                    "label": "24"
+                },
+                {
+                    "start": 134.88,
+                    "end": 137.2,
+                    "label": "25"
+                },
+                {
+                    "start": 137.24,
+                    "end": 140.32,
+                    "label": "26"
+                },
+                {
+                    "start": 140.36,
+                    "end": 142.4,
+                    "label": "27"
+                },
+                {
+                    "start": 142.44,
+                    "end": 146.4,
+                    "label": "28"
+                },
+                {
+                    "start": 146.44,
+                    "end": 163.6,
+                    "label": "29"
+                },
+                {
+                    "start": 163.64,
+                    "end": 168.52,
+                    "label": "30"
+                },
+                {
+                    "start": 168.56,
+                    "end": 172.36,
+                    "label": "31"
+                },
+                {
+                    "start": 172.4,
+                    "end": 177.96,
+                    "label": "32"
+                },
+                {
+                    "start": 178.0,
+                    "end": 183.12,
+                    "label": "33"
+                },
+                {
+                    "start": 183.16,
+                    "end": 187.84,
+                    "label": "34"
+                },
+                {
+                    "start": 187.88,
+                    "end": 195.4,
+                    "label": "35"
+                },
+                {
+                    "start": 195.44,
+                    "end": 198.72,
+                    "label": "36"
+                },
+                {
+                    "start": 198.76,
+                    "end": 203.84,
+                    "label": "37"
+                },
+                {
+                    "start": 203.88,
+                    "end": 207.68,
+                    "label": "38"
+                },
+                {
+                    "start": 207.72,
+                    "end": 209.48,
+                    "label": "39"
+                },
+                {
+                    "start": 209.52,
+                    "end": 211.92,
+                    "label": "40"
+                },
+                {
+                    "start": 211.96,
+                    "end": 221.32,
+                    "label": "41"
+                },
+                {
+                    "start": 221.36,
+                    "end": 236.32,
+                    "label": "42"
+                },
+                {
+                    "start": 236.36,
+                    "end": 239.6,
+                    "label": "43"
+                },
+                {
+                    "start": 239.64,
+                    "end": 244.4,
+                    "label": "44"
+                },
+                {
+                    "start": 244.44,
+                    "end": 254.84,
+                    "label": "45"
+                },
+                {
+                    "start": 254.88,
+                    "end": 260.079,
+                    "label": "46"
+                },
+                {
+                    "start": 260.12,
+                    "end": 268.92,
+                    "label": "47"
+                },
+                {
+                    "start": 268.96,
+                    "end": 272.56,
+                    "label": "48"
+                },
+                {
+                    "start": 272.6,
+                    "end": 284.68,
+                    "label": "49"
+                },
+                {
+                    "start": 284.72,
+                    "end": 304.68,
+                    "label": "50"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:russian-attacks",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 146.4,
+                    "label": "russian-attacks"
+                }
+            ]
+        },
+        {
+            "name": "story02:waffenlieferung",
+            "segments": [
+                {
+                    "start": 146.44,
+                    "end": 284.68,
+                    "label": "waffenlieferung"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "cut-away",
+            "segments": [
+                {
+                    "start": 178.0,
+                    "end": 195.4,
+                    "label": "cut-away"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "emotionalization",
+            "segments": [
+                {
+                    "start": 32.595,
+                    "end": 145.362,
+                    "label": "emotionalization"
+                }
+            ]
+        }
+    ]
+}

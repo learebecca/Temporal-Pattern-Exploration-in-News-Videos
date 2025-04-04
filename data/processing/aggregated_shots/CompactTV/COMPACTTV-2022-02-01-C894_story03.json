@@ -1,0 +1,1279 @@
+{
+    "44": {
+        "start": 411.84,
+        "end": 447.28,
+        "strategies": [],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [
+            "shot-reverse-shot",
+            "alternating-shot"
+        ],
+        "whisperx_ner.pkl": [
+            0.0,
+            3.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            4.0,
+            8.0,
+            9.0,
+            4.0,
+            3.0,
+            15.0,
+            0.0,
+            19.0,
+            4.0,
+            0.0,
+            4.0,
+            7.0,
+            5.0,
+            13.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.19138755980861244,
+            0.0,
+            0.013157894736842105,
+            0.02033492822966507,
+            0.10885167464114832,
+            0.1674641148325359,
+            0.4988038277511962
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.0694406167513792
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.8046875,
+            0.69189453125,
+            0.55517578125,
+            0.53662109375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.7013903260231018,
+            0.5219038128852844,
+            0.31709104776382446,
+            0.14817795157432556
+        ],
+        "places_shot_similarity.pkl": [
+            0.7214434146881104,
+            0.7973862886428833,
+            0.6231657862663269,
+            0.4731484651565552
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.8710144758224487,
+            0.7709651589393616,
+            0.638988196849823,
+            0.7043046951293945
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.8808587193489075,
+            0.7352541089057922,
+            0.4428046941757202,
+            0.5635123252868652
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8274377584457397,
+            0.7276914119720459,
+            0.6910837888717651,
+            0.5824199914932251
+        ],
+        "face_analysis.pkl": [
+            0.012236898755270297,
+            1120,
+            1.0,
+            0.7919642857142857
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "45": {
+        "start": 447.32,
+        "end": 475.04,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.4391691394658754,
+            0.011869436201780416,
+            0.0,
+            0.5489614243323442
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.16683792831173516
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.5126953125,
+            0.55517578125,
+            0.46044921875,
+            0.580078125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.24588537216186523,
+            0.31709104776382446,
+            0.2537744343280792,
+            0.18129627406597137
+        ],
+        "places_shot_similarity.pkl": [
+            0.602385401725769,
+            0.6231658458709717,
+            0.5920413136482239,
+            0.5941510796546936
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6085365414619446,
+            0.638988196849823,
+            0.6140599250793457,
+            0.6416623592376709
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.3782636523246765,
+            0.4428046941757202,
+            0.19985096156597137,
+            0.3569583296775818
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6021723747253418,
+            0.6910837888717651,
+            0.6527053117752075,
+            0.5278429985046387
+        ],
+        "face_analysis.pkl": [
+            0.006639515345104042,
+            4590,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "46": {
+        "start": 475.08,
+        "end": 478.64,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.44654306772591534
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.53662109375,
+            0.46044921875,
+            0.63623046875,
+            0.564453125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.14817795157432556,
+            0.2537744343280792,
+            0.2607302665710449,
+            0.40532562136650085
+        ],
+        "places_shot_similarity.pkl": [
+            0.4731484651565552,
+            0.5920413136482239,
+            0.7499033212661743,
+            0.6631165146827698
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7043046951293945,
+            0.6140599250793457,
+            0.7785179018974304,
+            0.598961591720581
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5635123252868652,
+            0.19985096156597137,
+            0.6621456742286682,
+            0.6887825727462769
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5824199914932251,
+            0.6527053117752075,
+            0.5909625887870789,
+            0.6212383508682251
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "47": {
+        "start": 478.68,
+        "end": 482.04,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [
+            "intensify"
+        ],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.5262550727012002
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.580078125,
+            0.63623046875,
+            0.625,
+            0.494140625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.18129627406597137,
+            0.2607302665710449,
+            0.39500734210014343,
+            0.01999976858496666
+        ],
+        "places_shot_similarity.pkl": [
+            0.5941510796546936,
+            0.7499033212661743,
+            0.6425624489784241,
+            0.5534815788269043
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6416623592376709,
+            0.7785179018974304,
+            0.6090015769004822,
+            0.6515273451805115
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.3569583296775818,
+            0.6621456742286682,
+            0.6677983999252319,
+            0.6404771208763123
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5278429985046387,
+            0.5909625887870789,
+            0.6223868131637573,
+            0.3979259431362152
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "48": {
+        "start": 482.08,
+        "end": 485.84,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [
+            "intensify"
+        ],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.7,
+            0.3,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.5807033274893713
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.564453125,
+            0.625,
+            0.7587890625,
+            0.58837890625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.40532562136650085,
+            0.39500734210014343,
+            0.28432437777519226,
+            0.3871886134147644
+        ],
+        "places_shot_similarity.pkl": [
+            0.6631165146827698,
+            0.6425624489784241,
+            0.7292795777320862,
+            0.5085901618003845
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.598961591720581,
+            0.6090015769004822,
+            0.6644222140312195,
+            0.6590971350669861
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.6887825727462769,
+            0.6677983999252319,
+            0.6477501392364502,
+            0.5677375793457031
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6212383508682251,
+            0.6223868131637573,
+            0.49418503046035767,
+            0.5973498225212097
+        ],
+        "face_analysis.pkl": [
+            0.0010219238281249992,
+            200,
+            1.0,
+            0.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "49": {
+        "start": 485.88,
+        "end": 489.2,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [
+            "intensify"
+        ],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.09855072463768116,
+            0.0,
+            0.06086956521739131,
+            0.2927536231884058,
+            0.14492753623188406,
+            0.0,
+            0.4028985507246377
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.599726817201562
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.494140625,
+            0.7587890625,
+            0.4951171875,
+            0.51171875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.01999976858496666,
+            0.28432437777519226,
+            0.04957134649157524,
+            0.04151713475584984
+        ],
+        "places_shot_similarity.pkl": [
+            0.5534815192222595,
+            0.7292794585227966,
+            0.45618873834609985,
+            0.49272701144218445
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6515273451805115,
+            0.6644222140312195,
+            0.6119108200073242,
+            0.5284205079078674
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.6404771208763123,
+            0.6477501392364502,
+            0.5391677021980286,
+            0.4954618215560913
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.3979259431362152,
+            0.49418503046035767,
+            0.4409324526786804,
+            0.5159603357315063
+        ],
+        "face_analysis.pkl": [
+            0.00678091414517196,
+            420,
+            1.0,
+            0.4
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "50": {
+        "start": 489.24,
+        "end": 492.4,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.5821640720945375
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.58837890625,
+            0.4951171875,
+            0.791015625,
+            0.80908203125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.3871886134147644,
+            0.04957134649157524,
+            0.2644408643245697,
+            0.4514196515083313
+        ],
+        "places_shot_similarity.pkl": [
+            0.5085901618003845,
+            0.45618873834609985,
+            0.7178515791893005,
+            0.7732916474342346
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6590971350669861,
+            0.6119108200073242,
+            0.7450509667396545,
+            0.7311754822731018
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5677375793457031,
+            0.5391677021980286,
+            0.5168668627738953,
+            0.6304094791412354
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5973498225212097,
+            0.4409324526786804,
+            0.7545469999313354,
+            0.7198993563652039
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "51": {
+        "start": 492.44,
+        "end": 495.16,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.5385172869269288
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.51171875,
+            0.791015625,
+            0.74609375,
+            0.55810546875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.04151713848114014,
+            0.2644408643245697,
+            0.15494054555892944,
+            0.16343387961387634
+        ],
+        "places_shot_similarity.pkl": [
+            0.49272701144218445,
+            0.7178515791893005,
+            0.6668432950973511,
+            0.5489968061447144
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.5284205079078674,
+            0.7450509667396545,
+            0.6598345041275024,
+            0.6723577380180359
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.4954618215560913,
+            0.5168668627738953,
+            0.5375195741653442,
+            0.4335421323776245
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5159603357315063,
+            0.7545469999313354,
+            0.5868197679519653,
+            0.5671181678771973
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "52": {
+        "start": 495.2,
+        "end": 498.96,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.4666605258898814
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.80908203125,
+            0.74609375,
+            0.53857421875,
+            0.449951171875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.4514196515083313,
+            0.15494054555892944,
+            0.17192375659942627,
+            -0.006971027702093124
+        ],
+        "places_shot_similarity.pkl": [
+            0.7732916474342346,
+            0.6668431758880615,
+            0.5017041563987732,
+            0.293550968170166
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7311754822731018,
+            0.6598345041275024,
+            0.7204893827438354,
+            0.7921044826507568
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.6304094791412354,
+            0.5375195741653442,
+            0.49744611978530884,
+            0.643059253692627
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.7198993563652039,
+            0.5868197679519653,
+            0.4552040696144104,
+            0.306812584400177
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "53": {
+        "start": 499.0,
+        "end": 526.28,
+        "strategies": [
+            "fragmentation"
+        ],
+        "stories": [
+            "story03:covid-finances"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            4.0,
+            0.0,
+            0.0,
+            1.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            11.0,
+            16.0,
+            31.0,
+            9.0,
+            8.0,
+            27.0,
+            0.0,
+            32.0,
+            4.0,
+            2.0,
+            10.0,
+            10.0,
+            15.0,
+            21.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.3712121212121212,
+            0.025757575757575757,
+            0.0,
+            0.603030303030303
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.27154612143543566
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.55810546875,
+            0.53857421875,
+            0.429443359375,
+            0.3876953125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.16343387961387634,
+            0.17192377150058746,
+            -0.034040119498968124,
+            0.014915511012077332
+        ],
+        "places_shot_similarity.pkl": [
+            0.5489967465400696,
+            0.5017040967941284,
+            0.2924116253852844,
+            0.5605315566062927
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6723577380180359,
+            0.7204893827438354,
+            0.6333323121070862,
+            0.6226046085357666
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.4335421323776245,
+            0.49744611978530884,
+            0.4794766306877136,
+            0.21120120584964752
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5671181678771973,
+            0.4552040696144104,
+            0.3459092676639557,
+            0.44789567589759827
+        ],
+        "face_analysis.pkl": [
+            0.009451847975523437,
+            3109,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    }
+}

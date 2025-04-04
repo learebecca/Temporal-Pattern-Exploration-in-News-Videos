@@ -1,0 +1,4937 @@
+{
+    "0": {
+        "start": 0.0,
+        "end": 37.56,
+        "strategies": [
+            "individualization_of_elite"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            3.0,
+            11.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            14.0,
+            13.0,
+            9.0,
+            3.0,
+            2.0,
+            19.0,
+            0.0,
+            19.0,
+            1.0,
+            1.0,
+            2.0,
+            11.0,
+            7.0,
+            13.0
+        ],
+        "llm_evaluative.pkl": [
+            0.625
+        ],
+        "face_emotions_deepface.pkl": [
+            0.12900874635568513,
+            0.0,
+            0.1326530612244898,
+            0.0728862973760933,
+            0.141399416909621,
+            0.07361516034985423,
+            0.45043731778425655
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.1837362170119677
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.5,
+            0.5,
+            0.62158203125,
+            0.60400390625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5,
+            0.5,
+            0.21313226222991943,
+            0.22658349573612213
+        ],
+        "places_shot_similarity.pkl": [
+            0.5,
+            0.5,
+            0.5653955936431885,
+            0.5325518250465393
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.0,
+            0.0,
+            0.837619960308075,
+            0.5174393653869629
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.0,
+            0.0,
+            0.28504905104637146,
+            0.4445132315158844
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.0,
+            0.0,
+            0.6262614727020264,
+            0.5829703211784363
+        ],
+        "face_analysis.pkl": [
+            0.011485816180001504,
+            1880,
+            1.0,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            2,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "1": {
+        "start": 37.6,
+        "end": 43.32,
+        "strategies": [
+            "individualization_of_elite"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            2.0,
+            1.0,
+            9.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            13.0,
+            14.0,
+            11.0,
+            1.0,
+            3.0,
+            19.0,
+            0.0,
+            24.0,
+            2.0,
+            2.0,
+            4.0,
+            8.0,
+            9.0,
+            13.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            1
+        ],
+        "shot_density.pkl": [
+            0.5497223380118967
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.5,
+            0.62158203125,
+            0.92236328125,
+            0.68603515625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5,
+            0.21313226222991943,
+            0.7872958183288574,
+            0.1561744213104248
+        ],
+        "places_shot_similarity.pkl": [
+            0.5,
+            0.5653955936431885,
+            0.9008139371871948,
+            0.5304853320121765
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.0,
+            0.837619960308075,
+            0.447861909866333,
+            0.7320135831832886
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.0,
+            0.28504905104637146,
+            0.4361521005630493,
+            0.3814903795719147
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.0,
+            0.6262614727020264,
+            0.9433483481407166,
+            0.5010020732879639
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            2,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.5
+        ]
+    },
+    "2": {
+        "start": 43.36,
+        "end": 46.84,
+        "strategies": [
+            "individualization_of_elite"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            0.0,
+            4.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            6.0,
+            5.0,
+            6.0,
+            0.0,
+            1.0,
+            7.0,
+            0.0,
+            11.0,
+            1.0,
+            1.0,
+            3.0,
+            3.0,
+            5.0,
+            4.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            1
+        ],
+        "shot_density.pkl": [
+            0.5954809827000443
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.60400390625,
+            0.92236328125,
+            0.67919921875,
+            0.58544921875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.22658349573612213,
+            0.7872956991195679,
+            0.17020778357982635,
+            0.1508714109659195
+        ],
+        "places_shot_similarity.pkl": [
+            0.5325518250465393,
+            0.9008139371871948,
+            0.5126288533210754,
+            0.5567476153373718
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.5174393653869629,
+            0.447861909866333,
+            0.3980335593223572,
+            0.4445274770259857
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.4445132315158844,
+            0.4361521005630493,
+            0.4963047206401825,
+            0.45381098985671997
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5829703211784363,
+            0.9433483481407166,
+            0.4842366874217987,
+            0.5450015068054199
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "3": {
+        "start": 46.88,
+        "end": 57.52,
+        "strategies": [
+            "individualization_of_elite"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            0.0,
+            4.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            6.0,
+            5.0,
+            6.0,
+            0.0,
+            1.0,
+            7.0,
+            0.0,
+            11.0,
+            1.0,
+            1.0,
+            3.0,
+            3.0,
+            5.0,
+            4.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.184,
+            0.0,
+            0.198,
+            0.24,
+            0.198,
+            0.0,
+            0.18
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.5264008913021733
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.68603515625,
+            0.67919921875,
+            0.76220703125,
+            0.751953125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.1561744064092636,
+            0.17020778357982635,
+            0.5564523935317993,
+            0.4067022502422333
+        ],
+        "places_shot_similarity.pkl": [
+            0.5304853916168213,
+            0.5126287937164307,
+            0.7682508826255798,
+            0.6957244277000427
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7320135831832886,
+            0.3980335593223572,
+            0.7346413731575012,
+            0.6872361302375793
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.3814903795719147,
+            0.4963047206401825,
+            0.2453412562608719,
+            0.5697616338729858
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5010020732879639,
+            0.4842366874217987,
+            0.6735514402389526,
+            0.6717944145202637
+        ],
+        "face_analysis.pkl": [
+            0.0020527372944693614,
+            669,
+            0.9596412556053812,
+            0.656203288490284
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "4": {
+        "start": 57.56,
+        "end": 74.6,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            0.0,
+            6.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            9.0,
+            9.0,
+            8.0,
+            2.0,
+            2.0,
+            14.0,
+            0.0,
+            18.0,
+            1.0,
+            1.0,
+            5.0,
+            5.0,
+            9.0,
+            8.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.7309644670050761,
+            0.0,
+            0.02030456852791878,
+            0.09390862944162437,
+            0.02030456852791878,
+            0.0,
+            0.13451776649746192
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.39920064283911855
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.58544921875,
+            0.76220703125,
+            0.63427734375,
+            0.6083984375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.1508714109659195,
+            0.5564523935317993,
+            0.37025588750839233,
+            0.25430017709732056
+        ],
+        "places_shot_similarity.pkl": [
+            0.5567476153373718,
+            0.7682508230209351,
+            0.6354985237121582,
+            0.69615638256073
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.4445274770259857,
+            0.7346413731575012,
+            0.7551591396331787,
+            0.7625612616539001
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.45381098985671997,
+            0.2453412562608719,
+            0.14775946736335754,
+            0.4471602439880371
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5450015068054199,
+            0.6735514402389526,
+            0.6856981515884399,
+            0.6066311597824097
+        ],
+        "face_analysis.pkl": [
+            0.02909331648045141,
+            427,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.5,
+            2,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.5
+        ]
+    },
+    "5": {
+        "start": 74.64,
+        "end": 83.28,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [
+            "alternating-shot"
+        ],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            24.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            28.0,
+            26.0,
+            17.0,
+            15.0,
+            21.0,
+            52.0,
+            0.0,
+            65.0,
+            3.0,
+            4.0,
+            13.0,
+            18.0,
+            34.0,
+            32.0
+        ],
+        "llm_evaluative.pkl": [
+            0.625
+        ],
+        "face_emotions_deepface.pkl": [
+            0.011325782811459028,
+            0.0,
+            0.20586275816122585,
+            0.07928047968021319,
+            0.3077948034643571,
+            0.001998667554963358,
+            0.3937375083277815
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.5252979947324273
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.751953125,
+            0.63427734375,
+            0.77001953125,
+            0.833984375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.4067022502422333,
+            0.37025588750839233,
+            0.5894365310668945,
+            0.7150861024856567
+        ],
+        "places_shot_similarity.pkl": [
+            0.6957244277000427,
+            0.6354985237121582,
+            0.7882113456726074,
+            0.8817295432090759
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6872361302375793,
+            0.7551591396331787,
+            0.7914440631866455,
+            0.7726367712020874
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5697616338729858,
+            0.14775946736335754,
+            0.242500439286232,
+            0.650026798248291
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6717944145202637,
+            0.6856981515884399,
+            0.6895161271095276,
+            0.9328505992889404
+        ],
+        "face_analysis.pkl": [
+            0.001290778649255374,
+            3805,
+            1.0,
+            0.4215505913272011
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.5,
+            2,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.5
+        ]
+    },
+    "6": {
+        "start": 83.32,
+        "end": 86.96,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [
+            "alternating-shot"
+        ],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.025974025974025976,
+            0.0,
+            0.1331168831168831,
+            0.262987012987013,
+            0.275974025974026,
+            0.003246753246753247,
+            0.2987012987012987
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.5675409999277272
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.6083984375,
+            0.77001953125,
+            0.80078125,
+            0.59521484375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.25430017709732056,
+            0.5894365310668945,
+            0.6081693768501282,
+            0.2564425468444824
+        ],
+        "places_shot_similarity.pkl": [
+            0.69615638256073,
+            0.7882113456726074,
+            0.7959973812103271,
+            0.6829569935798645
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7625612616539001,
+            0.7914440631866455,
+            0.7681912183761597,
+            0.7271127104759216
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.4471602439880371,
+            0.242500439286232,
+            0.24754825234413147,
+            0.3357820510864258
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6066311597824097,
+            0.6895161271095276,
+            0.6493048667907715,
+            0.5511728525161743
+        ],
+        "face_analysis.pkl": [
+            0.019792377727160915,
+            734,
+            1.0,
+            0.5722070844686649
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "7": {
+        "start": 87.0,
+        "end": 97.28,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [
+            "alternating-shot"
+        ],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0011614401858304297,
+            0.0,
+            0.1521486643437863,
+            0.12427409988385599,
+            0.20905923344947736,
+            0.0011614401858304297,
+            0.5121951219512195
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.4958010441009715
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.833984375,
+            0.80078125,
+            0.6181640625,
+            0.6943359375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.715086042881012,
+            0.6081693172454834,
+            0.3058285415172577,
+            0.13181592524051666
+        ],
+        "places_shot_similarity.pkl": [
+            0.8817296028137207,
+            0.7959974408149719,
+            0.660818338394165,
+            0.5298664569854736
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7726367712020874,
+            0.7681912183761597,
+            0.6575639247894287,
+            0.6626635789871216
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.650026798248291,
+            0.24754825234413147,
+            0.18405583500862122,
+            0.6693115234375
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.9328505992889404,
+            0.6493048667907715,
+            0.5451318025588989,
+            0.6067233681678772
+        ],
+        "face_analysis.pkl": [
+            0.0013499642267331656,
+            4369,
+            1.0,
+            0.5147631036850537
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "8": {
+        "start": 97.32,
+        "end": 118.48,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.16489361702127658,
+            0.0,
+            0.02127659574468085,
+            0.0026595744680851063,
+            0.30319148936170215,
+            0.0,
+            0.5079787234042553
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.39991424904010264
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.59521484375,
+            0.6181640625,
+            0.61181640625,
+            0.62109375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.2564425468444824,
+            0.3058285713195801,
+            0.243965283036232,
+            0.2566016614437103
+        ],
+        "places_shot_similarity.pkl": [
+            0.6829569339752197,
+            0.660818338394165,
+            0.5439548492431641,
+            0.586500883102417
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7271127104759216,
+            0.6575639247894287,
+            0.7093695402145386,
+            0.7163918018341064
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.3357820510864258,
+            0.18405583500862122,
+            0.19897253811359406,
+            0.3090018033981323
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5511728525161743,
+            0.5451318025588989,
+            0.5892395973205566,
+            0.5237733125686646
+        ],
+        "face_analysis.pkl": [
+            0.02502616655201783,
+            530,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "9": {
+        "start": 118.52,
+        "end": 124.6,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            1
+        ],
+        "shot_density.pkl": [
+            0.7533814567146799
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.6943359375,
+            0.61181640625,
+            0.76318359375,
+            0.720703125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.13181592524051666,
+            0.2439652681350708,
+            0.4655166268348694,
+            0.2733207046985626
+        ],
+        "places_shot_similarity.pkl": [
+            0.5298664569854736,
+            0.5439548492431641,
+            0.572110116481781,
+            0.5610551238059998
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6626635789871216,
+            0.7093695402145386,
+            0.7285940051078796,
+            0.6875200271606445
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.6693115234375,
+            0.19897253811359406,
+            0.2613625228404999,
+            0.32004696130752563
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6067233681678772,
+            0.5892395973205566,
+            0.6322375535964966,
+            0.6201631426811218
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "10": {
+        "start": 124.64,
+        "end": 127.96,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.9128541319826257
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.62109375,
+            0.76318359375,
+            0.70263671875,
+            0.76318359375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.25660163164138794,
+            0.4655166268348694,
+            0.36016255617141724,
+            0.31311723589897156
+        ],
+        "places_shot_similarity.pkl": [
+            0.586500883102417,
+            0.572110116481781,
+            0.6556127071380615,
+            0.537135660648346
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7163918018341064,
+            0.7285940051078796,
+            0.7694281339645386,
+            0.7806182503700256
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.3090018033981323,
+            0.2613625228404999,
+            0.5687180757522583,
+            0.2829897701740265
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5237733125686646,
+            0.6322375535964966,
+            0.5939962863922119,
+            0.5110665559768677
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "11": {
+        "start": 128.0,
+        "end": 130.759,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.5862068965517241,
+            0.0,
+            0.41379310344827586,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.9766821879425306
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.720703125,
+            0.70263671875,
+            0.6728515625,
+            0.7578125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.2733207046985626,
+            0.36016255617141724,
+            0.17554593086242676,
+            0.5576848387718201
+        ],
+        "places_shot_similarity.pkl": [
+            0.561055064201355,
+            0.6556127071380615,
+            0.6075854897499084,
+            0.8138094544410706
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6875200271606445,
+            0.7694281339645386,
+            0.7732543349266052,
+            0.7220457196235657
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.32004696130752563,
+            0.5687180757522583,
+            0.3900909423828125,
+            0.46792975068092346
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6201631426811218,
+            0.5939962863922119,
+            0.5338541269302368,
+            0.7126312851905823
+        ],
+        "face_analysis.pkl": [
+            0.008021005566578487,
+            63,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "12": {
+        "start": 130.8,
+        "end": 137.24,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            1
+        ],
+        "shot_density.pkl": [
+            0.9859919548861763
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.76318359375,
+            0.6728515625,
+            0.65869140625,
+            0.67236328125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.31311720609664917,
+            0.17554593086242676,
+            0.1579941213130951,
+            0.13599373400211334
+        ],
+        "places_shot_similarity.pkl": [
+            0.537135660648346,
+            0.6075855493545532,
+            0.6012739539146423,
+            0.5817376375198364
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7806182503700256,
+            0.7732543349266052,
+            0.7216179370880127,
+            0.5626334547996521
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.2829897701740265,
+            0.3900909423828125,
+            0.4198365807533264,
+            0.24310126900672913
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5110665559768677,
+            0.5338541269302368,
+            0.5593544244766235,
+            0.5777449607849121
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "13": {
+        "start": 137.28,
+        "end": 139.6,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.06220095693779904,
+            0.0,
+            0.03349282296650718,
+            0.023923444976076555,
+            0.42105263157894735,
+            0.0,
+            0.45933014354066987
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.9186733080920344
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.7578125,
+            0.65869140625,
+            0.71337890625,
+            0.7626953125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5576848387718201,
+            0.1579941213130951,
+            0.5314323306083679,
+            0.6915006041526794
+        ],
+        "places_shot_similarity.pkl": [
+            0.8138094544410706,
+            0.6012739539146423,
+            0.8052982687950134,
+            0.8412719964981079
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7220457196235657,
+            0.7216179370880127,
+            0.5360065698623657,
+            0.7042381763458252
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.46792975068092346,
+            0.4198365807533264,
+            0.18809765577316284,
+            0.4172041416168213
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.7126312851905823,
+            0.5593544244766235,
+            0.813265323638916,
+            0.8363547921180725
+        ],
+        "face_analysis.pkl": [
+            0.014657537385181508,
+            251,
+            1.0,
+            0.3545816733067729
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "14": {
+        "start": 139.64,
+        "end": 141.68,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0
+        ],
+        "shot_density.pkl": [
+            0.8568813521833765
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.671875,
+            0.71337890625,
+            0.66943359375,
+            0.607421875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.13599373400211334,
+            0.5314323306083679,
+            0.46827855706214905,
+            0.10762044042348862
+        ],
+        "places_shot_similarity.pkl": [
+            0.5817376375198364,
+            0.805298388004303,
+            0.8316786885261536,
+            0.6208615899085999
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.5626334547996521,
+            0.5360065698623657,
+            0.4918924868106842,
+            0.5496313571929932
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.24310126900672913,
+            0.18809765577316284,
+            0.23090706765651703,
+            0.13390696048736572
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5777449607849121,
+            0.813265323638916,
+            0.7953172922134399,
+            0.5875260829925537
+        ],
+        "face_analysis.pkl": [
+            0.07208658854166666,
+            1,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "15": {
+        "start": 141.72,
+        "end": 160.32,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.2265625,
+            0.0,
+            0.033854166666666664,
+            0.0,
+            0.2890625,
+            0.0,
+            0.4505208333333333
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.25
+        ],
+        "shot_density.pkl": [
+            0.6694301831024118
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.7626953125,
+            0.66943359375,
+            0.58447265625,
+            0.5869140625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.6915006041526794,
+            0.46827852725982666,
+            0.23363111913204193,
+            0.19003841280937195
+        ],
+        "places_shot_similarity.pkl": [
+            0.8412720561027527,
+            0.8316786885261536,
+            0.6370240449905396,
+            0.6003538370132446
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7042381763458252,
+            0.4918924868106842,
+            0.6895365715026855,
+            0.6871675848960876
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.4172041416168213,
+            0.23090706765651703,
+            0.414278507232666,
+            0.31131547689437866
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8363547921180725,
+            0.7953172922134399,
+            0.6133492588996887,
+            0.6469753384590149
+        ],
+        "face_analysis.pkl": [
+            0.11442837796554595,
+            466,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "16": {
+        "start": 160.36,
+        "end": 164.92,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.824305664849275
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.607421875,
+            0.58447265625,
+            0.70654296875,
+            0.78369140625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.10762045532464981,
+            0.23363108932971954,
+            0.3253893554210663,
+            0.35550224781036377
+        ],
+        "places_shot_similarity.pkl": [
+            0.6208615899085999,
+            0.6370239853858948,
+            0.7670632004737854,
+            0.7815099954605103
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.5496313571929932,
+            0.6895365715026855,
+            0.8094319105148315,
+            0.7275117635726929
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.13390696048736572,
+            0.414278507232666,
+            0.2041444480419159,
+            0.46353745460510254
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5875260829925537,
+            0.6133492588996887,
+            0.6270666122436523,
+            0.591881513595581
+        ],
+        "face_analysis.pkl": [
+            0.0011464436848958334,
+            16,
+            1.0,
+            0.25
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "17": {
+        "start": 164.96,
+        "end": 168.68,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            1
+        ],
+        "shot_density.pkl": [
+            0.9372932866559648
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.5869140625,
+            0.70654296875,
+            0.744140625,
+            0.73974609375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.19003841280937195,
+            0.3253893554210663,
+            0.21289561688899994,
+            0.3792877495288849
+        ],
+        "places_shot_similarity.pkl": [
+            0.6003538370132446,
+            0.7670632600784302,
+            0.6934792995452881,
+            0.7991984486579895
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6871675848960876,
+            0.8094319105148315,
+            0.6387979984283447,
+            0.8314753770828247
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.31131547689437866,
+            0.2041444480419159,
+            0.3519827425479889,
+            0.40510958433151245
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6469753384590149,
+            0.6270666122436523,
+            0.5873914957046509,
+            0.6934633255004883
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "18": {
+        "start": 168.72,
+        "end": 171.76,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.9836088189880846
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.78369140625,
+            0.74462890625,
+            0.75,
+            0.80419921875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.35550224781036377,
+            0.21289561688899994,
+            0.22085043787956238,
+            0.3412211537361145
+        ],
+        "places_shot_similarity.pkl": [
+            0.7815099954605103,
+            0.6934791803359985,
+            0.676141083240509,
+            0.7781206965446472
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7275117635726929,
+            0.6387979984283447,
+            0.728800356388092,
+            0.7653287649154663
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.46353745460510254,
+            0.3519827425479889,
+            0.41489356756210327,
+            0.469869464635849
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.591881513595581,
+            0.5873914957046509,
+            0.6496851444244385,
+            0.5657628178596497
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "19": {
+        "start": 171.8,
+        "end": 175.24,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            1
+        ],
+        "shot_density.pkl": [
+            0.9738930169907843
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.73974609375,
+            0.75,
+            0.75732421875,
+            0.6923828125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.3792877793312073,
+            0.22085043787956238,
+            0.27738067507743835,
+            0.17561466991901398
+        ],
+        "places_shot_similarity.pkl": [
+            0.7991984486579895,
+            0.6761409640312195,
+            0.6930959820747375,
+            0.5780251026153564
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.8314753770828247,
+            0.728800356388092,
+            0.7722799181938171,
+            0.6515229940414429
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.40510958433151245,
+            0.41489356756210327,
+            0.39526188373565674,
+            0.3763718008995056
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.6934633255004883,
+            0.6496851444244385,
+            0.5671051740646362,
+            0.47745001316070557
+        ],
+        "face_analysis.pkl": [
+            0,
+            0,
+            0.5,
+            0.5
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "20": {
+        "start": 175.28,
+        "end": 179.2,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [
+            "cut-in"
+        ],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.9027977735390714
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.80419921875,
+            0.75732421875,
+            0.8251953125,
+            0.6201171875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.3412211537361145,
+            0.27738067507743835,
+            0.5532991886138916,
+            0.1637810617685318
+        ],
+        "places_shot_similarity.pkl": [
+            0.7781205773353577,
+            0.6930960416793823,
+            0.8137108087539673,
+            0.6489421725273132
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7653287649154663,
+            0.7722799181938171,
+            0.7495301961898804,
+            0.60137939453125
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.469869464635849,
+            0.39526188373565674,
+            0.38013121485710144,
+            0.35827118158340454
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5657628178596497,
+            0.5671051740646362,
+            0.7854637503623962,
+            0.5121070146560669
+        ],
+        "face_analysis.pkl": [
+            0.012782118055555555,
+            1,
+            1.0,
+            0.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "21": {
+        "start": 179.24,
+        "end": 187.24,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            1.0,
+            2.0,
+            22.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            25.0,
+            22.0,
+            15.0,
+            13.0,
+            20.0,
+            45.0,
+            0.0,
+            58.0,
+            3.0,
+            4.0,
+            11.0,
+            16.0,
+            30.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.03773584905660377,
+            0.0,
+            0.5660377358490566,
+            0.0,
+            0.39622641509433965,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.6934924240933347
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.6923828125,
+            0.8251953125,
+            0.65576171875,
+            0.580078125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.17561466991901398,
+            0.5532991886138916,
+            0.22537147998809814,
+            0.2337368130683899
+        ],
+        "places_shot_similarity.pkl": [
+            0.5780250430107117,
+            0.8137108087539673,
+            0.6808743476867676,
+            0.6839367151260376
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6515229940414429,
+            0.7495301961898804,
+            0.5627096891403198,
+            0.6135527491569519
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.3763718008995056,
+            0.38013121485710144,
+            0.1825946420431137,
+            0.20502761006355286
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.47745001316070557,
+            0.7854637503623962,
+            0.5332502126693726,
+            0.5121380090713501
+        ],
+        "face_analysis.pkl": [
+            0.005045431385869564,
+            115,
+            1.0,
+            0.8173913043478261
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            0.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "22": {
+        "start": 187.28,
+        "end": 211.24,
+        "strategies": [
+            "individualization_of_reporter"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            5.0,
+            5.0,
+            20.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            20.0,
+            44.0,
+            79.0,
+            31.0,
+            15.0,
+            44.0,
+            0.0,
+            42.0,
+            3.0,
+            12.0,
+            36.0,
+            34.0,
+            43.0,
+            67.0
+        ],
+        "llm_evaluative.pkl": [
+            0.625
+        ],
+        "face_emotions_deepface.pkl": [
+            0.04410354745925216,
+            0.0,
+            0.004793863854266539,
+            0.20469798657718122,
+            0.27468839884947266,
+            0.015819750719079578,
+            0.45589645254074784
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.2796976690078304
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.6201171875,
+            0.65576171875,
+            0.75341796875,
+            0.8037109375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.1637810617685318,
+            0.22537147998809814,
+            0.6931636929512024,
+            0.6150830984115601
+        ],
+        "places_shot_similarity.pkl": [
+            0.648942232131958,
+            0.6808744072914124,
+            0.9164731502532959,
+            0.7140641808509827
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.60137939453125,
+            0.5627096891403198,
+            0.7711162567138672,
+            0.6745175719261169
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.35827118158340454,
+            0.1825946420431137,
+            0.5457558631896973,
+            0.5411396026611328
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5121070146560669,
+            0.5332502126693726,
+            0.8531519174575806,
+            0.809573769569397
+        ],
+        "face_analysis.pkl": [
+            0.04128320186329142,
+            2408,
+            1.0,
+            0.49875415282392027
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            2,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "23": {
+        "start": 211.28,
+        "end": 232.32,
+        "strategies": [
+            "individualization_of_reporter"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            5.0,
+            1.0,
+            17.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            18.0,
+            36.0,
+            70.0,
+            30.0,
+            14.0,
+            35.0,
+            0.0,
+            33.0,
+            3.0,
+            12.0,
+            33.0,
+            24.0,
+            41.0,
+            59.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.33766233766233766,
+            0.0,
+            0.0025974025974025974,
+            0.4753246753246753,
+            0.01038961038961039,
+            0.0,
+            0.17402597402597403
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.21661441633909795
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.580078125,
+            0.75341796875,
+            0.75244140625,
+            0.734375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.2337368130683899,
+            0.6931636929512024,
+            0.5649102926254272,
+            0.5780054330825806
+        ],
+        "places_shot_similarity.pkl": [
+            0.6839367151260376,
+            0.9164732098579407,
+            0.7535029649734497,
+            0.7551923990249634
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6135527491569519,
+            0.7711162567138672,
+            0.7230311632156372,
+            0.6975522041320801
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.20502761006355286,
+            0.5457558631896973,
+            0.6029477119445801,
+            0.5785926580429077
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.5121380090713501,
+            0.8531519174575806,
+            0.7378804683685303,
+            0.736575722694397
+        ],
+        "face_analysis.pkl": [
+            0.049132776262386664,
+            527,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "24": {
+        "start": 232.36,
+        "end": 259.0,
+        "strategies": [
+            "individualization_of_reporter",
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            5.0,
+            1.0,
+            17.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            18.0,
+            36.0,
+            70.0,
+            30.0,
+            14.0,
+            35.0,
+            0.0,
+            33.0,
+            3.0,
+            12.0,
+            33.0,
+            24.0,
+            41.0,
+            59.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.1115140525838622,
+            0.0,
+            0.09156844968268359,
+            0.3381686310063463,
+            0.15503173164097914,
+            0.0,
+            0.30371713508612874
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.1795993490695216
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.8037109375,
+            0.75244140625,
+            0.876953125,
+            0.77099609375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.6150830984115601,
+            0.5649102926254272,
+            0.8353607654571533,
+            0.5624464750289917
+        ],
+        "places_shot_similarity.pkl": [
+            0.7140642404556274,
+            0.7535029649734497,
+            0.9217869639396667,
+            0.746160089969635
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6745175719261169,
+            0.7230311632156372,
+            0.9638099670410156,
+            0.7414922118186951
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5411396026611328,
+            0.6029477119445801,
+            0.8219409584999084,
+            0.41776618361473083
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.809573769569397,
+            0.7378804683685303,
+            0.9441921710968018,
+            0.7566045522689819
+        ],
+        "face_analysis.pkl": [
+            0.00830016775876895,
+            1728,
+            0.9971064814814815,
+            0.5231481481481481
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "25": {
+        "start": 259.04,
+        "end": 280.16,
+        "strategies": [
+            "individualization_of_reporter",
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            5.0,
+            1.0,
+            17.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            18.0,
+            36.0,
+            70.0,
+            30.0,
+            14.0,
+            35.0,
+            0.0,
+            33.0,
+            3.0,
+            12.0,
+            33.0,
+            24.0,
+            41.0,
+            59.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.087248322147651,
+            0.0,
+            0.010546500479386385,
+            0.538830297219559,
+            0.05752636625119847,
+            0.0,
+            0.3058485139022052
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.21393015677596666
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.734375,
+            0.876953125,
+            0.8037109375,
+            0.7763671875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5780054330825806,
+            0.8353608250617981,
+            0.5759586095809937,
+            0.6155070066452026
+        ],
+        "places_shot_similarity.pkl": [
+            0.7551923990249634,
+            0.921786904335022,
+            0.7462654113769531,
+            0.727033793926239
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6975522041320801,
+            0.9638099670410156,
+            0.7159957885742188,
+            0.6950267553329468
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5785926580429077,
+            0.8219409584999084,
+            0.5132175087928772,
+            0.5190104246139526
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.736575722694397,
+            0.9441921710968018,
+            0.755585789680481,
+            0.7788923978805542
+        ],
+        "face_analysis.pkl": [
+            0.007878880197421298,
+            1591,
+            0.9993714644877436,
+            0.531112507856694
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "26": {
+        "start": 280.2,
+        "end": 349.6,
+        "strategies": [
+            "individualization_of_reporter"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            7.0,
+            3.0,
+            20.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            20.0,
+            43.0,
+            92.0,
+            38.0,
+            18.0,
+            40.0,
+            0.0,
+            40.0,
+            3.0,
+            12.0,
+            40.0,
+            33.0,
+            48.0,
+            70.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.3153660498793242,
+            0.0,
+            0.004022526146419952,
+            0.4770716009654063,
+            0.02091713596138375,
+            0.009654062751407884,
+            0.17296862429605792
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.25
+        ],
+        "shot_density.pkl": [
+            0.06830293957472867
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.77099609375,
+            0.8037109375,
+            0.83154296875,
+            0.69287109375
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5624464750289917,
+            0.5759586095809937,
+            0.6990641355514526,
+            0.5147656202316284
+        ],
+        "places_shot_similarity.pkl": [
+            0.746160089969635,
+            0.7462654113769531,
+            0.9181241989135742,
+            0.7537025213241577
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7414922118186951,
+            0.7159957885742188,
+            0.7998083829879761,
+            0.7075175642967224
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.41776618361473083,
+            0.5132175087928772,
+            0.3936281204223633,
+            0.4530065059661865
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.7566045522689819,
+            0.755585789680481,
+            0.8533577919006348,
+            0.7768231630325317
+        ],
+        "face_analysis.pkl": [
+            0.04926358474442361,
+            1736,
+            1.0,
+            1.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            2,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "27": {
+        "start": 349.64,
+        "end": 373.84,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            2.0,
+            2.0,
+            3.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            2.0,
+            7.0,
+            22.0,
+            8.0,
+            4.0,
+            5.0,
+            0.0,
+            7.0,
+            0.0,
+            0.0,
+            7.0,
+            9.0,
+            7.0,
+            11.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.05117038649972782,
+            0.0,
+            0.031573217201959713,
+            0.20794774088187262,
+            0.16058791507893305,
+            0.01633097441480675,
+            0.5323897659227
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.18970356009143569
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.7763671875,
+            0.83154296875,
+            0.76171875,
+            0.74267578125
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.6155069470405579,
+            0.6990641355514526,
+            0.7721714973449707,
+            0.48660460114479065
+        ],
+        "places_shot_similarity.pkl": [
+            0.7270338535308838,
+            0.9181241989135742,
+            0.8573648929595947,
+            0.6209366321563721
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6950267553329468,
+            0.7998083829879761,
+            0.7662075757980347,
+            0.6625462770462036
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5190104246139526,
+            0.3936281204223633,
+            0.5809656381607056,
+            0.36716246604919434
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.7788923978805542,
+            0.8533577919006348,
+            0.8489218950271606,
+            0.8091159462928772
+        ],
+        "face_analysis.pkl": [
+            0.04211656168418521,
+            2426,
+            1.0,
+            0.49958779884583676
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "28": {
+        "start": 373.88,
+        "end": 405.44,
+        "strategies": [
+            "individualization_of_reporter"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            2.0,
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            12.0,
+            13.0,
+            33.0,
+            10.0,
+            11.0,
+            22.0,
+            0.0,
+            26.0,
+            1.0,
+            1.0,
+            22.0,
+            5.0,
+            16.0,
+            28.0
+        ],
+        "llm_evaluative.pkl": [
+            1.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.08410138248847926,
+            0.001152073732718894,
+            0.08525345622119816,
+            0.09101382488479262,
+            0.5299539170506913,
+            0.002304147465437788,
+            0.20622119815668202
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.1495457697518692
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.69287109375,
+            0.76171875,
+            0.716796875,
+            0.873046875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5147656202316284,
+            0.7721714973449707,
+            0.3871600031852722,
+            0.9651658535003662
+        ],
+        "places_shot_similarity.pkl": [
+            0.7537025213241577,
+            0.8573648929595947,
+            0.6321953535079956,
+            0.9815352559089661
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.7075175642967224,
+            0.7662075757980347,
+            0.571856677532196,
+            0.8262946605682373
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.4530065059661865,
+            0.5809656381607056,
+            0.33290672302246094,
+            0.6998417377471924
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.7768231630325317,
+            0.8489218950271606,
+            0.7868249416351318,
+            0.9565194845199585
+        ],
+        "face_analysis.pkl": [
+            0.027348863412101833,
+            1214,
+            1.0,
+            0.9596375617792422
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "29": {
+        "start": 405.48,
+        "end": 430.68,
+        "strategies": [
+            "individualization_of_reporter",
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            3.0,
+            4.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.75
+        ],
+        "whisperx_pos.pkl": [
+            15.0,
+            18.0,
+            39.0,
+            13.0,
+            12.0,
+            29.0,
+            0.0,
+            34.0,
+            2.0,
+            2.0,
+            28.0,
+            8.0,
+            21.0,
+            35.0
+        ],
+        "llm_evaluative.pkl": [
+            0.625
+        ],
+        "face_emotions_deepface.pkl": [
+            0.11981566820276497,
+            0.0,
+            0.055299539170506916,
+            0.10138248847926268,
+            0.5299539170506913,
+            0.0,
+            0.1935483870967742
+        ],
+        "videoshot_scalemovement.pkl": [
+            1
+        ],
+        "shot_density.pkl": [
+            0.2567478755279878
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.74267578125,
+            0.716796875,
+            0.73583984375,
+            0.7294921875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.48660457134246826,
+            0.38715997338294983,
+            0.4028756320476532,
+            0.5512367486953735
+        ],
+        "places_shot_similarity.pkl": [
+            0.6209366321563721,
+            0.6321953535079956,
+            0.6281439661979675,
+            0.7141393423080444
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6625462770462036,
+            0.571856677532196,
+            0.6225034594535828,
+            0.934259295463562
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.36716246604919434,
+            0.33290672302246094,
+            0.26869267225265503,
+            0.6922322511672974
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8091159462928772,
+            0.7868249416351318,
+            0.7612817287445068,
+            0.8298346996307373
+        ],
+        "face_analysis.pkl": [
+            0.012090789868105512,
+            695,
+            1.0,
+            0.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            2,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "30": {
+        "start": 430.72,
+        "end": 434.2,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            1.0,
+            3.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            3.0,
+            5.0,
+            6.0,
+            3.0,
+            1.0,
+            7.0,
+            0.0,
+            8.0,
+            1.0,
+            1.0,
+            6.0,
+            3.0,
+            5.0,
+            7.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.0,
+            0.0,
+            0.35135135135135137,
+            0.0,
+            0.2702702702702703,
+            0.0,
+            0.3783783783783784
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.4234226956953762
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.873046875,
+            0.73583984375,
+            0.79443359375,
+            0.8310546875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.965165913105011,
+            0.4028756022453308,
+            0.627289354801178,
+            0.9552687406539917
+        ],
+        "places_shot_similarity.pkl": [
+            0.9815351963043213,
+            0.6281439661979675,
+            0.76412433385849,
+            0.9795734882354736
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.8262946605682373,
+            0.6225034594535828,
+            0.6899424195289612,
+            0.8374167084693909
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.6998417377471924,
+            0.26869267225265503,
+            0.48278725147247314,
+            0.7331253290176392
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.9565194845199585,
+            0.7612817287445068,
+            0.7761605978012085,
+            0.9423283934593201
+        ],
+        "face_analysis.pkl": [
+            0.03238474151234568,
+            117,
+            1.0,
+            0.8290598290598291
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "31": {
+        "start": 434.24,
+        "end": 448.4,
+        "strategies": [],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            1.0,
+            3.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            1.0
+        ],
+        "whisperx_pos.pkl": [
+            3.0,
+            5.0,
+            6.0,
+            3.0,
+            1.0,
+            7.0,
+            0.0,
+            8.0,
+            1.0,
+            1.0,
+            6.0,
+            3.0,
+            5.0,
+            7.0
+        ],
+        "llm_evaluative.pkl": [
+            0.25
+        ],
+        "face_emotions_deepface.pkl": [
+            0.06311881188118812,
+            0.0,
+            0.038366336633663366,
+            0.007425742574257425,
+            0.36633663366336633,
+            0.0037128712871287127,
+            0.5210396039603961
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.3901086658971079
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.7294921875,
+            0.79443359375,
+            0.75830078125,
+            0.7451171875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5512367486953735,
+            0.6272894144058228,
+            0.578370213508606,
+            0.5237098932266235
+        ],
+        "places_shot_similarity.pkl": [
+            0.7141393423080444,
+            0.76412433385849,
+            0.763398289680481,
+            0.6761716604232788
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.934259295463562,
+            0.6899424195289612,
+            0.5855758786201477,
+            0.9672147035598755
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.6922322511672974,
+            0.48278725147247314,
+            0.522800624370575,
+            0.780842125415802
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8298346996307373,
+            0.7761605978012085,
+            0.8158674240112305,
+            0.8005025386810303
+        ],
+        "face_analysis.pkl": [
+            0.008227267540427737,
+            1065,
+            1.0,
+            0.6666666666666666
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            0
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "32": {
+        "start": 448.44,
+        "end": 470.84,
+        "strategies": [
+            "individualization_of_reporter"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            9.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            23.0,
+            22.0,
+            47.0,
+            16.0,
+            8.0,
+            36.0,
+            0.0,
+            42.0,
+            5.0,
+            3.0,
+            23.0,
+            4.0,
+            21.0,
+            44.0
+        ],
+        "llm_evaluative.pkl": [
+            0.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.13226452905811623,
+            0.0,
+            0.03006012024048096,
+            0.20440881763527055,
+            0.3466933867735471,
+            0.0,
+            0.2865731462925852
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.23409639587806744
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.8310546875,
+            0.75830078125,
+            0.712890625,
+            0.7041015625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.9552688002586365,
+            0.578370213508606,
+            0.34239035844802856,
+            0.3377090096473694
+        ],
+        "places_shot_similarity.pkl": [
+            0.9795734882354736,
+            0.7633983492851257,
+            0.685591459274292,
+            0.7075032591819763
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.8374167084693909,
+            0.5855758786201477,
+            0.5560680627822876,
+            0.6227306127548218
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.7331253290176392,
+            0.522800624370575,
+            0.4315982460975647,
+            0.5049029588699341
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.9423283934593201,
+            0.8158674240112305,
+            0.8256945610046387,
+            0.8009215593338013
+        ],
+        "face_analysis.pkl": [
+            0.03368397312242805,
+            675,
+            1.0,
+            0.965925925925926
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "33": {
+        "start": 470.88,
+        "end": 490.84,
+        "strategies": [
+            "individualization_of_reporter",
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            9.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            23.0,
+            22.0,
+            47.0,
+            16.0,
+            8.0,
+            36.0,
+            0.0,
+            42.0,
+            5.0,
+            3.0,
+            23.0,
+            4.0,
+            21.0,
+            44.0
+        ],
+        "llm_evaluative.pkl": [
+            0.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.14454976303317535,
+            0.0,
+            0.08056872037914692,
+            0.16113744075829384,
+            0.533175355450237,
+            0.0,
+            0.08056872037914692
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.3554897380124724
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.7451171875,
+            0.712890625,
+            0.88037109375,
+            0.91650390625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.5237098932266235,
+            0.34239035844802856,
+            0.709275484085083,
+            0.8028441071510315
+        ],
+        "places_shot_similarity.pkl": [
+            0.6761716604232788,
+            0.685591459274292,
+            0.8040602207183838,
+            0.7959029078483582
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.9672147035598755,
+            0.5560680627822876,
+            0.9448394775390625,
+            0.970009446144104
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.780842125415802,
+            0.4315982460975647,
+            0.7702069282531738,
+            0.8036240935325623
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8005025386810303,
+            0.8256945610046387,
+            0.8163121938705444,
+            0.8713794946670532
+        ],
+        "face_analysis.pkl": [
+            0.011068124189255674,
+            621,
+            1.0,
+            0.12721417069243157
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "34": {
+        "start": 490.88,
+        "end": 494.64,
+        "strategies": [
+            "individualization_of_reporter",
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            9.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            23.0,
+            22.0,
+            47.0,
+            16.0,
+            8.0,
+            36.0,
+            0.0,
+            42.0,
+            5.0,
+            3.0,
+            23.0,
+            4.0,
+            21.0,
+            44.0
+        ],
+        "llm_evaluative.pkl": [
+            0.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.45161290322580644,
+            0.0,
+            0.0967741935483871,
+            0.3709677419354839,
+            0.08064516129032258,
+            0.0,
+            0.0
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.5718201829139784
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.7041015625,
+            0.88037109375,
+            0.8662109375,
+            0.86279296875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.33770906925201416,
+            0.709275484085083,
+            0.7519862651824951,
+            0.6026248931884766
+        ],
+        "places_shot_similarity.pkl": [
+            0.7075032591819763,
+            0.8040602207183838,
+            0.7851923108100891,
+            0.811642587184906
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6227306127548218,
+            0.9448394775390625,
+            0.9724864363670349,
+            0.9448233842849731
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.5049029588699341,
+            0.7702069282531738,
+            0.9416260123252869,
+            0.8231122493743896
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8009215593338013,
+            0.8163121938705444,
+            0.8168772459030151,
+            0.8170655965805054
+        ],
+        "face_analysis.pkl": [
+            0.012934758771929818,
+            95,
+            1.0,
+            0.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "35": {
+        "start": 494.68,
+        "end": 499.68,
+        "strategies": [
+            "individualization_of_reporter",
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            9.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            23.0,
+            22.0,
+            47.0,
+            16.0,
+            8.0,
+            36.0,
+            0.0,
+            42.0,
+            5.0,
+            3.0,
+            23.0,
+            4.0,
+            21.0,
+            44.0
+        ],
+        "llm_evaluative.pkl": [
+            0.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.15730337078651685,
+            0.0,
+            0.011235955056179775,
+            0.3258426966292135,
+            0.30337078651685395,
+            0.0,
+            0.20224719101123595
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.6081754360961436
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.91650390625,
+            0.8662109375,
+            0.8955078125,
+            0.9072265625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.802844226360321,
+            0.7519862651824951,
+            0.7220820784568787,
+            0.7580360770225525
+        ],
+        "places_shot_similarity.pkl": [
+            0.7959029674530029,
+            0.7851923108100891,
+            0.7879945635795593,
+            0.8418363928794861
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.970009446144104,
+            0.9724864363670349,
+            0.9628255367279053,
+            0.9651167392730713
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.8036240935325623,
+            0.9416260123252869,
+            0.8557018041610718,
+            0.795301616191864
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8713794946670532,
+            0.8168772459030151,
+            0.8607261180877686,
+            0.8824284672737122
+        ],
+        "face_analysis.pkl": [
+            0.01065139868951613,
+            155,
+            1.0,
+            0.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "36": {
+        "start": 499.72,
+        "end": 510.52,
+        "strategies": [
+            "individualization_of_reporter",
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            9.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            23.0,
+            22.0,
+            47.0,
+            16.0,
+            8.0,
+            36.0,
+            0.0,
+            42.0,
+            5.0,
+            3.0,
+            23.0,
+            4.0,
+            21.0,
+            44.0
+        ],
+        "llm_evaluative.pkl": [
+            0.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.24774774774774774,
+            0.0,
+            0.11711711711711711,
+            0.21171171171171171,
+            0.34234234234234234,
+            0.0,
+            0.08108108108108109
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.5611404809699161
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.86279296875,
+            0.8955078125,
+            0.90234375,
+            0.779296875
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.6026248931884766,
+            0.7220820784568787,
+            0.683783769607544,
+            0.3144971430301666
+        ],
+        "places_shot_similarity.pkl": [
+            0.811642587184906,
+            0.7879945635795593,
+            0.8183573484420776,
+            0.7163485288619995
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.9448233842849731,
+            0.9628255367279053,
+            0.9693037271499634,
+            0.6068824529647827
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.8231122493743896,
+            0.8557018041610718,
+            0.8303812742233276,
+            0.3773844540119171
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8170655965805054,
+            0.8607261180877686,
+            0.8670056462287903,
+            0.7966198325157166
+        ],
+        "face_analysis.pkl": [
+            0.008211515559267494,
+            449,
+            1.0,
+            0.39643652561247217
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "37": {
+        "start": 510.56,
+        "end": 520.039,
+        "strategies": [
+            "individualization_of_reporter",
+            "fragmentation_splitscreen"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            0.0,
+            9.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.5
+        ],
+        "whisperx_pos.pkl": [
+            23.0,
+            22.0,
+            47.0,
+            16.0,
+            8.0,
+            36.0,
+            0.0,
+            42.0,
+            5.0,
+            3.0,
+            23.0,
+            4.0,
+            21.0,
+            44.0
+        ],
+        "llm_evaluative.pkl": [
+            0.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.18705035971223022,
+            0.0,
+            0.014388489208633094,
+            0.3237410071942446,
+            0.3381294964028777,
+            0.0,
+            0.1366906474820144
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.75
+        ],
+        "shot_density.pkl": [
+            0.45689315588374535
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.9072265625,
+            0.90234375,
+            0.78857421875,
+            0.37890625
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.7580360770225525,
+            0.683783769607544,
+            0.3090782165527344,
+            0.05698462203145027
+        ],
+        "places_shot_similarity.pkl": [
+            0.8418363332748413,
+            0.8183572888374329,
+            0.7181533575057983,
+            0.5311480760574341
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.9651167392730713,
+            0.9693037271499634,
+            0.609092116355896,
+            0.823800802230835
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.795301616191864,
+            0.8303812742233276,
+            0.37028998136520386,
+            0.5013474225997925
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.8824284672737122,
+            0.8670056462287903,
+            0.7779995799064636,
+            0.4285281300544739
+        ],
+        "face_analysis.pkl": [
+            0.010939294390459375,
+            283,
+            1.0,
+            0.0
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            0,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            1.0,
+            1,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "38": {
+        "start": 520.08,
+        "end": 533.52,
+        "strategies": [
+            "individualization_of_reporter"
+        ],
+        "stories": [
+            "story01:scholz-ukraine"
+        ],
+        "feps": [],
+        "whisperx_ner.pkl": [
+            0.0,
+            1.0,
+            10.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        "whisperx_sentiment.pkl": [
+            0.75
+        ],
+        "whisperx_pos.pkl": [
+            23.0,
+            24.0,
+            47.0,
+            16.0,
+            8.0,
+            37.0,
+            0.0,
+            43.0,
+            5.0,
+            3.0,
+            23.0,
+            6.0,
+            22.0,
+            46.0
+        ],
+        "llm_evaluative.pkl": [
+            0.0
+        ],
+        "face_emotions_deepface.pkl": [
+            0.15973741794310722,
+            0.0,
+            0.11816192560175055,
+            0.15973741794310722,
+            0.24288840262582057,
+            0.002188183807439825,
+            0.3172866520787746
+        ],
+        "videoshot_scalemovement.pkl": [
+            0.5
+        ],
+        "shot_density.pkl": [
+            0.35059381731069406
+        ],
+        "siglip_shot_similarity.pkl": [
+            0.779296875,
+            0.78857421875,
+            0.3662109375,
+            0.5
+        ],
+        "convnextv2_shot_similarity.pkl": [
+            0.3144971430301666,
+            0.3090782165527344,
+            0.07635685801506042,
+            0.5
+        ],
+        "places_shot_similarity.pkl": [
+            0.7163485288619995,
+            0.7181533575057983,
+            0.4270530939102173,
+            0.5
+        ],
+        "kinetics-vmae_action_shot_similarity.pkl": [
+            0.6068824529647827,
+            0.609092116355896,
+            0.6433855295181274,
+            0.0
+        ],
+        "ssv2-vmae_action_shot_similarity.pkl": [
+            0.3773844540119171,
+            0.37028998136520386,
+            0.39555925130844116,
+            0.0
+        ],
+        "kinetics-xclip_action_shot_similarity.pkl": [
+            0.7966198325157166,
+            0.7779995799064636,
+            0.4536268711090088,
+            0.0
+        ],
+        "face_analysis.pkl": [
+            0.02196027069938226,
+            661,
+            1.0,
+            0.924357034795764
+        ],
+        "whisperxspeaker_audioclf.pkl": [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "whisperxspeaker_segmentClf.pkl": [
+            1,
+            1
+        ],
+        "speaker_turns_meta.pkl": [
+            0.5,
+            2,
+            0.0,
+            0.5,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    }
+}

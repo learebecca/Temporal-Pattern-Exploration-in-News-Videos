@@ -1,0 +1,266 @@
+{
+    "video_fn": "dHQweEI5U1YwUUE=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 6.84,
+                    "label": "0"
+                },
+                {
+                    "start": 6.88,
+                    "end": 15.0,
+                    "label": "1"
+                },
+                {
+                    "start": 15.04,
+                    "end": 17.64,
+                    "label": "2"
+                },
+                {
+                    "start": 17.68,
+                    "end": 22.44,
+                    "label": "3"
+                },
+                {
+                    "start": 22.48,
+                    "end": 25.36,
+                    "label": "4"
+                },
+                {
+                    "start": 25.4,
+                    "end": 26.6,
+                    "label": "5"
+                },
+                {
+                    "start": 26.64,
+                    "end": 52.72,
+                    "label": "6"
+                },
+                {
+                    "start": 52.76,
+                    "end": 71.0,
+                    "label": "7"
+                },
+                {
+                    "start": 71.04,
+                    "end": 133.32,
+                    "label": "8"
+                },
+                {
+                    "start": 133.36,
+                    "end": 139.84,
+                    "label": "9"
+                },
+                {
+                    "start": 139.88,
+                    "end": 144.4,
+                    "label": "10"
+                },
+                {
+                    "start": 144.44,
+                    "end": 150.8,
+                    "label": "11"
+                },
+                {
+                    "start": 150.84,
+                    "end": 154.56,
+                    "label": "12"
+                },
+                {
+                    "start": 154.6,
+                    "end": 157.48,
+                    "label": "13"
+                },
+                {
+                    "start": 157.52,
+                    "end": 162.2,
+                    "label": "14"
+                },
+                {
+                    "start": 162.24,
+                    "end": 164.4,
+                    "label": "15"
+                },
+                {
+                    "start": 164.44,
+                    "end": 167.04,
+                    "label": "16"
+                },
+                {
+                    "start": 167.08,
+                    "end": 170.24,
+                    "label": "17"
+                },
+                {
+                    "start": 170.28,
+                    "end": 173.68,
+                    "label": "18"
+                },
+                {
+                    "start": 173.72,
+                    "end": 176.64,
+                    "label": "19"
+                },
+                {
+                    "start": 176.68,
+                    "end": 179.2,
+                    "label": "20"
+                },
+                {
+                    "start": 179.24,
+                    "end": 181.72,
+                    "label": "21"
+                },
+                {
+                    "start": 181.76,
+                    "end": 184.4,
+                    "label": "22"
+                },
+                {
+                    "start": 184.44,
+                    "end": 188.04,
+                    "label": "23"
+                },
+                {
+                    "start": 188.08,
+                    "end": 199.56,
+                    "label": "24"
+                },
+                {
+                    "start": 199.6,
+                    "end": 203.92,
+                    "label": "25"
+                },
+                {
+                    "start": 203.96,
+                    "end": 206.4,
+                    "label": "26"
+                },
+                {
+                    "start": 206.44,
+                    "end": 210.0,
+                    "label": "27"
+                },
+                {
+                    "start": 210.04,
+                    "end": 217.16,
+                    "label": "28"
+                },
+                {
+                    "start": 217.2,
+                    "end": 220.12,
+                    "label": "29"
+                },
+                {
+                    "start": 220.16,
+                    "end": 224.04,
+                    "label": "30"
+                },
+                {
+                    "start": 224.08,
+                    "end": 227.8,
+                    "label": "31"
+                },
+                {
+                    "start": 227.84,
+                    "end": 238.24,
+                    "label": "32"
+                },
+                {
+                    "start": 238.28,
+                    "end": 240.92,
+                    "label": "33"
+                },
+                {
+                    "start": 240.96,
+                    "end": 247.92,
+                    "label": "34"
+                },
+                {
+                    "start": 247.96,
+                    "end": 258.0,
+                    "label": "35"
+                },
+                {
+                    "start": 258.04,
+                    "end": 267.24,
+                    "label": "36"
+                },
+                {
+                    "start": 267.28,
+                    "end": 304.24,
+                    "label": "37"
+                },
+                {
+                    "start": 304.28,
+                    "end": 308.0,
+                    "label": "38"
+                },
+                {
+                    "start": 308.04,
+                    "end": 333.76,
+                    "label": "39"
+                },
+                {
+                    "start": 333.8,
+                    "end": 353.76,
+                    "label": "40"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:covid-vaccination-mandate",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 333.76,
+                    "label": "covid-vaccination-mandate"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 22.48,
+                    "end": 26.6,
+                    "label": "intensify"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "fragmentation",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 71.0,
+                    "label": "fragmentation"
+                }
+            ]
+        },
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 133.36,
+                    "end": 157.48,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 267.28,
+                    "end": 308.0,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        }
+    ]
+}

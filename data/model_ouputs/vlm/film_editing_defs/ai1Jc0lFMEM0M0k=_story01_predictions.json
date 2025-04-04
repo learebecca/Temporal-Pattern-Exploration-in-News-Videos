@@ -1,0 +1,46 @@
+{
+    "video_id": "ai1Jc0lFMEM0M0k=",
+    "story_id": "story01",
+    "shots": [
+        {
+            "shot_label": "77",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "78",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "79",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "shot_label": "80",
+            "prediction": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

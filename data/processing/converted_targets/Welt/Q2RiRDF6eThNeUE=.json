@@ -1,0 +1,296 @@
+{
+    "video_fn": "Q2RiRDF6eThNeUE=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 37.56,
+                    "label": "0"
+                },
+                {
+                    "start": 37.6,
+                    "end": 43.32,
+                    "label": "1"
+                },
+                {
+                    "start": 43.36,
+                    "end": 46.84,
+                    "label": "2"
+                },
+                {
+                    "start": 46.88,
+                    "end": 57.52,
+                    "label": "3"
+                },
+                {
+                    "start": 57.56,
+                    "end": 74.6,
+                    "label": "4"
+                },
+                {
+                    "start": 74.64,
+                    "end": 83.28,
+                    "label": "5"
+                },
+                {
+                    "start": 83.32,
+                    "end": 86.96,
+                    "label": "6"
+                },
+                {
+                    "start": 87.0,
+                    "end": 97.28,
+                    "label": "7"
+                },
+                {
+                    "start": 97.32,
+                    "end": 118.48,
+                    "label": "8"
+                },
+                {
+                    "start": 118.52,
+                    "end": 124.6,
+                    "label": "9"
+                },
+                {
+                    "start": 124.64,
+                    "end": 127.96,
+                    "label": "10"
+                },
+                {
+                    "start": 128.0,
+                    "end": 130.759,
+                    "label": "11"
+                },
+                {
+                    "start": 130.8,
+                    "end": 137.24,
+                    "label": "12"
+                },
+                {
+                    "start": 137.28,
+                    "end": 139.6,
+                    "label": "13"
+                },
+                {
+                    "start": 139.64,
+                    "end": 141.68,
+                    "label": "14"
+                },
+                {
+                    "start": 141.72,
+                    "end": 160.32,
+                    "label": "15"
+                },
+                {
+                    "start": 160.36,
+                    "end": 164.92,
+                    "label": "16"
+                },
+                {
+                    "start": 164.96,
+                    "end": 168.68,
+                    "label": "17"
+                },
+                {
+                    "start": 168.72,
+                    "end": 171.76,
+                    "label": "18"
+                },
+                {
+                    "start": 171.8,
+                    "end": 175.24,
+                    "label": "19"
+                },
+                {
+                    "start": 175.28,
+                    "end": 179.2,
+                    "label": "20"
+                },
+                {
+                    "start": 179.24,
+                    "end": 187.24,
+                    "label": "21"
+                },
+                {
+                    "start": 187.28,
+                    "end": 211.24,
+                    "label": "22"
+                },
+                {
+                    "start": 211.28,
+                    "end": 232.32,
+                    "label": "23"
+                },
+                {
+                    "start": 232.36,
+                    "end": 259.0,
+                    "label": "24"
+                },
+                {
+                    "start": 259.04,
+                    "end": 280.16,
+                    "label": "25"
+                },
+                {
+                    "start": 280.2,
+                    "end": 349.6,
+                    "label": "26"
+                },
+                {
+                    "start": 349.64,
+                    "end": 373.84,
+                    "label": "27"
+                },
+                {
+                    "start": 373.88,
+                    "end": 405.44,
+                    "label": "28"
+                },
+                {
+                    "start": 405.48,
+                    "end": 430.68,
+                    "label": "29"
+                },
+                {
+                    "start": 430.72,
+                    "end": 434.2,
+                    "label": "30"
+                },
+                {
+                    "start": 434.24,
+                    "end": 448.4,
+                    "label": "31"
+                },
+                {
+                    "start": 448.44,
+                    "end": 470.84,
+                    "label": "32"
+                },
+                {
+                    "start": 470.88,
+                    "end": 490.84,
+                    "label": "33"
+                },
+                {
+                    "start": 490.88,
+                    "end": 494.64,
+                    "label": "34"
+                },
+                {
+                    "start": 494.68,
+                    "end": 499.68,
+                    "label": "35"
+                },
+                {
+                    "start": 499.72,
+                    "end": 510.52,
+                    "label": "36"
+                },
+                {
+                    "start": 510.56,
+                    "end": 520.039,
+                    "label": "37"
+                },
+                {
+                    "start": 520.08,
+                    "end": 533.52,
+                    "label": "38"
+                },
+                {
+                    "start": 533.56,
+                    "end": 553.52,
+                    "label": "39"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:scholz-ukraine",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 533.52,
+                    "label": "scholz-ukraine"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 74.64,
+                    "end": 97.28,
+                    "label": "alternating-shot"
+                }
+            ]
+        },
+        {
+            "name": "cut-in",
+            "segments": [
+                {
+                    "start": 160.36,
+                    "end": 179.2,
+                    "label": "cut-in"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "individualization_of_elite",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 57.52,
+                    "label": "individualization_of_elite"
+                }
+            ]
+        },
+        {
+            "name": "individualization_of_reporter",
+            "segments": [
+                {
+                    "start": 209.753,
+                    "end": 343.974,
+                    "label": "individualization_of_reporter"
+                },
+                {
+                    "start": 375.526,
+                    "end": 427.378,
+                    "label": "individualization_of_reporter"
+                },
+                {
+                    "start": 449.176,
+                    "end": 527.626,
+                    "label": "individualization_of_reporter"
+                }
+            ]
+        },
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 232.36,
+                    "end": 280.16,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 405.48,
+                    "end": 430.68,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 470.88,
+                    "end": 520.039,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "video_fn": "bU4zN09RNURUdnc=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 508.92,
+                    "label": "0"
+                },
+                {
+                    "start": 508.96,
+                    "end": 528.92,
+                    "label": "1"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:Blinken-Tallinn",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 508.92,
+                    "label": "blinken-tallinn"
+                }
+            ]
+        }
+    ],
+    "FEP": [],
+    "Strategy": [
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 508.92,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        }
+    ]
+}

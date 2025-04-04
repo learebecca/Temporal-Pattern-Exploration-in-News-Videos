@@ -1,0 +1,291 @@
+{
+    "video_fn": "dHR6djBqMTB0cmc=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 29.32,
+                    "label": "0"
+                },
+                {
+                    "start": 29.36,
+                    "end": 34.0,
+                    "label": "1"
+                },
+                {
+                    "start": 34.04,
+                    "end": 35.4,
+                    "label": "2"
+                },
+                {
+                    "start": 35.44,
+                    "end": 36.08,
+                    "label": "3"
+                },
+                {
+                    "start": 36.12,
+                    "end": 38.88,
+                    "label": "4"
+                },
+                {
+                    "start": 38.92,
+                    "end": 41.04,
+                    "label": "5"
+                },
+                {
+                    "start": 41.08,
+                    "end": 44.28,
+                    "label": "6"
+                },
+                {
+                    "start": 44.32,
+                    "end": 47.32,
+                    "label": "7"
+                },
+                {
+                    "start": 47.4,
+                    "end": 49.2,
+                    "label": "8"
+                },
+                {
+                    "start": 49.24,
+                    "end": 50.72,
+                    "label": "9"
+                },
+                {
+                    "start": 50.8,
+                    "end": 53.16,
+                    "label": "10"
+                },
+                {
+                    "start": 53.24,
+                    "end": 80.72,
+                    "label": "11"
+                },
+                {
+                    "start": 80.76,
+                    "end": 83.0,
+                    "label": "12"
+                },
+                {
+                    "start": 83.04,
+                    "end": 85.08,
+                    "label": "13"
+                },
+                {
+                    "start": 85.12,
+                    "end": 88.0,
+                    "label": "14"
+                },
+                {
+                    "start": 88.04,
+                    "end": 88.92,
+                    "label": "15"
+                },
+                {
+                    "start": 88.96,
+                    "end": 92.12,
+                    "label": "16"
+                },
+                {
+                    "start": 92.16,
+                    "end": 97.2,
+                    "label": "17"
+                },
+                {
+                    "start": 97.24,
+                    "end": 102.0,
+                    "label": "18"
+                },
+                {
+                    "start": 102.04,
+                    "end": 103.52,
+                    "label": "19"
+                },
+                {
+                    "start": 103.56,
+                    "end": 122.16,
+                    "label": "20"
+                },
+                {
+                    "start": 122.2,
+                    "end": 124.12,
+                    "label": "21"
+                },
+                {
+                    "start": 124.16,
+                    "end": 127.4,
+                    "label": "22"
+                },
+                {
+                    "start": 127.44,
+                    "end": 129.44,
+                    "label": "23"
+                },
+                {
+                    "start": 129.479,
+                    "end": 135.88,
+                    "label": "24"
+                },
+                {
+                    "start": 135.92,
+                    "end": 140.84,
+                    "label": "25"
+                },
+                {
+                    "start": 140.88,
+                    "end": 141.88,
+                    "label": "26"
+                },
+                {
+                    "start": 141.92,
+                    "end": 179.12,
+                    "label": "27"
+                },
+                {
+                    "start": 179.16,
+                    "end": 182.56,
+                    "label": "28"
+                },
+                {
+                    "start": 182.6,
+                    "end": 187.2,
+                    "label": "29"
+                },
+                {
+                    "start": 187.24,
+                    "end": 196.56,
+                    "label": "30"
+                },
+                {
+                    "start": 196.6,
+                    "end": 200.12,
+                    "label": "31"
+                },
+                {
+                    "start": 200.16,
+                    "end": 206.92,
+                    "label": "32"
+                },
+                {
+                    "start": 206.96,
+                    "end": 246.24,
+                    "label": "33"
+                },
+                {
+                    "start": 246.28,
+                    "end": 260.68,
+                    "label": "34"
+                },
+                {
+                    "start": 260.72,
+                    "end": 271.64,
+                    "label": "35"
+                },
+                {
+                    "start": 271.68,
+                    "end": 320.0,
+                    "label": "36"
+                },
+                {
+                    "start": 320.04,
+                    "end": 344.88,
+                    "label": "37"
+                },
+                {
+                    "start": 344.92,
+                    "end": 366.4,
+                    "label": "38"
+                },
+                {
+                    "start": 366.44,
+                    "end": 369.08,
+                    "label": "39"
+                },
+                {
+                    "start": 369.12,
+                    "end": 389.08,
+                    "label": "40"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:ukraine-russia",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 369.08,
+                    "label": "ukraine-russia"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 29.36,
+                    "end": 38.88,
+                    "label": "alternating-shot"
+                },
+                {
+                    "start": 141.92,
+                    "end": 206.92,
+                    "label": "alternating-shot"
+                }
+            ]
+        },
+        {
+            "name": "shot-reverse-shot",
+            "segments": [
+                {
+                    "start": 35.44,
+                    "end": 38.88,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 85.12,
+                    "end": 88.92,
+                    "label": "shot-reverse-shot"
+                }
+            ]
+        },
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 122.2,
+                    "end": 127.4,
+                    "label": "intensify"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 179.16,
+                    "end": 200.12,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 246.28,
+                    "end": 260.68,
+                    "label": "fragmentation_splitscreen"
+                },
+                {
+                    "start": 320.04,
+                    "end": 344.88,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        }
+    ]
+}

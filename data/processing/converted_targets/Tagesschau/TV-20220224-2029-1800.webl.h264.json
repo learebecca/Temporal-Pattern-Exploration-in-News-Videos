@@ -1,0 +1,606 @@
+{
+    "video_fn": "TV-20220224-2029-1800.webl.h264",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 0.36,
+                    "label": "0"
+                },
+                {
+                    "start": 0.4,
+                    "end": 33.2,
+                    "label": "1"
+                },
+                {
+                    "start": 33.24,
+                    "end": 47.04,
+                    "label": "2"
+                },
+                {
+                    "start": 47.08,
+                    "end": 53.6,
+                    "label": "3"
+                },
+                {
+                    "start": 53.64,
+                    "end": 55.96,
+                    "label": "4"
+                },
+                {
+                    "start": 56.0,
+                    "end": 58.88,
+                    "label": "5"
+                },
+                {
+                    "start": 58.92,
+                    "end": 62.52,
+                    "label": "6"
+                },
+                {
+                    "start": 62.56,
+                    "end": 66.6,
+                    "label": "7"
+                },
+                {
+                    "start": 66.64,
+                    "end": 71.16,
+                    "label": "8"
+                },
+                {
+                    "start": 71.2,
+                    "end": 73.96,
+                    "label": "9"
+                },
+                {
+                    "start": 74.0,
+                    "end": 95.56,
+                    "label": "10"
+                },
+                {
+                    "start": 95.6,
+                    "end": 98.48,
+                    "label": "11"
+                },
+                {
+                    "start": 98.52,
+                    "end": 101.96,
+                    "label": "12"
+                },
+                {
+                    "start": 102.0,
+                    "end": 105.88,
+                    "label": "13"
+                },
+                {
+                    "start": 105.92,
+                    "end": 108.44,
+                    "label": "14"
+                },
+                {
+                    "start": 108.48,
+                    "end": 116.64,
+                    "label": "15"
+                },
+                {
+                    "start": 116.68,
+                    "end": 132.32,
+                    "label": "16"
+                },
+                {
+                    "start": 132.36,
+                    "end": 133.64,
+                    "label": "17"
+                },
+                {
+                    "start": 133.68,
+                    "end": 135.24,
+                    "label": "18"
+                },
+                {
+                    "start": 135.28,
+                    "end": 139.76,
+                    "label": "19"
+                },
+                {
+                    "start": 139.8,
+                    "end": 142.24,
+                    "label": "20"
+                },
+                {
+                    "start": 142.28,
+                    "end": 166.84,
+                    "label": "21"
+                },
+                {
+                    "start": 166.88,
+                    "end": 168.96,
+                    "label": "22"
+                },
+                {
+                    "start": 169.0,
+                    "end": 172.52,
+                    "label": "23"
+                },
+                {
+                    "start": 172.56,
+                    "end": 175.72,
+                    "label": "24"
+                },
+                {
+                    "start": 175.76,
+                    "end": 178.2,
+                    "label": "25"
+                },
+                {
+                    "start": 178.24,
+                    "end": 181.56,
+                    "label": "26"
+                },
+                {
+                    "start": 181.6,
+                    "end": 186.6,
+                    "label": "27"
+                },
+                {
+                    "start": 186.64,
+                    "end": 190.24,
+                    "label": "28"
+                },
+                {
+                    "start": 190.28,
+                    "end": 193.48,
+                    "label": "29"
+                },
+                {
+                    "start": 193.52,
+                    "end": 195.96,
+                    "label": "30"
+                },
+                {
+                    "start": 196.0,
+                    "end": 198.44,
+                    "label": "31"
+                },
+                {
+                    "start": 198.48,
+                    "end": 207.76,
+                    "label": "32"
+                },
+                {
+                    "start": 207.8,
+                    "end": 247.0,
+                    "label": "33"
+                },
+                {
+                    "start": 247.04,
+                    "end": 256.2,
+                    "label": "34"
+                },
+                {
+                    "start": 256.24,
+                    "end": 301.16,
+                    "label": "35"
+                },
+                {
+                    "start": 301.2,
+                    "end": 305.64,
+                    "label": "36"
+                },
+                {
+                    "start": 305.68,
+                    "end": 348.4,
+                    "label": "37"
+                },
+                {
+                    "start": 348.44,
+                    "end": 371.96,
+                    "label": "38"
+                },
+                {
+                    "start": 372.04,
+                    "end": 397.56,
+                    "label": "39"
+                },
+                {
+                    "start": 397.6,
+                    "end": 401.68,
+                    "label": "40"
+                },
+                {
+                    "start": 401.72,
+                    "end": 408.56,
+                    "label": "41"
+                },
+                {
+                    "start": 408.6,
+                    "end": 425.84,
+                    "label": "42"
+                },
+                {
+                    "start": 425.88,
+                    "end": 429.76,
+                    "label": "43"
+                },
+                {
+                    "start": 429.8,
+                    "end": 431.56,
+                    "label": "44"
+                },
+                {
+                    "start": 431.6,
+                    "end": 434.4,
+                    "label": "45"
+                },
+                {
+                    "start": 434.44,
+                    "end": 438.8,
+                    "label": "46"
+                },
+                {
+                    "start": 438.84,
+                    "end": 455.72,
+                    "label": "47"
+                },
+                {
+                    "start": 455.76,
+                    "end": 458.0,
+                    "label": "48"
+                },
+                {
+                    "start": 458.04,
+                    "end": 460.8,
+                    "label": "49"
+                },
+                {
+                    "start": 460.84,
+                    "end": 465.44,
+                    "label": "50"
+                },
+                {
+                    "start": 465.48,
+                    "end": 483.32,
+                    "label": "51"
+                },
+                {
+                    "start": 483.36,
+                    "end": 486.92,
+                    "label": "52"
+                },
+                {
+                    "start": 486.96,
+                    "end": 493.32,
+                    "label": "53"
+                },
+                {
+                    "start": 493.36,
+                    "end": 498.8,
+                    "label": "54"
+                },
+                {
+                    "start": 498.84,
+                    "end": 562.4,
+                    "label": "55"
+                },
+                {
+                    "start": 562.44,
+                    "end": 591.2,
+                    "label": "56"
+                },
+                {
+                    "start": 591.24,
+                    "end": 594.64,
+                    "label": "57"
+                },
+                {
+                    "start": 594.68,
+                    "end": 597.44,
+                    "label": "58"
+                },
+                {
+                    "start": 597.48,
+                    "end": 600.48,
+                    "label": "59"
+                },
+                {
+                    "start": 600.52,
+                    "end": 602.88,
+                    "label": "60"
+                },
+                {
+                    "start": 602.92,
+                    "end": 604.76,
+                    "label": "61"
+                },
+                {
+                    "start": 604.8,
+                    "end": 606.8,
+                    "label": "62"
+                },
+                {
+                    "start": 606.84,
+                    "end": 619.68,
+                    "label": "63"
+                },
+                {
+                    "start": 619.72,
+                    "end": 623.4,
+                    "label": "64"
+                },
+                {
+                    "start": 623.44,
+                    "end": 627.68,
+                    "label": "65"
+                },
+                {
+                    "start": 627.72,
+                    "end": 640.68,
+                    "label": "66"
+                },
+                {
+                    "start": 640.72,
+                    "end": 643.56,
+                    "label": "67"
+                },
+                {
+                    "start": 643.6,
+                    "end": 646.52,
+                    "label": "68"
+                },
+                {
+                    "start": 646.56,
+                    "end": 649.88,
+                    "label": "69"
+                },
+                {
+                    "start": 649.92,
+                    "end": 656.56,
+                    "label": "70"
+                },
+                {
+                    "start": 656.6,
+                    "end": 729.84,
+                    "label": "71"
+                },
+                {
+                    "start": 729.88,
+                    "end": 733.8,
+                    "label": "72"
+                },
+                {
+                    "start": 733.84,
+                    "end": 757.88,
+                    "label": "73"
+                },
+                {
+                    "start": 757.92,
+                    "end": 761.84,
+                    "label": "74"
+                },
+                {
+                    "start": 761.88,
+                    "end": 770.24,
+                    "label": "75"
+                },
+                {
+                    "start": 770.28,
+                    "end": 781.48,
+                    "label": "76"
+                },
+                {
+                    "start": 781.52,
+                    "end": 801.52,
+                    "label": "77"
+                },
+                {
+                    "start": 801.56,
+                    "end": 804.92,
+                    "label": "78"
+                },
+                {
+                    "start": 804.96,
+                    "end": 806.76,
+                    "label": "79"
+                },
+                {
+                    "start": 806.8,
+                    "end": 811.24,
+                    "label": "80"
+                },
+                {
+                    "start": 811.28,
+                    "end": 818.4,
+                    "label": "81"
+                },
+                {
+                    "start": 818.44,
+                    "end": 823.44,
+                    "label": "82"
+                },
+                {
+                    "start": 823.48,
+                    "end": 839.36,
+                    "label": "83"
+                },
+                {
+                    "start": 839.4,
+                    "end": 843.64,
+                    "label": "84"
+                },
+                {
+                    "start": 843.68,
+                    "end": 849.08,
+                    "label": "85"
+                },
+                {
+                    "start": 849.12,
+                    "end": 855.24,
+                    "label": "86"
+                },
+                {
+                    "start": 855.28,
+                    "end": 884.68,
+                    "label": "87"
+                },
+                {
+                    "start": 884.72,
+                    "end": 894.64,
+                    "label": "88"
+                },
+                {
+                    "start": 894.72,
+                    "end": 905.92,
+                    "label": "89"
+                },
+                {
+                    "start": 905.96,
+                    "end": 910.72,
+                    "label": "90"
+                },
+                {
+                    "start": 910.8,
+                    "end": 918.2,
+                    "label": "91"
+                },
+                {
+                    "start": 918.24,
+                    "end": 923.12,
+                    "label": "92"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:russia-ukraine",
+            "segments": [
+                {
+                    "start": 0.4,
+                    "end": 198.44,
+                    "label": "russia-ukraine"
+                }
+            ]
+        },
+        {
+            "name": "story02:kiew",
+            "segments": [
+                {
+                    "start": 198.48,
+                    "end": 371.96,
+                    "label": "kiew"
+                }
+            ]
+        },
+        {
+            "name": "story02:ukraine",
+            "segments": [
+                {
+                    "start": 372.04,
+                    "end": 591.2,
+                    "label": "ukraine"
+                }
+            ]
+        },
+        {
+            "name": "story03:Nato-ukraine",
+            "segments": [
+                {
+                    "start": 562.44,
+                    "end": 733.8,
+                    "label": "nato-ukraine"
+                }
+            ]
+        },
+        {
+            "name": "story04:russia-usa",
+            "segments": [
+                {
+                    "start": 733.84,
+                    "end": 849.08,
+                    "label": "russia-usa"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 66.64,
+                    "end": 73.96,
+                    "label": "intensify"
+                },
+                {
+                    "start": 591.24,
+                    "end": 597.44,
+                    "label": "intensify"
+                },
+                {
+                    "start": 801.56,
+                    "end": 806.76,
+                    "label": "intensify"
+                },
+                {
+                    "start": 811.28,
+                    "end": 823.44,
+                    "label": "intensify"
+                }
+            ]
+        },
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 247.04,
+                    "end": 371.96,
+                    "label": "alternating-shot"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "individualization_of_reporter",
+            "segments": [
+                {
+                    "start": 209.173,
+                    "end": 246.363,
+                    "label": "individualization_of_reporter"
+                },
+                {
+                    "start": 657.804,
+                    "end": 729.477,
+                    "label": "individualization_of_reporter"
+                }
+            ]
+        },
+        {
+            "name": "individualization_of_elite",
+            "segments": [
+                {
+                    "start": 372.04,
+                    "end": 408.56,
+                    "label": "individualization_of_elite"
+                },
+                {
+                    "start": 733.84,
+                    "end": 781.48,
+                    "label": "individualization_of_elite"
+                }
+            ]
+        },
+        {
+            "name": "emotionalization",
+            "segments": [
+                {
+                    "start": 408.83,
+                    "end": 426.38,
+                    "label": "emotionalization"
+                }
+            ]
+        }
+    ]
+}

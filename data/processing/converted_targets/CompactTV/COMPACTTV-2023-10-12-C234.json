@@ -1,0 +1,956 @@
+{
+    "video_fn": "COMPACTTV-2023-10-12-C234",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 44.44,
+                    "label": "0"
+                },
+                {
+                    "start": 44.48,
+                    "end": 51.08,
+                    "label": "1"
+                },
+                {
+                    "start": 51.12,
+                    "end": 52.68,
+                    "label": "2"
+                },
+                {
+                    "start": 52.72,
+                    "end": 58.4,
+                    "label": "3"
+                },
+                {
+                    "start": 58.44,
+                    "end": 59.72,
+                    "label": "4"
+                },
+                {
+                    "start": 59.76,
+                    "end": 62.04,
+                    "label": "5"
+                },
+                {
+                    "start": 62.08,
+                    "end": 62.52,
+                    "label": "6"
+                },
+                {
+                    "start": 62.56,
+                    "end": 69.0,
+                    "label": "7"
+                },
+                {
+                    "start": 69.04,
+                    "end": 79.88,
+                    "label": "8"
+                },
+                {
+                    "start": 79.92,
+                    "end": 81.92,
+                    "label": "9"
+                },
+                {
+                    "start": 81.96,
+                    "end": 88.88,
+                    "label": "10"
+                },
+                {
+                    "start": 88.92,
+                    "end": 98.84,
+                    "label": "11"
+                },
+                {
+                    "start": 98.88,
+                    "end": 118.64,
+                    "label": "12"
+                },
+                {
+                    "start": 118.68,
+                    "end": 121.28,
+                    "label": "13"
+                },
+                {
+                    "start": 121.32,
+                    "end": 132.0,
+                    "label": "14"
+                },
+                {
+                    "start": 132.04,
+                    "end": 134.28,
+                    "label": "15"
+                },
+                {
+                    "start": 134.32,
+                    "end": 152.44,
+                    "label": "16"
+                },
+                {
+                    "start": 152.48,
+                    "end": 154.84,
+                    "label": "17"
+                },
+                {
+                    "start": 154.88,
+                    "end": 159.12,
+                    "label": "18"
+                },
+                {
+                    "start": 159.16,
+                    "end": 161.52,
+                    "label": "19"
+                },
+                {
+                    "start": 161.56,
+                    "end": 169.72,
+                    "label": "20"
+                },
+                {
+                    "start": 169.76,
+                    "end": 176.28,
+                    "label": "21"
+                },
+                {
+                    "start": 176.32,
+                    "end": 189.52,
+                    "label": "22"
+                },
+                {
+                    "start": 189.56,
+                    "end": 199.0,
+                    "label": "23"
+                },
+                {
+                    "start": 199.04,
+                    "end": 214.64,
+                    "label": "24"
+                },
+                {
+                    "start": 214.68,
+                    "end": 223.64,
+                    "label": "25"
+                },
+                {
+                    "start": 223.68,
+                    "end": 229.52,
+                    "label": "26"
+                },
+                {
+                    "start": 229.56,
+                    "end": 236.56,
+                    "label": "27"
+                },
+                {
+                    "start": 236.6,
+                    "end": 241.96,
+                    "label": "28"
+                },
+                {
+                    "start": 242.0,
+                    "end": 245.36,
+                    "label": "29"
+                },
+                {
+                    "start": 245.4,
+                    "end": 249.72,
+                    "label": "30"
+                },
+                {
+                    "start": 249.76,
+                    "end": 252.32,
+                    "label": "31"
+                },
+                {
+                    "start": 252.36,
+                    "end": 255.52,
+                    "label": "32"
+                },
+                {
+                    "start": 255.56,
+                    "end": 257.8,
+                    "label": "33"
+                },
+                {
+                    "start": 257.839,
+                    "end": 260.56,
+                    "label": "34"
+                },
+                {
+                    "start": 260.6,
+                    "end": 263.84,
+                    "label": "35"
+                },
+                {
+                    "start": 263.88,
+                    "end": 267.28,
+                    "label": "36"
+                },
+                {
+                    "start": 267.32,
+                    "end": 271.08,
+                    "label": "37"
+                },
+                {
+                    "start": 271.12,
+                    "end": 277.72,
+                    "label": "38"
+                },
+                {
+                    "start": 277.76,
+                    "end": 282.92,
+                    "label": "39"
+                },
+                {
+                    "start": 282.96,
+                    "end": 287.68,
+                    "label": "40"
+                },
+                {
+                    "start": 287.72,
+                    "end": 295.96,
+                    "label": "41"
+                },
+                {
+                    "start": 296.0,
+                    "end": 300.32,
+                    "label": "42"
+                },
+                {
+                    "start": 300.36,
+                    "end": 305.88,
+                    "label": "43"
+                },
+                {
+                    "start": 305.92,
+                    "end": 321.92,
+                    "label": "44"
+                },
+                {
+                    "start": 321.96,
+                    "end": 323.52,
+                    "label": "45"
+                },
+                {
+                    "start": 323.56,
+                    "end": 327.8,
+                    "label": "46"
+                },
+                {
+                    "start": 327.84,
+                    "end": 331.4,
+                    "label": "47"
+                },
+                {
+                    "start": 331.44,
+                    "end": 345.44,
+                    "label": "48"
+                },
+                {
+                    "start": 345.48,
+                    "end": 348.76,
+                    "label": "49"
+                },
+                {
+                    "start": 348.8,
+                    "end": 356.8,
+                    "label": "50"
+                },
+                {
+                    "start": 356.84,
+                    "end": 363.04,
+                    "label": "51"
+                },
+                {
+                    "start": 363.08,
+                    "end": 381.56,
+                    "label": "52"
+                },
+                {
+                    "start": 381.6,
+                    "end": 386.24,
+                    "label": "53"
+                },
+                {
+                    "start": 386.28,
+                    "end": 395.76,
+                    "label": "54"
+                },
+                {
+                    "start": 395.8,
+                    "end": 398.76,
+                    "label": "55"
+                },
+                {
+                    "start": 398.8,
+                    "end": 407.44,
+                    "label": "56"
+                },
+                {
+                    "start": 407.48,
+                    "end": 424.08,
+                    "label": "57"
+                },
+                {
+                    "start": 424.12,
+                    "end": 426.56,
+                    "label": "58"
+                },
+                {
+                    "start": 426.6,
+                    "end": 445.8,
+                    "label": "59"
+                },
+                {
+                    "start": 445.84,
+                    "end": 448.08,
+                    "label": "60"
+                },
+                {
+                    "start": 448.12,
+                    "end": 460.48,
+                    "label": "61"
+                },
+                {
+                    "start": 460.52,
+                    "end": 466.44,
+                    "label": "62"
+                },
+                {
+                    "start": 466.48,
+                    "end": 466.88,
+                    "label": "63"
+                },
+                {
+                    "start": 466.92,
+                    "end": 471.6,
+                    "label": "64"
+                },
+                {
+                    "start": 471.64,
+                    "end": 490.96,
+                    "label": "65"
+                },
+                {
+                    "start": 491.0,
+                    "end": 494.92,
+                    "label": "66"
+                },
+                {
+                    "start": 494.96,
+                    "end": 503.72,
+                    "label": "67"
+                },
+                {
+                    "start": 503.76,
+                    "end": 506.52,
+                    "label": "68"
+                },
+                {
+                    "start": 506.56,
+                    "end": 515.24,
+                    "label": "69"
+                },
+                {
+                    "start": 515.28,
+                    "end": 519.6,
+                    "label": "70"
+                },
+                {
+                    "start": 519.64,
+                    "end": 528.12,
+                    "label": "71"
+                },
+                {
+                    "start": 528.16,
+                    "end": 534.64,
+                    "label": "72"
+                },
+                {
+                    "start": 534.68,
+                    "end": 543.64,
+                    "label": "73"
+                },
+                {
+                    "start": 543.68,
+                    "end": 557.56,
+                    "label": "74"
+                },
+                {
+                    "start": 557.6,
+                    "end": 559.32,
+                    "label": "75"
+                },
+                {
+                    "start": 559.36,
+                    "end": 565.2,
+                    "label": "76"
+                },
+                {
+                    "start": 565.24,
+                    "end": 597.84,
+                    "label": "77"
+                },
+                {
+                    "start": 597.88,
+                    "end": 600.64,
+                    "label": "78"
+                },
+                {
+                    "start": 600.68,
+                    "end": 607.8,
+                    "label": "79"
+                },
+                {
+                    "start": 607.84,
+                    "end": 618.6,
+                    "label": "80"
+                },
+                {
+                    "start": 618.64,
+                    "end": 630.4,
+                    "label": "81"
+                },
+                {
+                    "start": 630.44,
+                    "end": 638.0,
+                    "label": "82"
+                },
+                {
+                    "start": 638.04,
+                    "end": 661.6,
+                    "label": "83"
+                },
+                {
+                    "start": 661.64,
+                    "end": 664.96,
+                    "label": "84"
+                },
+                {
+                    "start": 665.0,
+                    "end": 692.24,
+                    "label": "85"
+                },
+                {
+                    "start": 692.28,
+                    "end": 695.92,
+                    "label": "86"
+                },
+                {
+                    "start": 695.96,
+                    "end": 711.8,
+                    "label": "87"
+                },
+                {
+                    "start": 711.84,
+                    "end": 714.4,
+                    "label": "88"
+                },
+                {
+                    "start": 714.44,
+                    "end": 719.88,
+                    "label": "89"
+                },
+                {
+                    "start": 719.92,
+                    "end": 721.8,
+                    "label": "90"
+                },
+                {
+                    "start": 721.84,
+                    "end": 726.84,
+                    "label": "91"
+                },
+                {
+                    "start": 726.88,
+                    "end": 730.48,
+                    "label": "92"
+                },
+                {
+                    "start": 730.52,
+                    "end": 746.84,
+                    "label": "93"
+                },
+                {
+                    "start": 746.88,
+                    "end": 748.52,
+                    "label": "94"
+                },
+                {
+                    "start": 748.56,
+                    "end": 758.2,
+                    "label": "95"
+                },
+                {
+                    "start": 758.24,
+                    "end": 760.84,
+                    "label": "96"
+                },
+                {
+                    "start": 760.88,
+                    "end": 777.68,
+                    "label": "97"
+                },
+                {
+                    "start": 777.72,
+                    "end": 812.96,
+                    "label": "98"
+                },
+                {
+                    "start": 813.0,
+                    "end": 820.64,
+                    "label": "99"
+                },
+                {
+                    "start": 820.68,
+                    "end": 849.16,
+                    "label": "100"
+                },
+                {
+                    "start": 849.2,
+                    "end": 851.52,
+                    "label": "101"
+                },
+                {
+                    "start": 851.56,
+                    "end": 856.64,
+                    "label": "102"
+                },
+                {
+                    "start": 856.68,
+                    "end": 859.8,
+                    "label": "103"
+                },
+                {
+                    "start": 859.84,
+                    "end": 861.48,
+                    "label": "104"
+                },
+                {
+                    "start": 861.52,
+                    "end": 870.84,
+                    "label": "105"
+                },
+                {
+                    "start": 870.88,
+                    "end": 872.52,
+                    "label": "106"
+                },
+                {
+                    "start": 872.56,
+                    "end": 877.96,
+                    "label": "107"
+                },
+                {
+                    "start": 878.0,
+                    "end": 879.72,
+                    "label": "108"
+                },
+                {
+                    "start": 879.76,
+                    "end": 895.2,
+                    "label": "109"
+                },
+                {
+                    "start": 895.24,
+                    "end": 897.28,
+                    "label": "110"
+                },
+                {
+                    "start": 897.32,
+                    "end": 902.12,
+                    "label": "111"
+                },
+                {
+                    "start": 902.16,
+                    "end": 915.56,
+                    "label": "112"
+                },
+                {
+                    "start": 915.6,
+                    "end": 934.2,
+                    "label": "113"
+                },
+                {
+                    "start": 934.24,
+                    "end": 942.4,
+                    "label": "114"
+                },
+                {
+                    "start": 942.44,
+                    "end": 947.48,
+                    "label": "115"
+                },
+                {
+                    "start": 947.52,
+                    "end": 949.96,
+                    "label": "116"
+                },
+                {
+                    "start": 950.0,
+                    "end": 962.8,
+                    "label": "117"
+                },
+                {
+                    "start": 962.84,
+                    "end": 979.04,
+                    "label": "118"
+                },
+                {
+                    "start": 979.08,
+                    "end": 982.6,
+                    "label": "119"
+                },
+                {
+                    "start": 982.64,
+                    "end": 987.08,
+                    "label": "120"
+                },
+                {
+                    "start": 987.12,
+                    "end": 1010.72,
+                    "label": "121"
+                },
+                {
+                    "start": 1010.76,
+                    "end": 1013.84,
+                    "label": "122"
+                },
+                {
+                    "start": 1013.88,
+                    "end": 1024.72,
+                    "label": "123"
+                },
+                {
+                    "start": 1024.76,
+                    "end": 1028.04,
+                    "label": "124"
+                },
+                {
+                    "start": 1028.079,
+                    "end": 1051.04,
+                    "label": "125"
+                },
+                {
+                    "start": 1051.08,
+                    "end": 1054.32,
+                    "label": "126"
+                },
+                {
+                    "start": 1054.36,
+                    "end": 1068.08,
+                    "label": "127"
+                },
+                {
+                    "start": 1068.12,
+                    "end": 1073.4,
+                    "label": "128"
+                },
+                {
+                    "start": 1073.44,
+                    "end": 1078.84,
+                    "label": "129"
+                },
+                {
+                    "start": 1078.88,
+                    "end": 1115.96,
+                    "label": "130"
+                },
+                {
+                    "start": 1116.04,
+                    "end": 1127.76,
+                    "label": "131"
+                },
+                {
+                    "start": 1127.88,
+                    "end": 1132.56,
+                    "label": "132"
+                },
+                {
+                    "start": 1132.6,
+                    "end": 1133.12,
+                    "label": "133"
+                },
+                {
+                    "start": 1133.16,
+                    "end": 1133.92,
+                    "label": "134"
+                },
+                {
+                    "start": 1133.96,
+                    "end": 1135.0,
+                    "label": "135"
+                },
+                {
+                    "start": 1135.04,
+                    "end": 1135.8,
+                    "label": "136"
+                },
+                {
+                    "start": 1135.84,
+                    "end": 1136.48,
+                    "label": "137"
+                },
+                {
+                    "start": 1136.52,
+                    "end": 1137.72,
+                    "label": "138"
+                },
+                {
+                    "start": 1137.76,
+                    "end": 1138.52,
+                    "label": "139"
+                },
+                {
+                    "start": 1138.56,
+                    "end": 1139.2,
+                    "label": "140"
+                },
+                {
+                    "start": 1139.24,
+                    "end": 1139.84,
+                    "label": "141"
+                },
+                {
+                    "start": 1139.88,
+                    "end": 1140.6,
+                    "label": "142"
+                },
+                {
+                    "start": 1140.64,
+                    "end": 1141.28,
+                    "label": "143"
+                },
+                {
+                    "start": 1141.32,
+                    "end": 1142.52,
+                    "label": "144"
+                },
+                {
+                    "start": 1142.56,
+                    "end": 1143.28,
+                    "label": "145"
+                },
+                {
+                    "start": 1143.32,
+                    "end": 1143.96,
+                    "label": "146"
+                },
+                {
+                    "start": 1144.0,
+                    "end": 1146.0,
+                    "label": "147"
+                },
+                {
+                    "start": 1146.04,
+                    "end": 1146.92,
+                    "label": "148"
+                },
+                {
+                    "start": 1146.96,
+                    "end": 1148.2,
+                    "label": "149"
+                },
+                {
+                    "start": 1148.24,
+                    "end": 1159.4,
+                    "label": "150"
+                },
+                {
+                    "start": 1159.44,
+                    "end": 1169.4,
+                    "label": "151"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:illegal-immigration",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 1132.56,
+                    "label": "illegal-immigration"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "cut-away",
+            "segments": [
+                {
+                    "start": 44.48,
+                    "end": 62.04,
+                    "label": "cut-away"
+                }
+            ]
+        },
+        {
+            "name": "shot-reverse-shot",
+            "segments": [
+                {
+                    "start": 69.04,
+                    "end": 88.88,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 98.88,
+                    "end": 169.72,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 176.32,
+                    "end": 199.0,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 282.96,
+                    "end": 327.8,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 331.44,
+                    "end": 356.8,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 363.08,
+                    "end": 407.44,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 424.12,
+                    "end": 460.48,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 557.6,
+                    "end": 607.8,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 618.64,
+                    "end": 726.84,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 730.52,
+                    "end": 758.2,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 856.68,
+                    "end": 877.96,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 879.76,
+                    "end": 902.12,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 942.44,
+                    "end": 962.8,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 979.08,
+                    "end": 1024.72,
+                    "label": "shot-reverse-shot"
+                },
+                {
+                    "start": 1028.079,
+                    "end": 1068.08,
+                    "label": "shot-reverse-shot"
+                }
+            ]
+        },
+        {
+            "name": "cut-away",
+            "segments": [
+                {
+                    "start": 229.56,
+                    "end": 257.8,
+                    "label": "cut-away"
+                },
+                {
+                    "start": 528.16,
+                    "end": 557.56,
+                    "label": "cut-away"
+                }
+            ]
+        },
+        {
+            "name": "cut-in",
+            "segments": [
+                {
+                    "start": 255.56,
+                    "end": 263.84,
+                    "label": "cut-in"
+                },
+                {
+                    "start": 760.88,
+                    "end": 812.96,
+                    "label": "cut-in"
+                }
+            ]
+        },
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 242.0,
+                    "end": 255.52,
+                    "label": "alternating-shot"
+                }
+            ]
+        },
+        {
+            "name": "alternating-shot",
+            "segments": [
+                {
+                    "start": 519.64,
+                    "end": 557.56,
+                    "label": "alternating-shot"
+                }
+            ]
+        },
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 777.72,
+                    "end": 820.64,
+                    "label": "intensify"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "fragmentation",
+            "segments": [
+                {
+                    "start": 229.56,
+                    "end": 271.08,
+                    "label": "fragmentation"
+                },
+                {
+                    "start": 528.16,
+                    "end": 557.56,
+                    "label": "fragmentation"
+                },
+                {
+                    "start": 849.2,
+                    "end": 859.8,
+                    "label": "fragmentation"
+                }
+            ]
+        }
+    ]
+}

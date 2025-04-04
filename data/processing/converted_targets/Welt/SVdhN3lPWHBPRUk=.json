@@ -1,0 +1,211 @@
+{
+    "video_fn": "SVdhN3lPWHBPRUk=",
+    "shots": [
+        {
+            "name": "shots",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 30.24,
+                    "label": "0"
+                },
+                {
+                    "start": 30.28,
+                    "end": 34.16,
+                    "label": "1"
+                },
+                {
+                    "start": 34.2,
+                    "end": 37.36,
+                    "label": "2"
+                },
+                {
+                    "start": 37.4,
+                    "end": 40.96,
+                    "label": "3"
+                },
+                {
+                    "start": 41.0,
+                    "end": 43.64,
+                    "label": "4"
+                },
+                {
+                    "start": 43.68,
+                    "end": 46.6,
+                    "label": "5"
+                },
+                {
+                    "start": 46.64,
+                    "end": 48.88,
+                    "label": "6"
+                },
+                {
+                    "start": 48.92,
+                    "end": 67.52,
+                    "label": "7"
+                },
+                {
+                    "start": 67.56,
+                    "end": 70.6,
+                    "label": "8"
+                },
+                {
+                    "start": 70.64,
+                    "end": 73.6,
+                    "label": "9"
+                },
+                {
+                    "start": 73.64,
+                    "end": 76.88,
+                    "label": "10"
+                },
+                {
+                    "start": 76.92,
+                    "end": 79.52,
+                    "label": "11"
+                },
+                {
+                    "start": 79.56,
+                    "end": 86.52,
+                    "label": "12"
+                },
+                {
+                    "start": 86.56,
+                    "end": 90.52,
+                    "label": "13"
+                },
+                {
+                    "start": 90.56,
+                    "end": 93.08,
+                    "label": "14"
+                },
+                {
+                    "start": 93.12,
+                    "end": 95.88,
+                    "label": "15"
+                },
+                {
+                    "start": 95.92,
+                    "end": 98.44,
+                    "label": "16"
+                },
+                {
+                    "start": 98.48,
+                    "end": 112.04,
+                    "label": "17"
+                },
+                {
+                    "start": 112.08,
+                    "end": 114.8,
+                    "label": "18"
+                },
+                {
+                    "start": 114.84,
+                    "end": 117.84,
+                    "label": "19"
+                },
+                {
+                    "start": 117.88,
+                    "end": 122.48,
+                    "label": "20"
+                },
+                {
+                    "start": 122.52,
+                    "end": 124.8,
+                    "label": "21"
+                },
+                {
+                    "start": 124.84,
+                    "end": 126.6,
+                    "label": "22"
+                },
+                {
+                    "start": 126.64,
+                    "end": 130.52,
+                    "label": "23"
+                },
+                {
+                    "start": 130.56,
+                    "end": 156.16,
+                    "label": "24"
+                },
+                {
+                    "start": 156.2,
+                    "end": 171.92,
+                    "label": "25"
+                },
+                {
+                    "start": 171.96,
+                    "end": 186.4,
+                    "label": "26"
+                },
+                {
+                    "start": 186.44,
+                    "end": 220.96,
+                    "label": "27"
+                },
+                {
+                    "start": 221.0,
+                    "end": 224.32,
+                    "label": "28"
+                },
+                {
+                    "start": 224.36,
+                    "end": 246.6,
+                    "label": "29"
+                },
+                {
+                    "start": 246.64,
+                    "end": 318.56,
+                    "label": "30"
+                },
+                {
+                    "start": 318.6,
+                    "end": 338.56,
+                    "label": "31"
+                }
+            ]
+        }
+    ],
+    "story": [
+        {
+            "name": "story01:usa-support-ukraine-war",
+            "segments": [
+                {
+                    "start": 0.0,
+                    "end": 318.56,
+                    "label": "usa-support-ukraine-war"
+                }
+            ]
+        }
+    ],
+    "FEP": [
+        {
+            "name": "intensify",
+            "segments": [
+                {
+                    "start": 43.68,
+                    "end": 48.88,
+                    "label": "intensify"
+                },
+                {
+                    "start": 79.56,
+                    "end": 90.52,
+                    "label": "intensify"
+                }
+            ]
+        }
+    ],
+    "Strategy": [
+        {
+            "name": "fragmentation_splitscreen",
+            "segments": [
+                {
+                    "start": 171.96,
+                    "end": 220.96,
+                    "label": "fragmentation_splitscreen"
+                }
+            ]
+        }
+    ]
+}
